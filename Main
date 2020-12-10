@@ -1,0 +1,21 @@
+{
+	"name": "สารานุกรมรัก",
+	"author": "By isatnarok",
+	"image": "https://cdna.artstation.com/p/assets/images/images/007/617/482/medium/andre-andre-7625f757501029-59d89d23780c5.jpg",
+	"url": "",
+	"groups": [
+	
+
+
+	       {
+			"name": "IPTV",
+			"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+			"url": "",
+			"import": false
+		},
+	       {
+			"name": "SPORT",
+			"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+			"url": "",
+			"import": false
+		},
