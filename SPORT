@@ -1,323 +1,254 @@
-    { 
-   "name": "SPORT TV",
-   "author": "By isatnarok",
-   "url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/SPORT",
-   "image": "https://www.img.in.th/images/259c118e94fbe5d822e5665a78ae44ab.jpg",
-   "groups": [   
-    { 
-      "name": "SPORT", 
-      "image": "https://i.pinimg.com/originals/df/6b/02/df6b0274ef07c195f32a2a7a7e7556e6.png",       
-      "stations": [
-    {
-       "name": "ไอดี สเตชั่น",
-       "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-       "url": "https://bit.ly/3qzq1rr",
-       "import": false           		    
-},
-    {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
-         "import": false
+{
+"name": "กีฬารอบโลก",
+"author": "By isatnarok",
+"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/worldsports",
+"stations": [
 
+{
+"name": "Sky Sports Premiere League",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
 },
-     {	 
-         "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
+{
+"name": "Sky Premiere League สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportpremiere",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
 },
-    {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://la-4.cdn-streaming.live/live/truepremier1/playlist.m3u8", 
-         "import": false
+{
+"name": "Sky Sports Main Event",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
 },
-    {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://www.doonung1234.com/match/view/7632/epl1backup","referer": "https://www.doonung1234.com/"
+{
+"name": "Sky Main Event สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmainevent",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
 },
-     {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf1/sport/tpf1_480/chunks.m3u8","referer": "https://andaman888th.com/" 
+{
+"name": "Sky Sports Football",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Football สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportfootball",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Action",  
+"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Action สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportaction",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Arena",  
+"image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Cricket",  
+"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Cricket สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportclicket",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports F1",  
+"image": "http://runnel.ir/ax/logo/sky-sports-f1.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Golf",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Golf สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportgolf",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Mix",  
+"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Mix สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmix",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News DE",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News IT",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sport Bundesliga",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports 1 DE",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports 2 DE",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 1",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 2",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 3",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1 สำรอง",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=231",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2 สำรอง",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=232",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport 2",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport 3",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport 4",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
 
-},
-     {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
-         "referer": "https://dooball66.com/",  
-        "playInNatPlayer": "true"
-},
-     {
-       "name":"True Premier Football HD 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf2/sport/tpf2-sp/chunks.m3u8","referer": "https://andaman888th.com/"
-},
-     {
-       "name":"True Premier Football HD 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://ip2121.com/web/truepremier2/chunks.m3u8", 
-         "import": false
 
-},
-     {
-       "name":"True Premier Football HD 3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	 "url": "https://ip2121.com/web/truepremier3/chunks.m3u8", 
-         "import": false
 
-},
-     {
-       "name":"True Premier Football HD 4",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-	 "url": "https://ip2121.com/web/truepremier4/chunks.m3u8", 
-         "import": false
 
+{
+"name": "Bein Sports 1 AR",  
+"image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
 },
-     {
-       "name":"True Premier Football HD 5",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": "https://ip2121.com/web/truepremier5/chunks.m3u8", 
-         "import": false
+{
+"name": "Bein Sports 2 AR",  
+"image": "http://runnel.ir/ax/logo/beIN2-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
 },
-     {	 
-         "name":"True Sport HD",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
-},
-     {
-       "name":"True Sport HD",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://ip2121.com/web/tsp1/chunks.m3u8", 
-         "import": false
-},
-     {
-       "name":"True Sport HD",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport1_720/index.m3u8","referer": "https://doomovie.com/" 
-         
-},
-     {
-       "name":"True Sport HD2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://ip2121.com/web/tsp2/chunks.m3u8", 
-         "import": false
-},
-     {	 
-         "name":"True Sport HD2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
-},
-     {
-       "name":"True Sport HD2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport2_720/index.m3u8","referer": "https://doomovie.com/" 
-},
-     {	 
-         "name":"True Sport HD3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=thd3&cate=sport","referer": "https://ballnaka.tv/"
- },
-     {
-       "name":"True Sport HD3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://ip2121.com/web/tsp3/chunks.m3u8", 
-         "import": false       
-},
-     {
-       "name":"True Sport HD3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport3_720/index.m3u8","referer": "https://doomovie.com/" 
-},
-     {
-       "name":"True Sport HD4",
-        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-	 "url": "https://live.andaman888th.com/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://andaman888th.com/" 
-},
-     {
-       "name":"True Sport HD4",
-        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport4_720/index.m3u8","referer": "https://doomovie.com/" 
-},
-     {
-       "name":"NBA TV",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-	 "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports","referer": "https://player.we-play.tv"
-},
-     {
-       "name":"NBA TV",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-nba_720/index.m3u8","referer": "https://doomovie.com/"
-},
-     {
-       "name":"NBA TV",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=nba&cate=sport","referer": "https://player.ballnaka.tv"
-},
-     {
-       "name":"TRUE TENNIS",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=tennis&cate=sport","referer": "https://player.ballnaka.tv"
-},
-     {
-       "name":"TRUE TENNIS",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
-	 "url": "https://player.we-play.tv/channel.php?name=tennis&cate=sports","referer": "https://player.we-play.tv"
-},
-     {
-       "name":"GOLF CHANNEL",
-        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-	 "url": "https://doomovielive.b-cdn.net/hd-golf_720/index.m3u8","referer": "https://doomovie.com/" 
-},
-     {
-       "name":"GOLF CHANNEL",
-        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-	 "url": "https://player.ballnaka.tv/?channel=golf&cate=sport","referer": "https://player.ballnaka.tv"
-},
-     {
-       "name":"NFL NETWORK",
-        "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
-	 "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport","referer": "https://player.ballnaka.tv"
-},
-     {
-       "name":"NFL NETWORK",
-        "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
-	 "url": "https://doomovielive.b-cdn.net/hd-nfl_720/index.m3u8","referer": "https://doomovie.com/" 
- 
-},
-     {
-       "name":"Motor Vision",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-	 "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports","referer": "https://player.we-play.tv"
-},
-   {
-      "name": "Motor Vision",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-      "url": "https://boxmovielive.com/live/moio.m3u8",
-       "import": false 
-},
-  {
-       "name":"True Sport 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true2.jpg",
-	"url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports","referer": "https://player.we-play.tv" 
-         
-},
-  {
-       "name":"True Sport 5",
-       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true5.jpg",
-       "url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports","referer": "https://player.we-play.tv"
-},
-  {
-       "name":"True Sport 6",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true6.jpg",
-	 "url": "https://player.we-play.tv/channel.php?name=tsp6&cate=sports","referer": "https://player.we-play.tv"
-},
-  {
-       "name":"True Sport 7",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true7.jpg",
-	 "url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports","referer": "https://player.we-play.tv"
-},
-{ 
-          "name": "FOX Sports HD",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "https://player.we-play.tv/channel.php?name=fox1&cate=sports","referer": "https://player.we-play.tv"
-},
-{ 
-          "name": "FOX Sports HD",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "https://live.vvipscore.com/vvipscore_app/fox1/chunks.m3u8","referer": "https://vvipscore.com/"
-},
-{ 
-          "name": "FOX Sports HD",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "https://www.doofootball.com/live/streaming/foxsporthd/575865","referer": "https://www.doofootball.com/"
-},
-{ 
-          "name": "FOX Sports 2",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "https://live.vvipscore.com/vvipscore_app/fox2/chunks.m3u8","referer": "https://vvipscore.com/"
-},
-     {
-       "name":"FOX Sports 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=fox2&cate=sport","referer": "https://player.ballnaka.tv"
-},
- { 
-          "name": "FOX Sports 2",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports","referer": "https://player.we-play.tv"
-},
- { 
-          "name": "FOX Sports 2",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "https://www.doofootball.com/live/streaming/foxsport2/575866","referer": "https://www.doofootball.com/"
-},
-     {
-       "name":"FOX Sports 3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=fox3&cate=sport","referer": "https://player.ballnaka.tv"
-},
- { 
-            "name": "FOX Sports 3",
-            "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
-            "url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports","referer": "https://player.we-play.tv"
-},
- { 
-                "name": "FOX Sports 3",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
-               "url": "https://bit.ly/376eNSq","referer": "https://www.doofootball.com/"
-},
- { 
-                "name": "Bein 1",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
-               "url": "https://player.ballnaka.tv/?channel=bein1&cate=sport","referer": "https://ballnaka.tv/"
-},
- { 
-                "name": "Bein 1",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
-               "url": "https://player.we-play.tv/channel.php?name=bein1&cate=sports","referer": "https://player.we-play.tv"
-
-},
- { 
-                "name": "Bein 1",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
-               "url": "https://cdn1.ufalive.center/zonedooball/bein1/chunks.m3u8","referer" :"https://www.zonedooball.com/"
-},
-  { 
-               "name": "Bein 2",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",              
-               "url": "https://www.andaman888th.com/ดูบอลออนไลน์/beinsport2/","referer": "https://www.andaman888th.com",
-	       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-},
- { 
-                "name": "Bein 2",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",              
-               "url": "https://www.doofootball.com/live/streaming/bein2/609911","referer" :"https://www.doofootball.com/"
-},
- { 
-                "name": "Bein 2",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
-                "url": "https://player.we-play.tv/channel.php?name=bein2&cate=sports","referer": "https://player.we-play.tv"
-
-},
- { 
-                "name": "Bein 2",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
-                "url": "https://cdn1.ufalive.center/zonedooball/bein2/chunks.m3u8","referer" :"https://www.zonedooball.com" 
-},
- { 
-                "name": "Bein 2",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
-                "url": "https://www.doonung1234.com/match/view/7641/bein2","referer" :"https://www.doonung1234.com/" 
-},
- {
-      "name": "hisport",
-      "image": "https://bit.ly/2KTEqP3",
-      "url": "http://203.154.243.31:8081/live/hisport/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
- },
-]
-}     
