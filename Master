@@ -5,114 +5,16 @@
 "url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/Master",
 "groups": [
 
-
-
 {
-"name": "ช่องดิจิตอล ทีวีไทย",
-"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
-"url": "http://tiny.cc/thaitvv",
-"import": false
-},
-{
-"name": "กีฬา ทรูสปอร์ต",
-"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
-"url": "http://tiny.cc/truesports",
-"import": false
-},
-{
-"name": "กีฬารอบโลก",
-"image": "https://www.helloindia.co/companyimages/15128/1.png",
-"url": "http://tiny.cc/worldsports",
-"import": false
-},
-{
-"name": "ช่องหนังและซีรีส์",
-"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
-"url": "http://tiny.cc/entertainment01",
-"import": false
-},
-{
-"name": "ช่องสารคดี",
-"image": "https://yt3.ggpht.com/ytc/AAUvwnjc0xOCTYxnvlMP3XBaL0Seyj3GVz2f0sDz9qFq=s900-c-k-c0x00ffffff-no-rj",
-"url": "http://tiny.cc/docs01",
-"import": false
-},
-{
-"name": "ช่องสำหรับเด็ก",
-"image": "https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png",
-"url": "http://tiny.cc/kids01",
-"import": false
-},
-{
-"name": "ข่าวต่างประเทศ",
-"image": "https://play-lh.googleusercontent.com/dQRtm2IQi-73qRiQTfQtTiCU5cfnjNlBtTsi1qn0pq83pKCXR71299eMXryq89KLUtvl=s180-rw",
-"url": "http://tiny.cc/worldnews01",
-"import": false
-},	
-{
-"name": "UK TV",
-"image": "https://i.gifer.com/7ASc.gif",
-"url": "http://tiny.cc/UKTV",
-"import": false
-},	
-{
-"name": "USA TV",
-"image": "https://i.gifer.com/7hfV.gif",
-"url": "http://tiny.cc/USATV",
-"import": false
-},	
-{
-"name": "อาเซียน ทีวี",
-"image": "https://image.freepik.com/free-vector/asean-membership_18981-201.jpg",
-"url": "http://tiny.cc/aseantv",
-"import": false
-},
-{
-"name": "สถานีเพลง",
-"image": "https://f.ptcdn.info/292/051/000/oq8zw31gm17e3skiSK0-o.png",
-"url": "http://tiny.cc/musiconly",
-"import": false
-},
-{
-"name": "Music Choice",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://tiny.cc/mchoice",
-"import": false
-},
-{
-"name": "เรียนทางไกล",
-"image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
-"url": "http://tiny.cc/educationz",
-"import": false
-},
-{
-"name": "หนังไทย",
-"image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
-"url": "http://tiny.cc/thaimovie",
-"import": false
-},
-{
-"name": "หนังต่างประเทศ",
-"image": "https://www.pellegrino.com.br/sites/default/files/world%20film.jpg",
-"url": "http://tiny.cc/worldmovie",
-"import": false
-},	
-{
-"name": "ANIMATION MOVIES",
-"image": "https://i.imgur.com/FwbJq4q.jpg",
-"url": "http://tiny.cc/m_cartoons",
-"import": false
-},
-{
-"name": "หนังดังยอดฮิต",
+"name": "IPTV",
 "image": "https://static.wikia.nocookie.net/logopedia/images/a/a8/HiT_Movies_Logo.png",
-"url": "http://tiny.cc/hitzmovies",
+"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/IPTV",
 "import": false
 },
 {
-"name": "หนังที่ผมชอบ",
+"name": "SPORT TV",
 "image": "https://assets.website-files.com/5c87e2843af90394906e4545/5c87e73db774e4a2d4202a71_LOGO-p-800.png",
-"url": "http://tiny.cc/mymov",
+"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/SPORT",
 "import": false
 },
 
