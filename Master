@@ -1,24 +1,97 @@
-{
-"name": "WisePlay",
-"author": By isatnarok",
-"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
-"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/Master",
+{"name": "ThalangIPTV",
+"author": "By isatnarok",
+"url": "https://pastebin.com/raw/zReK1Pys",
+"image": "https://toonee.tv/images/TV-ani.gif",
+"contact": "wichaiwut@hotmail.com",
+"info": "ลองหัดทำเล่นๆ ",
 "groups": [
-
-{
-"name": "IPTV",
-"image": "https://static.wikia.nocookie.net/logopedia/images/a/a8/HiT_Movies_Logo.png",
-"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/IPTV",
-"import": false
+{"name": "ทีวีดิจิตอล",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrHe5m2ul1CY2LylhqqJA8PK_o0Xg8zID_A&usqp=CAU",
+"url": "https://pastebin.com/raw/saRaUxwq"
 },
-{
-"name": "SPORT TV",
-"image": "https://assets.website-files.com/5c87e2843af90394906e4545/5c87e73db774e4a2d4202a71_LOGO-p-800.png",
-"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/SPORT",
-"import": false
+{"name": "กีฬา",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs86K0h6cfMU-_wN10_ro3fXxE_GuOuttyBA&usqp=CAU",
+"url": "https://pastebin.com/raw/Kvg2861U"
 },
-
-
-
+{"name": "อาณาจักร Marvel",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://media2.giphy.com/media/vBjLa5DQwwxbi/giphy.gif?cid=ecf05e476gvn286lec2ltvfpnlm4d2g3b0ik6rk2dv40ulgs&rid=giphy.gif",
+"url": "https://pastebin.com/raw/ihsDaHJE"
+},
+{"name": "ทีวีดาวเทียม",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrJkxiV7PZ4JEXafQSsqCWUevesV8Cz-zRQ&usqp=CAU",
+"url": "https://pastebin.com/raw/3JztVBGT"
+},
+{"name": "18+",
+"author": "ช่างต่อ ดาวเทียม",
+"image": "https://i.imgur.com/oYFRRbE.gif",
+"url": "https://pastebin.com/raw/HCMSGckk"
+},
+{"name": "🎭ดู ซีรีย์🎭",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://49.media.tumblr.com/bbb93ef5707b22c3b2c1d1bb65458840/tumblr_o3p4qeDewl1r7e5leo1_1280.gif",
+"url": "https://pastebin.com/raw/hVf99aVy"
+},
+{"name": "รวมหนัง",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
+"groups": [
+{"name": "หนังใหม่",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
+"url": "https://dl.dropbox.com/s/0x5sn9xg4hi9i92/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt",
+"import": false},
+{"name": "หนัง",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://media.tenor.com/images/b5c5a96d808f3353f718ccc49e48b6aa/tenor.gif",
+"url": "http://tiny.cc/AMOVIE",
+"import": false},
+{"name": "หนังไทย",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeYi5hPCThLaLnQmiA9aqkgP-1MNcaqN8qw&usqp=CAU",
+"url": "https://pastebin.com/PwrHgrKC",
+"import": false},
+{"name": "การ์ตูน",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeYi5hPCThLaLnQmiA9aqkgP-1MNcaqN8qw&usqp=CAU",
+"url": "http://tiny.cc/ctoon",
+"import": false}
+]
+},
+{"name": "หนัง 1",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
+"url": "https://pastebin.com/raw/kxGL5vXG"
+},
+{"name": "หนัง 2",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
+"url": "https://pastebin.com/raw/GuyXgvHW",
+"import":false
+},
+{"name": "หนัง 3",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
+"groups": [
+{"name": "หนังไทย",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJGVWKFZlPJkSFM8gSWDfu5oyZJY_l6vNKA&usqp=CAU",
+"url": "http://tiny.cc/thaimovie",
+"import": false},
+{"name": "หนังต่างประเทศ",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJGVWKFZlPJkSFM8gSWDfu5oyZJY_l6vNKA&usqp=CAU",
+"url": "http://tiny.cc/worldmovie",
+"import": false},
+{"name": "หนังการ์ตูน",
+"author": "=ช่างต่อ ดาวเทียม",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFzQ-eVjTBXlwggzfsWoivQq_b2rw_F60FQ&usqp=CAU",
+"url": "http://tiny.cc/m_cartoons",
+"import": false},
+]
+},
 ]
 }
