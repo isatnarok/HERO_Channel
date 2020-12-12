@@ -1129,7 +1129,7 @@
 {
      "name": "FW",
      "image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png",              
-     "url": "https://www.fwiptv.cc/demo.php","embed": "true",
+     "url": "https://www.fwiptv.cc/player_demo.php?channel=89782","embed": "true",
      "playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
      },
