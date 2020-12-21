@@ -5,40 +5,10 @@
 "contact": "wichaiwut@hotmail.com",
 "info": "",
 "groups": [
-{"name": "ทีวีดิจิตอล",
-"author": "=By isatnarok",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrHe5m2ul1CY2LylhqqJA8PK_o0Xg8zID_A&usqp=CAU",
-"url": "https://pastebin.com/raw/saRaUxwq"
-},
 {"name": "IPTV",
 "author": "=By isatnarok",
 "image": "https://www.img.in.th/images/259c118e94fbe5d822e5665a78ae44ab.jpg",
 "url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/IPTV"
-},
-{"name": "กีฬา",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs86K0h6cfMU-_wN10_ro3fXxE_GuOuttyBA&usqp=CAU",
-"url": "https://pastebin.com/raw/Kvg2861U"
-},
-{"name": "อาณาจักร Marvel",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://media2.giphy.com/media/vBjLa5DQwwxbi/giphy.gif?cid=ecf05e476gvn286lec2ltvfpnlm4d2g3b0ik6rk2dv40ulgs&rid=giphy.gif",
-"url": "https://pastebin.com/raw/ihsDaHJE"
-},
-{"name": "ทีวีดาวเทียม",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrJkxiV7PZ4JEXafQSsqCWUevesV8Cz-zRQ&usqp=CAU",
-"url": "https://pastebin.com/raw/3JztVBGT"
-},
-{"name": "18+",
-"author": "ช่างต่อ ดาวเทียม",
-"image": "https://i.imgur.com/oYFRRbE.gif",
-"url": "https://pastebin.com/raw/HCMSGckk"
-},
-{"name": "🎭ดู ซีรีย์🎭",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://49.media.tumblr.com/bbb93ef5707b22c3b2c1d1bb65458840/tumblr_o3p4qeDewl1r7e5leo1_1280.gif",
-"url": "https://pastebin.com/raw/hVf99aVy"
 },
 {"name": "รวมหนัง",
 "author": "=ช่างต่อ ดาวเทียม",
@@ -65,17 +35,6 @@
 "url": "http://tiny.cc/ctoon",
 "import": false}
 ]
-},
-{"name": "หนัง 1",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
-"url": "https://pastebin.com/raw/kxGL5vXG"
-},
-{"name": "หนัง 2",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
-"url": "https://pastebin.com/raw/GuyXgvHW",
-"import":false
 },
 {"name": "หนัง 3",
 "author": "=ช่างต่อ ดาวเทียม",
