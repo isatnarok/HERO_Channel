@@ -137,6 +137,8 @@ https://laos-tech-live.b-cdn.net/sd-bbcearth_720/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1,OUTSIDE
 https://outsidetv-roku-us.amagi.tv/playlist.m3u8 
+#EXTINF:-1,OUTDOOR Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1,WAYPOINT
 https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8 
 #EXTINF:-1,THE​ PET
