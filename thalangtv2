@@ -1,0 +1,3074 @@
+#EXTM3U URL
+#EXTINF:-1,5 HD
+https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8
+#EXTINF:-1,NBT HD
+https://cdn6.goprimetime.info//feed//chnbt//index.m3u8
+#EXTINF:-1,THAIPBS
+https://cdn6.goprimetime.info//feed//chthaipbs//index.m3u8
+#EXTINF:-1,TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1,TNN16
+https://cdn6.goprimetime.info//feed//chtnn//index.m3u8
+#EXTINF:-1 ,NEW TV
+https://www.livedoomovies.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1,NATION TV
+https://cdn6.goprimetime.info//feed//chnation//index.m3u8
+#EXTINF:-1,WORKPOINT
+https://cdn6.goprimetime.info//feed//chworkpoint//index.m3u8
+#EXTINF:-1 ,TRUE4U
+https://cdn6.goprimetime.info//feed//chtrue4u//index.m3u8
+#EXTINF:-1,GMM25
+https://cdn6.goprimetime.info//feed//chgmm//index.m3u8
+#EXTINF:-1,CH8
+https://cdn6.goprimetime.info//feed//ch8//index.m3u8
+#EXTINF:-1,MONO29 HD
+https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+#EXTINF:-1,MCOT HD
+https://cdn6.goprimetime.info//feed//chmcothd//index.m3u8
+#EXTINF:-1,ONE HD
+https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
+#EXTINF:-1,THAIRATH HD
+https://cdn6.goprimetime.info//feed//chthairath//index.m3u8
+#EXTINF:-1,3 HD
+https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8
+#EXTINF:-1,AMARIN HD
+https://cdn6.goprimetime.info//feed//chamarin//index.m3u8
+#EXTINF:-1,7 HD
+https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
+#EXTINF:-1,PPTV HD 
+https://cdn6.goprimetime.info//feed//chpptvhd//index.m3u8
+#EXTINF:-1,NEWS1
+https://www.livedoomovie.com/02_NEWS1_480p/chunklist.m3u8
+#EXTINF:-1,ฟ้าวันใหม่
+https://www.livedoomovie.com/02_ADintrend_TV_720p/chunklist.m3u8
+#EXTINF:-1,JKN
+https://cdn6.goprimetime.info/feed/LC24/index.m3u8
+EXTINF:-1,Style HD
+https://cdn6.goprimetime.info/feed/LC25/index.m3u8
+#EXTINF:-1,Nick Jr
+https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
+#EXTINF:-1,TOONEE
+https://cdn6.goprimetime.info/feed/LC23/index.m3u8 
+#EXTINF:-1,BOOMERANG
+https://laos-tech-live.b-cdn.net/sd-boomerang_480/index.m3u8 
+#EXTINF:-1,Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,DisneyXD
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,DISNEYXD1
+https://doofootball.livestream-cdn.com/iptv/hd-disneyxd.stream/chunks.m3u8
+#EXTINF:-1,True Spark Jump
+https://laos-tech-live.b-cdn.net/sd-sparkjump_480/index.m3u8
+#EXTINF:-1,SPARKJUMP
+https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/chunks.m3u8
+#EXTINF:-1,True Spark Play
+https://laos-tech-live.b-cdn.net/sd-sparkplay_480/index.m3u8
+#EXTINF:-1,True Spark Play
+https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/chunks.m3u8
+EXTINF:-1,Nickelodeon
+http://196.52.105.132/a-play/nickelodeon1.php
+#EXTINF:-1,Nick Jr
+https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
+#EXTINF:-1,Kidzone
+http://213.252.252.17/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1,Gang Cartoon
+https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
+#EXTINF:-1,Baby TV
+http://196.52.105.132/a-play/babytv1.php
+#EXTINF:-1,ANIMAX
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1,Animax Thai
+https://cdn6.goprimetime.info/feed/LC38/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ANIMAX
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:-1,EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1, Nick Hindi
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8
+#EXTINF:-1, Masranga Tv
+http://103.121.39.246:1935/live/test/test1/1.m3u8
+#EXTINF:-1,TV5MONDE
+https://cdn6.goprimetime.info/feed/LC10/index.m3u8
+#EXTINF:-1,ZeeNung
+https://cdn6.goprimetime.info/feed/LC5/index.m3u8
+#EXTINF:-1, ZEECINEMA
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+#EXTINF:-1, StarMovies_SELECT_HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
+#EXTINF:-1, Sony Max HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
+#EXTINF:-1, Ten sport
+http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-1, UTV HINDI
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:-1, Sony Six
+http://208.115.215.42/Sony_SIx_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Gold HD
+http://208.115.215.42/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Sab HD
+http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Senook Movies
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
+#EXTINF:-1,TVN
+https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
+#EXTINF:-1,Comedy Central
+https://laos-tech-live.b-cdn.net/hd-comedycentral_720/index.m3u8
+#EXTINF:-1,Film HD
+https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
+#EXTINF:-1,Film HD 2
+https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
+#EXTINF:-1,TVB
+http://ip2121.com:8081/live/TVB/chunks.m3u8
+#EXTINF:-1,FOX​ THAI
+https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
+#EXTINF:-1,Fox Family Movies
+https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
+#EXTINF:-1,Fox Movies Premium (TH)
+https://laos-tech-live.b-cdn.net/hd-foxpremium_720/index.m3u8
+#EXTINF:-1,Fox Action Movies (TH)
+https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8 
+#EXTINF:-1,AXN HD
+https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
+#EXTINF:-1,Warner TV (HD)
+https://cdn6.goprimetime.info/feed/LC28/index.m3u8
+#EXTINF:-1,THAI​ FILM
+https://laos-tech-live.b-cdn.net/sd-thaifilm_480/index.m3u8
+#EXTINF:-1,X-Zyte HD
+https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
+#EXTINF:-1,CCM
+https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8
+#EXTINF:-1,Thrill
+https://cdn6.goprimetime.info/feed/LC26/index.m3u8
+#EXTINF:-1,dizi
+https://cdn6.goprimetime.info/feed/LC31/index.m3u8
+#EXTINF:-1,TVB THAI
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8 
+#EXTINF:-1,มังกร​ ทีวี
+https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8 
+#EXTINF:-1,M​ CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8 
+#EXTINF:-1,CHANNEL​ 8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8 
+#EXTINF:-1,CTB​ THAI
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8 
+#EXTINF:-1,Play boy Thailand
+http://61.19.242.134/feed/LC54/index.m3u8
+#EXTINF:-1,GGTN
+https://cdn6.goprimetime.info/feed/LC51/index.m3u8
+#EXTINF:-1,BOX​ FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8 
+#EXTINF:-1,SUN
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8 
+#EXTINF:-1,SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1,CHANNEL​ 8
+https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+#EXTINF:-1,ถึงหนุ่มๆทุกคน 2018
+https://cache-edge1.jooxhd.com/hls/content/nas04/mvc/m/inter/To-All-the-Boys-Ive-Loved-Before/To-All-the-Boys-Ive-Loved-Before-T.mp4/index.m3u8
+#EXTINF:-1,ถึงหนุ่มๆทุกคน 2020
+https://cache-edge1.jooxhd.com/hls/content/nas01/mvc/m/inter/To-All-the-Boys-PS-I-Still-Love-You/To-all-the-boys-ps-I-still-love-you-t.mp4/index.m3u8
+#EXTINF:-1,MVLAO
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_Fuso_121120.m3u8
+#EXTINF:-1,LaoStar
+https://cdn6.goprimetime.info/feed/LC58/index.m3u8
+#EXTINF:-1,True Music
+https://laos-tech-live.b-cdn.net/sd-tmusic_480/index.m3u8
+#EXTINF:-1,Lookthoongtv
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8
+#EXTINF:-1,FANMUSICHD
+https://edge6a.v2h-cdn.com/m2i4/FanTV.stream_720p/playlist_Fuso_121120.m3u8
+#EXTINF:-1,TRUEMUSIC
+https://livedoomovies.com/02_TRUEMUSIC_720p/chunklist_Fuso_121120.m3u8
+#EXTINF:-1,TOP LINE
+https://edge6a.v2h-cdn.com/m2i7/Topline.stream_720p/playlist_Fuso_121120.m3u8
+#EXTINF:-1,Amazing Hi Show
+http://203.154.243.32:8088/live/amazing/index.m3u8
+#EXTINF:-1,True Music
+https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://203.154.177.124:8899/live/ch2/playlist.m3u8
+#EXTINF:-1,Iconcert
+http://191.101.185.84/iconcert.m3u8
+#EXTINF:-1,Channel V China 
+https://cdn6.goprimetime.info/feed/LC14/tracks-v1a1/mono.m3u8
+#EXTINF:-1,City Music 
+https://5592f056abba8.streamlock.net/citytv/citytv/chunklist.m3u8
+#EXTINF:-1,Boxhits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,Retro Music TV
+http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
+#EXTINF:-1,M2oTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,MTV-china
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+#EXTINF:-1,MTV-Now
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,PITER PAN TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?
+#EXTINF:-1,Boxhits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,B4Umusic
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(02)/index.m3u8
+#EXTINF:-1,MTV(Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1,Radiobruno
+http://flash2.streaming.xdevel.com/radiobrunotv/radiobrunotv/chunklist.m3u8
+#EXTINF:-1,Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/chunklist.m3u8
+#EXTINF:-1,Radio Capital
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1,Afrobeats 24/7
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,Radio Deejay
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,OTTO FM TV
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+#EXTINF:-,Radio Birikina
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:-1,Radio Piterpan
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
+#EXTINF:-1,51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Radio Pescara
+https://video2.azotosolutions.com:1936/pescaratv/pescaratv/chunklist_w682681391.m3u8
+#EXTINF:-1,Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+#EXTINF:-1,MKTV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,PSI สาระดี
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8 
+#EXTINF:-1,สำรวจโลก
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8 
+#EXTINF:-1,JAROEN​ TV
+https://cdn6.goprimetime.info/feed/LC32/index.m3u8 
+#EXTINF:-1,EXP LIFE
+https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8
+#EXTINF:-1,EXP SCI
+https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8
+#EXTINF:-1,EXP WILD
+https://laos-tech-live.b-cdn.net/sd-expwild_480/index.m3u8
+#EXTINF:-1,DISCOVERY
+https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
+#EXTINF:-1,DIS ASIA
+https://laos-tech-live.b-cdn.net/hd-discovery_720/index.m3u8
+#EXTINF:-1,HISTORY
+https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
+#EXTINF:-1,H2
+https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8 
+#EXTINF:-1,BBC​ EARTH
+https://laos-tech-live.b-cdn.net/sd-bbcearth_720/index.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://laos-tech-live.b-cdn.net/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1,OUTSIDE
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8 
+#EXTINF:-1,Premier Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,Premier Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,Premier Football HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,Premier Football HD 4
+https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
+#EXTINF:-1,Premier Football HD 5
+https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
+#EXTINF:-1,True​ ​Sport​ HD
+https://laos-tech-live.b-cdn.net/hd-tsport1_720/index.m3u8 
+#EXTINF:-1,True​ ​Sport​ HD2
+https://laos-tech-live.b-cdn.net/hd-tsport2_720/index.m3u8
+#EXTINF:-1,True​ ​Sport​ HD3
+https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8
+#EXTINF:-1,True​ ​Sport​ HD4
+https://laos-tech-live.b-cdn.net/hd-tsport4_720/index.m3u8
+#EXTINF:-1,True​ ​Sport​2
+https://laos-tech-live.b-cdn.net/sd-tsport2_480/index.m3u8
+#EXTINF:-1,True​ ​Sport​5
+https://laos-tech-live.b-cdn.net/sd-tsport5_480/index.m3u8
+#EXTINF:-1,True​ ​Sport​6
+https://laos-tech-live.b-cdn.net/sd-tsport6_480/index.m3u8
+#EXTINF:-1,True​ ​Sport​7
+https://laos-tech-live.b-cdn.net/sd-tsport7_480/index.m3u8
+#EXTINF:-1,BEIN​ SPORT​ 1
+https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8 
+#EXTINF:-1,BEIN​ SPORT​S​ 2
+https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
+#EXTINF:-1,FOX​ SPORTS​ HD
+https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
+#EXTINF:-1,FOX​ SPORTS​ 2
+https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8
+#EXTINF:-1,FOX​ SPORTS​ 3​
+https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8 
+#EXTINF:-1,astro sports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,astro sports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,astro sports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,astro sports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,T Sport
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:-1,SKY​ SPORT​S PREMIER​
+https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1,SKY​ SPORT​S FOOTBALL​
+https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8
+#EXTINF:-1,Sky Sports F1
+https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1,Sky Sports Arena
+https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1,BT Sport 1 HD
+https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1,BT Sport 2 HD
+https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1,Eurosport
+https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
+#EXTINF:-1,Eurosport 2
+https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
+#EXTINF:-1,CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1,MUTV
+https://laos-tech-live.b-cdn.net/uk-mutv_480/index.m3u8
+#EXTINF:-1,LFCTV
+https://laos-tech-live.b-cdn.net/uk-lfctv_480/index.m3u8
+#EXTINF:-1,Golf Channel Thailand
+https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
+#EXTINF:-1,Figth Sport
+https://cdn6.goprimetime.info/feed/LC36/index.m3u8
+#EXTINF:-1,CNN
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
+#EXTINF:-1,CNN UK
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF:-1,Euronews
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1,Sky News
+https://doofootball.livestream-cdn.com/iptv/uk-skynews.stream/chunks.m3u8
+#EXTINF:-1,BBC World News
+https://doofootball.livestream-cdn.com/iptv/uk-bbcworldnews.stream/chunks.m3u8
+#EXTINF:-1,Fox News
+https://doofootball.livestream-cdn.com/iptv/uk-foxnews.stream/chunks.m3u8
+#EXTINF:-1,FOX Business
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1,France 24
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
+#EXTINF:-1,TV5 Monde
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1,TV5 Styleen
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1,TV5 Monde Info
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1,MRTV HD
+https://cdn6.goprimetime.info/feed/LC17/index.m3u8
+#EXTINF:-1,English Club
+https://cdn6.goprimetime.info/feed/LC21/index.m3u8
+#EXTINF:-1,My God Father(2020)
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/My_God_Father_2020/My_God_Father_2020_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1,Sea Fever (2019) HDTV
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Sea_Fever_2019/Sea_Fever_2019_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1,Inheritance (2020) HDTV
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Inheritance_2020/Inheritance_2020_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1,Clara's Ghost (2018) HDTV
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Clara_s_Ghost_2018/Clara_s_Ghost_2018_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1,Crocodile Island (Ju e dao) เกาะจระเข้ยักษ์ (2020) บรรยายไทย
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Crocodile_Island_2020/Crocodile_Island_2020_CN_1080p.mp4/playlist.m3u8
+#EXTINF:-1,Sea Fever (2019) HDTV
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Sea_Fever_2019/Sea_Fever_2019_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1,The Assistant (2019) HDTV
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/The_Assistant_2019/The_Assistant_2019_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1,รถไฟหนู_2021
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Rat_Disaster_2021/Rat_Disaster_2021_CN_1080p.mp4/playlist.m3u8
+#EXTINF:-1,he_Last_Shift_2020
+https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/The_Last_Shift_2020/The_Last_Shift_2020_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1,Zombie Detective ตอน 1
+https://sv4.7series.co/02NEW/01K/2563/10October/ZombieDetectiveTHAIEP01.mp4
+#EXTINF:-1,Zombie Detective ตอน 2
+https://sv4.7series.co/02NEW/01K/2563/10October/ZombieDetectiveTHAIEP02.mp4
+#EXTINF:-1,Zombie Detective ตอน 3
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP03.mp4
+#EXTINF:-1,Zombie Detective ตอน 4
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP04.mp4
+#EXTINF:-1,Zombie Detective ตอน 5
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP05.mp4
+#EXTINF:-1,Zombie Detective ตอน 6
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP06.mp4
+#EXTINF:-1,Zombie Detective ตอน 7
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP07.mp4
+#EXTINF:-1,Zombie Detective ตอน 8
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP08.mp4
+#EXTINF:-1,Zombie Detective ตอน 9
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP09.mp4
+#EXTINF:-1,Zombie Detective ตอน 10
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP10.mp4
+#EXTINF:-1,Zombie Detective ตอน 11
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP11.mp4
+#EXTINF:-1,Zombie Detective ตอน 12
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP12.mp4
+#EXTINF:-1,Zombie Detective ตอน 13
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP13.mp4
+#EXTINF:-1,Zombie Detective ตอน 14
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP14.mp4
+#EXTINF:-1,Zombie Detective ตอน 15
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP15.mp4
+#EXTINF:-1,Zombie Detective ตอน 16
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP16.mp4
+#EXTINF:-1,Zombie Detective ตอน 17
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP17.mp4
+#EXTINF:-1,Zombie Detective ตอน 18
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP18.mp4
+#EXTINF:-1,Zombie Detective ตอน 19
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP19.mp4
+#EXTINF:-1,Zombie Detective ตอน 20
+https://sv4.7series.co/02NEW/01K/2563/11November/ZombieDetectiveTHAIEP20.m3u8
+#EXTINF:-1,USA | A&E FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29693
+#EXTINF:-1,USA | ACC Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29692
+#EXTINF:-1,USA | AccuWeather FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29691
+#EXTINF:-1,USA | Action Max FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29690
+#EXTINF:-1,USA | AMC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29689
+#EXTINF:-1,USA | American Heroes FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29688
+#EXTINF:-1,USA | Animal Planet FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29687
+#EXTINF:-1,USA | ASPIRE FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29686
+#EXTINF:-1,USA | AWE FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29685
+#EXTINF:-1,USA | AXS TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29684
+#EXTINF:-1,USA | Baby First FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29683
+#EXTINF:-1,USA | BBC America FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29682
+#EXTINF:-1,USA | BBC World News FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29681
+#EXTINF:-1,USA | BET FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29680
+#EXTINF:-1,USA | BET Her FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29679
+#EXTINF:-1,USA | Big Ten Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29678
+#EXTINF:-1,USA | Boomerang
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29677
+#EXTINF:-1,USA | Bravo FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29676
+#EXTINF:-1,USA | C-SPAN 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29675
+#EXTINF:-1,USA | C-SPAN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29674
+#EXTINF:-1,USA | Cartoon Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29673
+#EXTINF:-1,USA | CBS Sports Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29672
+#EXTINF:-1,USA | Cheddar Business FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29671
+#EXTINF:-1,USA | Cinemax East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29670
+#EXTINF:-1,USA | CMT FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29669
+#EXTINF:-1,USA | CNBC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29668
+#EXTINF:-1,USA | CNBC World
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29667
+#EXTINF:-1,USA | CNN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29666
+#EXTINF:-1,USA | Comedy Central FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29665
+#EXTINF:-1,USA | Comedy TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29664
+#EXTINF:-1,USA | Cooking Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29663
+#EXTINF:-1,USA | Destination America FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29662
+#EXTINF:-1,USA | Discovery Family Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29661
+#EXTINF:-1,USA | Discovery FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29660
+#EXTINF:-1,USA | Discovery Life FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29659
+#EXTINF:-1,USA | Disney Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29658
+#EXTINF:-1,USA | Disney Junior FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29657
+#EXTINF:-1,USA | Disney XD FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29656
+#EXTINF:-1,USA | DIY Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29655
+#EXTINF:-1,USA | E! FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29654
+#EXTINF:-1,USA | Epix 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29653
+#EXTINF:-1,USA | Epix FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29652
+#EXTINF:-1,USA | Epix Hits FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29651
+#EXTINF:-1,USA | ESPN 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29650
+#EXTINF:-1,USA | ESPN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29649
+#EXTINF:-1,USA | ESPN News FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29648
+#EXTINF:-1,USA | ESPNU FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29647
+#EXTINF:-1,USA | FM FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29646
+#EXTINF:-1,USA | Food Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29645
+#EXTINF:-1,USA | Fox Business Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29644
+#EXTINF:-1,USA | FOX Life
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29643
+#EXTINF:-1,USA | Fox News Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29642
+#EXTINF:-1,USA | FOX Sports 1 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29641
+#EXTINF:-1,USA | FOX Sports 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29640
+#EXTINF:-1,USA | Freeform FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29639
+#EXTINF:-1,USA | Fuse FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29638
+#EXTINF:-1,USA | FX FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29637
+#EXTINF:-1,USA | FX Movie Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29636
+#EXTINF:-1,USA | FXX FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29635
+#EXTINF:-1,USA | FYI FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29634
+#EXTINF:-1,USA | GEM Shopping Network
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29633
+#EXTINF:-1,USA | Golf Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29632
+#EXTINF:-1,USA | GolTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29631
+#EXTINF:-1,USA | GSN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29630
+#EXTINF:-1,USA | Hallmark Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29629
+#EXTINF:-1,USA | Hallmark Drama FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29628
+#EXTINF:-1,USA | Hallmark Movies & Mysteries FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29627
+#EXTINF:-1,USA | HBO 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29626
+#EXTINF:-1,USA | HBO East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29625
+#EXTINF:-1,USA | HBO Family East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29624
+#EXTINF:-1,USA | HGTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29623
+#EXTINF:-1,USA | HISTORY FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29622
+#EXTINF:-1,USA | HLN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29621
+#EXTINF:-1,USA | IFC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29620
+#EXTINF:-1,USA | Investigation Discovery FHD
+
+#EXTINF:-1,USA | MTV Classic
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29610
+#EXTINF:-1,USA | MTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29609
+#EXTINF:-1,USA | MTV Live FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29608
+#EXTINF:-1,USA | MTV2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29607
+#EXTINF:-1,USA | Nat Geo WILD FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29606
+#EXTINF:-1,USA | National Geographic Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29605
+#EXTINF:-1,USA | NBA TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29604
+#EXTINF:-1,USA | NBC Sports Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29603
+#EXTINF:-1,USA | NHL Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29602
+#EXTINF:-1,USA | Nick Jr. FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29601
+#EXTINF:-1,USA | Nickelodeon East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29600
+#EXTINF:-1,USA | Nicktoons FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29599
+#EXTINF:-1,USA | Olympic Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29598
+#EXTINF:-1,USA | One American News Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29597
+#EXTINF:-1,USA | Ovation FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29596
+#EXTINF:-1,USA | OWN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29595
+#EXTINF:-1,USA | Oxygen FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29594
+#EXTINF:-1,USA | Paramount TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29593
+#EXTINF:-1,USA | POP FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29592
+#EXTINF:-1,USA | ReelzChannel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29591
+#EXTINF:-1,USA | Revolt FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29590
+#EXTINF:-1,USA | RFD-TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29589
+#EXTINF:-1,USA | Science FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29588
+#EXTINF:-1,USA | SEC Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29587
+#EXTINF:-1,USA | Showtime 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29586
+#EXTINF:-1,USA | Showtime East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29585
+#EXTINF:-1,USA | Showtime Extreme FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29584
+#EXTINF:-1,USA | Smithsonian Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29583
+#EXTINF:-1,USA | Sportsman Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29582
+#EXTINF:-1,USA | STARZ East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29581
+#EXTINF:-1,USA | STARZ Encore Action FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29580
+#EXTINF:-1,USA | STARZ ENCORE Black FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29579
+#EXTINF:-1,USA | STARZ ENCORE Classic FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29578
+#EXTINF:-1,USA | STARZ Encore East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29577
+#EXTINF:-1,USA | STARZ ENCORE Family FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29576
+#EXTINF:-1,USA | STARZ ENCORE Suspense FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29575
+#EXTINF:-1,USA | STARZ ENCORE West FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29574
+#EXTINF:-1,USA | STARZ ENCORE Westerns FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29573
+#EXTINF:-1,USA | STARZ Kids & Family FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29572
+#EXTINF:-1,USA | Sundance TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29571
+#EXTINF:-1,USA | Syfy FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29570
+#EXTINF:-1,USA | TBS FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29569
+#EXTINF:-1,USA | TCM FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29568
+#EXTINF:-1,USA | TeenNick FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29567
+#EXTINF:-1,USA | Tennis Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29566
+#EXTINF:-1,USA | The Weather Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29565
+#EXTINF:-1,USA | TLC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29564
+#EXTINF:-1,USA | TNT FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29563
+#EXTINF:-1,USA | Travel Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29562
+#EXTINF:-1,USA | truTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29561
+#EXTINF:-1,USA | TV Land FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29560
+#EXTINF:-1,USA | TV One FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29559
+#EXTINF:-1,USA | TVG FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29558
+#EXTINF:-1,USA | Universal Kids FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29557
+#EXTINF:-1,USA | UP FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29556
+#EXTINF:-1,USA | USA Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29555
+#EXTINF:-1,USA | VH1 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29554
+#EXTINF:-1,USA | Viceland FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29553
+#EXTINF:-1,USA | WE TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29552
+#EXTINF:-1,USA | WGN America FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29551
+#EXTINF:-1,USA | HDNet Movies FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29550
+#EXTINF:-1,USA | Black News Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29549
+#EXTINF:-1,USA | Cleo TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29548
+#EXTINF:-1,USA | Willow Cricket
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29547
+#EXTINF:-1,USA | Showtime Next FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29546
+#EXTINF:-1,USA | Showtime West
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29545
+#EXTINF:-1,USA | Showtime Family Zone
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29544
+#EXTINF:-1,USA | Showtime BET FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29543
+#EXTINF:-1,USA | Showtime Women FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29542
+#EXTINF:-1,USA | Starz in Black FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29541
+#EXTINF:-1,USA | Starz Comedy FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29540
+#EXTINF:-1,USA | Starz Cinema FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29539
+#EXTINF:-1,USA | Starz West
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29537
+
+#EXTINF:-1,USA | NFL Network
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29525
+#EXTINF:-1,USA | MSG FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29524
+#EXTINF:-1,USA | MSG Plus FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29523
+#EXTINF:-1,USA | Fox Sports Midwest
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29522
+#EXTINF:-1,USA | TELEMUNDO 47 New York (WNJU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29521
+#EXTINF:-1,USA | TELEMUNDO 51 Miami (WSCV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29520
+#EXTINF:-1,USA | Fox Sports Ohio
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29519
+#EXTINF:-1,USA | FOX 2 Detroit (WJBK)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29518
+#EXTINF:-1,USA | Fox Sports Detroit
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29517
+#EXTINF:-1,USA | SNY FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29516
+#EXTINF:-1,USA | Fox Sports Cincinnati
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29515
+#EXTINF:-1,USA | ABC 2 Portland (KATU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29514
+#EXTINF:-1,USA | NBC 8 Portland (KGWDT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29513
+#EXTINF:-1,USA | CBS 6 Portland (KOIN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29512
+#EXTINF:-1,USA | FOX 12 Portland (KPTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29511
+#EXTINF:-1,USA | ABC 10 Sacramento (KXTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29510
+#EXTINF:-1,USA | NBC 3 Sacramento (KCRA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29509
+#EXTINF:-1,USA | CBS 13 Sacramento (KOVR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29508
+#EXTINF:-1,USA | FOX 40 Sacramento (KTXL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29507
+#EXTINF:-1,USA | CW 31 Sacramento (KMAX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29506
+#EXTINF:-1,USA | ABC 9 Tucson (KGUN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29505
+#EXTINF:-1,USA | NBC 4 Tucson (KVOA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29504
+#EXTINF:-1,USA | FOX 11 Tucson (KMSB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29503
+#EXTINF:-1,USA | CBS 13 Tucson (KOLD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29502
+#EXTINF:-1,USA | ABC 7 Albuquerque (KOAT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29501
+#EXTINF:-1,USA | NBC 4 Albuquerque (KOB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29500
+#EXTINF:-1,USA | CBS 13 Albuquerque (KRQE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29499
+#EXTINF:-1,USA | FOX 13 Albuquerque (KRQEDT2)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29498
+(Tennessee)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29372
+#EXTINF:-1,USA | Fox Sports Sun (North Florida)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29371
+#EXTINF:-1,USA | Fox Sports Florida (North)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29370
+#EXTINF:-1,USA | Fox Sports Carolinas HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29369
+#EXTINF:-1,USA | Fox Sports Southeast (North Carolina)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29368
+#EXTINF:-1,USA | Fox Sports South Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29367
+#EXTINF:-1,USA | Fox Sports Indiana
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29366
+#EXTINF:-1,USA | Fox Sports Indiana Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29365
+#EXTINF:-1,USA | Fox Sports New Orleans
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29364
+#EXTINF:-1,USA | Fox Sports Oklahoma Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29363
+#EXTINF:-1,USA | Fox Sports North Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29362
+#EXTINF:-1,USA | Fox Sports Midwest Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29361
+#EXTINF:-1,USA | Fox Sports Wisonsin Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29360
+#EXTINF:-1,USA | Fox Sports New Orleans Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29359
+#EXTINF:-1,USA | Fox Sports Tennessee Plus HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29358
+#EXTINF:-1,USA | NBC 10 Knoxville (WBIR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29357
+#EXTINF:-1,USA | CBS 8 Knoxville (WVLT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29356
+#EXTINF:-1,USA | ABC 6 Knoxville (WATE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29355
+#EXTINF:-1,USA | FOX 43 Knoxville (WTNZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29354
+#EXTINF:-1,USA | ESPN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29353
+#EXTINF:-1,USA | ESPN News HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29352
+#EXTINF:-1,USA | Cinemax East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29351
+#EXTINF:-1,USA | CNN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29350
+#EXTINF:-1,USA | Cheddar Business HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29349
+#EXTINF:-1,USA | Freeform HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29348
+#EXTINF:-1,USA | Disney Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29347
+#EXTINF:-1,USA | Disney XD HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29346
+#EXTINF:-1,USA | Disney Junior HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29345
+#EXTINF:-1,USA | ESPN2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29344
+#EXTINF:-1,USA | TCM HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29343
+#EXTINF:-1,USA | TNT HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29342
+#EXTINF:-1,USA | HLN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29341
+#EXTINF:-1,USA | Cartoon Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29340
+#EXTINF:-1,USA | ESPNU HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29339
+#EXTINF:-1,USA | TBS HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29338
+#EXTINF:-1,USA | FOX Sports 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29337
+#EXTINF:-1,USA | CNBC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29336
+#EXTINF:-1,USA | NBC Sports Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29335
+#EXTINF:-1,USA | Bravo HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29334
+#EXTINF:-1,USA | E! HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29333
+#EXTINF:-1,USA | Syfy HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29332
+#EXTINF:-1,USA | National Geographic Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29331
+#EXTINF:-1,USA | USA Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29330
+#EXTINF:-1,USA | MSNBC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29329
+#EXTINF:-1,USA | Fox Business Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29328
+#EXTINF:-1,USA | Golf Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29327
+#EXTINF:-1,USA | Fox News Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29326
+#EXTINF:-1,USA | Oxygen HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29325
+#EXTINF:-1,USA | HBO East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29324
+#EXTINF:-1,USA | HBO Family East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29322
+#EXTINF:-1,USA | FOX Sports 1 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29321
+#EXTINF:-1,USA | FXX HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29320
+#EXTINF:-1,USA | SEC Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29319
+#EXTINF:-1,USA | truTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29318
+#EXTINF:-1,USA | Hallmark Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29317
+#EXTINF:-1,USA | Universal Kids HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29316
+#EXTINF:-1,USA | Tennis Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29315
+#EXTINF:-1,USA | Nat Geo WILD HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29314
+#EXTINF:-1,USA | Revolt HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29313
+#EXTINF:-1,USA | FX Movie Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29312
+#EXTINF:-1,USA | AccuWeather HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29311
+#EXTINF:-1,USA | Olympic Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29310
+#EXTINF:-1,USA | Nick Jr HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29309
+#EXTINF:-1,USA | Paramount TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29308
+#EXTINF:-1,USA | BET HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29307
+#EXTINF:-1,USA | VH1 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29306
+#EXTINF:-1,USA | TV Land HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29305
+#EXTINF:-1,USA | Nickelodeon East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29304
+#EXTINF:-1,USA | Comedy Central HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29303
+#EXTINF:-1,USA | MTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29302
+#EXTINF:-1,USA | CMT HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29301
+#EXTINF:-1,USA | FX HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29300
+#EXTINF:-1,USA | Ovation HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29299
+#EXTINF:-1,USA | Big Ten Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29298
+#EXTINF:-1,USA | CBS Sports Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29297
+#EXTINF:-1,USA | ActionMax HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29296
+#EXTINF:-1,USA | HBO2 East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29295
+#EXTINF:-1,USA | ACC Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29294
+#EXTINF:-1,USA | EPIX 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29293
+#EXTINF:-1,USA | EPIX HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29292
+#EXTINF:-1,USA | STARZ East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29290
+#EXTINF:-1,USA | STARZ Encore East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29289
+#EXTINF:-1,USA | STARZ Kids & Family HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29288
+#EXTINF:-1,USA | Hallmark Movies & Mysteries HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29287
+#EXTINF:-1,USA | Hallmark Drama HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29286
+#EXTINF:-1,USA | MTV Live HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29285
+#EXTINF:-1,USA | HDNET MOVIES HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29284
+#EXTINF:-1,USA | LOGO HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29283
+#EXTINF:-1,USA | A&E HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29282
+#EXTINF:-1,USA | Lifetime Movie Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29281
+#EXTINF:-1,USA | Sundance TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29280
+#EXTINF:-1,USA | Lifetime HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29279
+#EXTINF:-1,USA | IFC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29278
+#EXTINF:-1,USA | STARZ Encore Action HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29277
+#EXTINF:-1,USA | NHL Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29276
+#EXTINF:-1,USA | NBA TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29275
+#EXTINF:-1,USA | MLB Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29274
+#EXTINF:-1,USA | STARZ ENCORE Classic HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29273
+#EXTINF:-1,USA | STARZ ENCORE Black HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29272
+#EXTINF:-1,USA | STARZ ENCORE Westerns HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29271
+#EXTINF:-1,USA | STARZ ENCORE Family HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29270
+#EXTINF:-1,USA | STARZ ENCORE Suspense HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29269
+#EXTINF:-1,USA | BET Her HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29268
+#EXTINF:-1,USA | STARZ ENCORE West HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29267
+#EXTINF:-1,USA | Discovery HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29266
+#EXTINF:-1,USA | Animal Planet HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29265
+#EXTINF:-1,USA | AXS TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29264
+#EXTINF:-1,USA | TV One HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29263
+#EXTINF:-1,USA | AMC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29262
+#EXTINF:-1,USA | WE TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29261
+#EXTINF:-1,USA | VICE HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29260
+#EXTINF:-1,USA | History HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29259
+#EXTINF:-1,USA | FYI HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29258
+#EXTINF:-1,USA | MTV2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29257
+#EXTINF:-1,USA | BBC America HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29256
+#EXTINF:-1,USA | Cooking Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29255
+#EXTINF:-1,USA | Showtime East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29254
+#EXTINF:-1,USA | The Weather Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29253
+#EXTINF:-1,USA | Nicktoons HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29252
+#EXTINF:-1,USA | Discovery Life HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29251
+#EXTINF:-1,USA | Science HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29250
+#EXTINF:-1,USA | TLC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29249
+#EXTINF:-1,USA | Showtime Extreme HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29248
+#EXTINF:-1,USA | SHOWTIME 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29247
+#EXTINF:-1,USA | Teen Nick HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29246
+#EXTINF:-1,USA | Discovery Family HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29245
+#EXTINF:-1,USA | One American News Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29244
+#EXTINF:-1,USA | American Heroes HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29243
+#EXTINF:-1,USA | UP HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29242
+#EXTINF:-1,USA | Sportsman Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29241
+#EXTINF:-1,USA | POP HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29240
+#EXTINF:-1,USA | ReelzChannel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29239
+#EXTINF:-1,USA | HGTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29238
+#EXTINF:-1,USA | ION TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29237
+#EXTINF:-1,USA | FOX 25 Boston (WFXT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29236
+#EXTINF:-1,USA | FOX 5 Atlanta (WAGA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29235
+#EXTINF:-1,USA | FOX 32 Chicago (WFLD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29234
+#EXTINF:-1,USA | FOX 31 Denver (KDVR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29233
+#EXTINF:-1,USA | FOX 7 Miami (WSVN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29232
+#EXTINF:-1,USA | FOX 11 Los Angeles (KTTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29231
+#EXTINF:-1,USA | FOX 5 New York (WNYW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29230
+#EXTINF:-1,USA | FOX 29 Philadelphia (WTXF)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29229
+#EXTINF:-1,USA | FOX 45 Baltimore (WBFF)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29228
+#EXTINF:-1,USA | FOX 9 Minneapolis-St. Paul (KMSP)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29227
+#EXTINF:-1,USA | FOX 17 Nashville (WZTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29226
+#EXTINF:-1,USA | FOX 4 Dallas-Fort Worth (KDFW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29225
+#EXTINF:-1,USA | FOX 10 Phoenix (KSAZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29224
+#EXTINF:-1,USA | FOX 13 Seattle (KCPQ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29223
+#EXTINF:-1,USA | FOX 25 Oklahoma City (KOKH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29222
+#EXTINF:-1,USA | FOX 8 New Orleans (WVUE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29221
+#EXTINF:-1,USA | FOX 26 Houston (KRIV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29220
+#EXTINF:-1,USA | FOX 5 Las Vegas (KVVU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29219
+#EXTINF:-1,USA | FOX 5 Washington DC (WTTG)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29218
+#EXTINF:-1,USA | FOX 19 Cincinnati (WXIX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29217
+#EXTINF:-1,USA | Fox Sports North
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29216
+#EXTINF:-1,USA | Fox Sports South
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29215
+#EXTINF:-1,USA | Fox Sports Southeast (Georgia)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29214
+#EXTINF:-1,USA | Fox Sports West
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29213
+#EXTINF:-1,USA | Fox Sports Southwest
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29212
+#EXTINF:-1,USA | Fox Sports Prime Ticket
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29211
+#EXTINF:-1,USA | Fox Sports Oklahoma
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29210
+#EXTINF:-1,USA | Fox Sports Arizona
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29209
+#EXTINF:-1,USA | Fox Sports Sun (South Florida)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29208
+#EXTINF:-1,USA | Fox Sports Florida (South)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29207
+#EXTINF:-1,USA | Fox Sports San Diego
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29206
+#EXTINF:-1,USA | YES Network
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29205
+
+#EXTINF:-1,USA | Big Ten Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29678
+#EXTINF:-1,USA | Boomerang
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29677
+#EXTINF:-1,USA | Bravo FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29676
+#EXTINF:-1,USA | C-SPAN 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29675
+#EXTINF:-1,USA | C-SPAN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29674
+#EXTINF:-1,USA | Cartoon Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29673
+#EXTINF:-1,USA | CBS Sports Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29672
+#EXTINF:-1,USA | Cheddar Business FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29671
+#EXTINF:-1,USA | Cinemax East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29670
+#EXTINF:-1,USA | CMT FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29669
+#EXTINF:-1,USA | CNBC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29668
+#EXTINF:-1,USA | CNBC World
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29667
+#EXTINF:-1,USA | CNN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29666
+#EXTINF:-1,USA | Comedy Central FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29665
+#EXTINF:-1,USA | Comedy TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29664
+#EXTINF:-1,USA | Cooking Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29663
+#EXTINF:-1,USA | Destination America FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29662
+#EXTINF:-1,USA | Discovery Family Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29661
+#EXTINF:-1,USA | Discovery FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29660
+#EXTINF:-1,USA | Discovery Life FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29659
+#EXTINF:-1,USA | Disney Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29658
+#EXTINF:-1,USA | Disney Junior FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29657
+#EXTINF:-1,USA | Disney XD FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29656
+#EXTINF:-1,USA | DIY Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29655
+#EXTINF:-1,USA | E! FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29654
+#EXTINF:-1,USA | Epix 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29653
+#EXTINF:-1,USA | Epix FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29652
+#EXTINF:-1,USA | Epix Hits FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29651
+#EXTINF:-1,USA | ESPN 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29650
+#EXTINF:-1,USA | ESPN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29649
+#EXTINF:-1,USA | ESPN News FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29648
+#EXTINF:-1,USA | ESPNU FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29647
+#EXTINF:-1,USA | FM FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29646
+#EXTINF:-1,USA | Food Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29645
+#EXTINF:-1,USA | Fox Business Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29644
+#EXTINF:-1,USA | FOX Life
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29643
+#EXTINF:-1,USA | Fox News Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29642
+#EXTINF:-1,USA | FOX Sports 1 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29641
+#EXTINF:-1,USA | FOX Sports 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29640
+#EXTINF:-1,USA | Freeform FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29639
+#EXTINF:-1,USA | Fuse FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29638
+#EXTINF:-1,USA | FX FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29637
+#EXTINF:-1,USA | FX Movie Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29636
+#EXTINF:-1,USA | FXX FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29635
+#EXTINF:-1,USA | FYI FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29634
+#EXTINF:-1,USA | GEM Shopping Network
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29633
+#EXTINF:-1,USA | Golf Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29632
+#EXTINF:-1,USA | GolTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29631
+#EXTINF:-1,USA | GSN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29630
+#EXTINF:-1,USA | Hallmark Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29629
+#EXTINF:-1,USA | Hallmark Drama FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29628
+#EXTINF:-1,USA | Hallmark Movies & Mysteries FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29627
+#EXTINF:-1,USA | HBO 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29626
+#EXTINF:-1,USA | HBO East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29625
+#EXTINF:-1,USA | HBO Family East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29624
+#EXTINF:-1,USA | HGTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29623
+#EXTINF:-1,USA | HISTORY FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29622
+#EXTINF:-1,USA | HLN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29621
+#EXTINF:-1,USA | IFC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29620
+#EXTINF:-1,USA | Investigation Discovery FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29619
+#EXTINF:-1,USA | Justice Central FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29618
+#EXTINF:-1,USA | Lifetime FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29617
+#EXTINF:-1,USA | Lifetime Movie Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29616
+#EXTINF:-1,USA | LOGO FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29615
+#EXTINF:-1,USA | Marquee Sports Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29614
+#EXTINF:-1,USA | MLB Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29613
+#EXTINF:-1,USA | MotorTrend FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29612
+#EXTINF:-1,USA | MSNBC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29611
+#EXTINF:-1,USA | MTV Classic
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29610
+#EXTINF:-1,USA | MTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29609
+#EXTINF:-1,USA | MTV Live FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29608
+#EXTINF:-1,USA | MTV2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29607
+#EXTINF:-1,USA | Nat Geo WILD FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29606
+#EXTINF:-1,USA | National Geographic Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29605
+#EXTINF:-1,USA | NBA TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29604
+#EXTINF:-1,USA | NBC Sports Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29603
+#EXTINF:-1,USA | NHL Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29602
+#EXTINF:-1,USA | Nick Jr. FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29601
+#EXTINF:-1,USA | Nickelodeon East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29600
+#EXTINF:-1,USA | Nicktoons FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29599
+#EXTINF:-1,USA | Olympic Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29598
+#EXTINF:-1,USA | One American News Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29597
+#EXTINF:-1,USA | Ovation FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29596
+#EXTINF:-1,USA | OWN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29595
+#EXTINF:-1,USA | Oxygen FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29594
+#EXTINF:-1,USA | Paramount TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29593
+#EXTINF:-1,USA | POP FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29592
+#EXTINF:-1,USA | ReelzChannel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29591
+#EXTINF:-1,USA | Revolt FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29590
+#EXTINF:-1,USA | RFD-TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29589
+#EXTINF:-1,USA | Science FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29588
+#EXTINF:-1,USA | SEC Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29587
+#EXTINF:-1,USA | Showtime 2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29586
+#EXTINF:-1,USA | Showtime East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29585
+#EXTINF:-1,USA | Showtime Extreme FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29584
+#EXTINF:-1,USA | Smithsonian Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29583
+#EXTINF:-1,USA | Sportsman Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29582
+#EXTINF:-1,USA | STARZ East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29581
+#EXTINF:-1,USA | STARZ Encore Action FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29580
+#EXTINF:-1,USA | STARZ ENCORE Black FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29579
+#EXTINF:-1,USA | STARZ ENCORE Classic FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29578
+#EXTINF:-1,USA | STARZ Encore East FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29577
+#EXTINF:-1,USA | STARZ ENCORE Family FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29576
+#EXTINF:-1,USA | STARZ ENCORE Suspense FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29575
+#EXTINF:-1,USA | STARZ ENCORE West FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29574
+#EXTINF:-1,USA | STARZ ENCORE Westerns FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29573
+#EXTINF:-1,USA | STARZ Kids & Family FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29572
+#EXTINF:-1,USA | Sundance TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29571
+#EXTINF:-1,USA | Syfy FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29570
+#EXTINF:-1,USA | TBS FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29569
+#EXTINF:-1,USA | TCM FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29568
+#EXTINF:-1,USA | TeenNick FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29567
+#EXTINF:-1,USA | Tennis Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29566
+#EXTINF:-1,USA | The Weather Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29565
+#EXTINF:-1,USA | TLC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29564
+#EXTINF:-1,USA | TNT FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29563
+#EXTINF:-1,USA | Travel Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29562
+#EXTINF:-1,USA | truTV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29561
+#EXTINF:-1,USA | TV Land FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29560
+#EXTINF:-1,USA | TV One FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29559
+#EXTINF:-1,USA | TVG FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29558
+#EXTINF:-1,USA | Universal Kids FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29557
+#EXTINF:-1,USA | UP FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29556
+#EXTINF:-1,USA | USA Network FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29555
+#EXTINF:-1,USA | VH1 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29554
+#EXTINF:-1,USA | Viceland FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29553
+#EXTINF:-1,USA | WE TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29552
+#EXTINF:-1,USA | WGN America FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29551
+#EXTINF:-1,USA | HDNet Movies FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29550
+#EXTINF:-1,USA | Black News Channel FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29549
+#EXTINF:-1,USA | Cleo TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29548
+#EXTINF:-1,USA | Willow Cricket
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29547
+#EXTINF:-1,USA | Showtime Next FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29546
+#EXTINF:-1,USA | Showtime West
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29545
+#EXTINF:-1,USA | Showtime Family Zone
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29544
+#EXTINF:-1,USA | Showtime BET FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29543
+#EXTINF:-1,USA | Showtime Women FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29542
+#EXTINF:-1,USA | Starz in Black FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29541
+#EXTINF:-1,USA | Starz Comedy FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29540
+#EXTINF:-1,USA | Starz Cinema FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29539
+#EXTINF:-1,USA | Starz West
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29537
+#EXTINF:-1,USA | EPIX Drive-In
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29536
+#EXTINF:-1,USA | MoviePlex
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29535
+#EXTINF:-1,USA | Showtime Showcase FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29534
+#EXTINF:-1,USA | Willow Extra
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29533
+#EXTINF:-1,USA | Pixl
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29531
+#EXTINF:-1,USA | RetroPlex
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29530
+#EXTINF:-1,USA | Pursuit Channel
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29529
+#EXTINF:-1,USA | Comet
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29528
+#EXTINF:-1,USA | Stadium
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29527
+#EXTINF:-1,USA | NFL Redzone
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29526
+#EXTINF:-1,USA | NFL Network
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29525
+#EXTINF:-1,USA | MSG FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29524
+#EXTINF:-1,USA | MSG Plus FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29523
+#EXTINF:-1,USA | Fox Sports Midwest
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29522
+#EXTINF:-1,USA | TELEMUNDO 47 New York (WNJU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29521
+#EXTINF:-1,USA | TELEMUNDO 51 Miami (WSCV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29520
+#EXTINF:-1,USA | Fox Sports Ohio
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29519
+#EXTINF:-1,USA | FOX 2 Detroit (WJBK)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29518
+#EXTINF:-1,USA | Fox Sports Detroit
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29517
+#EXTINF:-1,USA | SNY FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29516
+#EXTINF:-1,USA | Fox Sports Cincinnati
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29515
+#EXTINF:-1,USA | ABC 2 Portland (KATU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29514
+#EXTINF:-1,USA | NBC 8 Portland (KGWDT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29513
+#EXTINF:-1,USA | CBS 6 Portland (KOIN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29512
+#EXTINF:-1,USA | FOX 12 Portland (KPTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29511
+#EXTINF:-1,USA | ABC 10 Sacramento (KXTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29510
+#EXTINF:-1,USA | NBC 3 Sacramento (KCRA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29509
+#EXTINF:-1,USA | CBS 13 Sacramento (KOVR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29508
+#EXTINF:-1,USA | FOX 40 Sacramento (KTXL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29507
+#EXTINF:-1,USA | CW 31 Sacramento (KMAX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29506
+#EXTINF:-1,USA | ABC 9 Tucson (KGUN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29505
+#EXTINF:-1,USA | NBC 4 Tucson (KVOA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29504
+#EXTINF:-1,USA | FOX 11 Tucson (KMSB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29503
+#EXTINF:-1,USA | CBS 13 Tucson (KOLD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29502
+#EXTINF:-1,USA | ABC 7 Albuquerque (KOAT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29501
+#EXTINF:-1,USA | NBC 4 Albuquerque (KOB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29500
+#EXTINF:-1,USA | CBS 13 Albuquerque (KRQE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29499
+#EXTINF:-1,USA | FOX 13 Albuquerque (KRQEDT2)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29498
+#EXTINF:-1,USA | ABC 30 Fresno (KFSN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29497
+#EXTINF:-1,USA | NBC 24 Fresno (KSEE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29496
+#EXTINF:-1,USA | FOX 26 Fresno (KMPH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29495
+#EXTINF:-1,USA | CBS 47 Fresno (KGPE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29494
+#EXTINF:-1,USA | CW 59 Fresno (KFRE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29493
+#EXTINF:-1,USA | ABC 4 Honolulu (KITV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29492
+#EXTINF:-1,USA | NBC 13 Honolulu (KHNL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29491
+#EXTINF:-1,USA | CBS 5 Honolulu (KGMB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29490
+#EXTINF:-1,USA | FOX 2 Honolulu (KHON)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29489
+#EXTINF:-1,USA | ABC 5 Cleveland (WEWS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29488
+#EXTINF:-1,USA | NBC 3 Cleveland (WKYC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29487
+#EXTINF:-1,USA | FOX 8 Cleveland (WJW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29486
+#EXTINF:-1,USA | CBS 19 Cleveland (WOIO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29485
+#EXTINF:-1,USA | ABC 4 Salt Lake City (KTVX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29484
+#EXTINF:-1,USA | CBS 2 Salt Lake City (KUTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29483
+#EXTINF:-1,USA | FOX 13 Salt Lake City (KSTU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29482
+#EXTINF:-1,USA | ABC 5 Weslaco (KRGV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29481
+#EXTINF:-1,USA | NBC 23 Brownsville (KVEO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29480
+#EXTINF:-1,USA | FOX 67 McAllen (KFXV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29479
+#EXTINF:-1,USA | CBS 23 Brownsville (KVEO-DT2)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29478
+#EXTINF:-1,USA | ABC 3 Corpus Christi (KIII)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29477
+#EXTINF:-1,USA | NBC 6 Corpus Christi (KRIS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29476
+#EXTINF:-1,USA | FOX 38 Corpus Christi (KSCC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29475
+#EXTINF:-1,USA | CBS 10 Corpus Christi (KZTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29474
+#EXTINF:-1,USA | ABC 45 Winston-Salem (WXLV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29473
+#EXTINF:-1,USA | NBC 12 Winston-Salem (WXII)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29472
+#EXTINF:-1,USA | FOX 8 Winston-Salem (WGHP)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29471
+#EXTINF:-1,USA | CBS 2 Winston-Salem (WFMY)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29470
+#EXTINF:-1,USA | ABC 7 Buffalo (WKBW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29469
+#EXTINF:-1,USA | FOX 29 Buffalo (WUTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29468
+#EXTINF:-1,USA | NBC 2 Buffalo (WGRZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29467
+#EXTINF:-1,USA | CBS 4 Buffalo (WIVB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29466
+#EXTINF:-1,USA | ABC 68 Birmingham (WABMDT2)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29465
+#EXTINF:-1,USA | NBC 13 Birmingham (WVTM)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29464
+#EXTINF:-1,USA | FOX 6 Birmingham (WBRC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29463
+#EXTINF:-1,USA | CBS 42 Birmingham (WIAT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29462
+#EXTINF:-1,USA | CW 21 Birmingham (WTTO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29461
+#EXTINF:-1,USA | ABC 30 St. Louis (KDNL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29460
+#EXTINF:-1,USA | NBC 5 St. Louis (KSDK)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29459
+#EXTINF:-1,USA | FOX 2 St. Louis (KTVI)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29458
+#EXTINF:-1,USA | CBS 4 St. Louis (KMOV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29457
+#EXTINF:-1,USA | ABC 7 San Francisco (KGO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29456
+#EXTINF:-1,USA | CBS 5 San Francisco (KPIX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29455
+#EXTINF:-1,USA | NBC 11 San Francisco (KNTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29454
+#EXTINF:-1,USA | FOX 2 San Francisco (KTVU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29453
+#EXTINF:-1,USA | CW 44 San Francisco (KBCW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29452
+#EXTINF:-1,USA | ABC 4 Charleston (WCIV-DT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29451
+#EXTINF:-1,USA | NBC 2 Charleston (WCBD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29450
+#EXTINF:-1,USA | FOX 24 Charleston (WTAT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29449
+#EXTINF:-1,USA | CBS 5 Charleston (WCSC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29448
+#EXTINF:-1,USA | ABC 11 Raleigh-Durham (WTVD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29447
+#EXTINF:-1,USA | NBC 5 Raleigh (WRAL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29446
+#EXTINF:-1,USA | FOX 50 Raleigh (WRAZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29445
+#EXTINF:-1,USA | CBS 17 Raleigh (WNCN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29444
+#EXTINF:-1,USA | CW 22 Raleigh (WLFL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29443
+#EXTINF:-1,USA | ABC 10 San Diego (KGTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29442
+#EXTINF:-1,USA | NBC 7 San Diego (KNSD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29441
+#EXTINF:-1,USA | FOX 5 San Diego (KSWB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29440
+#EXTINF:-1,USA | CBS 8 San Diego (KFMB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29439
+#EXTINF:-1,USA | ABC 25 Columbia (WOLO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29438
+#EXTINF:-1,USA | NBC 10 Columbia (WIS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29437
+#EXTINF:-1,USA | CBS 19 Columbia (WLTX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29436
+#EXTINF:-1,USA | FOX 57 Columbia (WACH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29435
+#EXTINF:-1,USA | ABC 4 Pittsburgh (WTAE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29434
+#EXTINF:-1,USA | NBC 11 Pittsburgh (WPXIDT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29433
+#EXTINF:-1,USA | FOX 53 Pittsburgh (WPGH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29432
+#EXTINF:-1,USA | CBS 2 Pittsburgh (KDKA-DT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29431
+#EXTINF:-1,USA | CW 19 Pittsburgh (WPCW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29430
+#EXTINF:-1,USA | Univision 45 Houston (KXLN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29429
+#EXTINF:-1,USA | MyNet 20 Houston (KTXH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29428
+#EXTINF:-1,USA | Telemundo 47 Houston (KTMD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29427
+#EXTINF:-1,USA | Univision 33 Phoenix (KTVW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29426
+#EXTINF:-1,USA | Fox 10 Xtra Phoenix (KUTP)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29425
+#EXTINF:-1,USA | 3TV Phoenix (KTVK)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29424
+#EXTINF:-1,USA | Telemundo 39 Phoenix (KTAZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29423
+#EXTINF:-1,USA | Univision 65 Philadelphia (WUVP)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29422
+#EXTINF:-1,USA | Telemundo 62 Philadelphia (WWSI)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29421
+#EXTINF:-1,USA | Texas 21 (KTXA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29420
+#EXTINF:-1,USA | Univision 23 Dallasโ€“Fort Worth (KUVN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29419
+#EXTINF:-1,USA | MyNet 27 Dallasโ€“Fort Worth (KDFI)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29418
+#EXTINF:-1,USA | Telemundo 39 Dallasโ€“Fort Worth (KXTX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29417
+#EXTINF:-1,USA | Telemundo 44 Chicago (WSNS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29416
+#EXTINF:-1,USA | MyNet 50 Chicago (WPWR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29415
+#EXTINF:-1,USA | Univision 66 Chicago (WGBO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29414
+#EXTINF:-1,USA | MyNet 38 Boston (WSBK)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29413
+#EXTINF:-1,USA | Telemundo 60 Boston (WNEU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29412
+#EXTINF:-1,USA | CW 69 Atlanta (WUPA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29411
+#EXTINF:-1,USA | Peachtree TV Atlanta (WPCH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29410
+#EXTINF:-1,USA | Univision 34 Atlanta (WUVG)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29409
+#EXTINF:-1,USA | Telemundo 25 Denver (KDEN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29408
+#EXTINF:-1,USA | MyNet 33 Miami (WBFS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29407
+#EXTINF:-1,USA | Univision 23 Miami (WLTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29406
+#EXTINF:-1,USA | Fox 5 Plus Washington DC WDCA
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29405
+#EXTINF:-1,USA | MyNet 24 Baltimore (WBFF-DT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29404
+#EXTINF:-1,USA | MyNet Las Vegas (KVCW-DT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29403
+#EXTINF:-1,USA | Telemundo 39 Las Vegas (KBLR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29402
+#EXTINF:-1,USA | Fox 9 Plus Minneapolis (WFTC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29401
+#EXTINF:-1,USA | MyNet 64 Cincinnati (WSTR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29400
+#EXTINF:-1,USA | Univision 19 Sacramento (KUVS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29399
+#EXTINF:-1,USA | Telemundo 40 Tucson (KHRR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29398
+#EXTINF:-1,USA | Univision 46 Tucson (KUVE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29397
+#EXTINF:-1,USA | Univision 21 Fresno (KFTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29396
+#EXTINF:-1,USA | Spectrum SportsNet FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29395
+#EXTINF:-1,USA | Telemundo 51 Fresno (KNSO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29394
+#EXTINF:-1,USA | MyNet 12 Salt Lake City (KMYU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29393
+#EXTINF:-1,USA | Telemundo 10 Salt Lake City (KTMW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29392
+#EXTINF:-1,USA | MyNet 49 Buffalo (WNYO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29391
+#EXTINF:-1,USA | MyNet 68 Birmingham (WABM)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29390
+#EXTINF:-1,USA | MyNet 36 Charleston (WCIV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29389
+#EXTINF:-1,USA | MyNet 28 Raleigh (WRDC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29388
+#EXTINF:-1,USA | AT&T SportsNet Southwest
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29387
+#EXTINF:-1,USA | AT&T SportsNet Pittsburgh
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29386
+#EXTINF:-1,USA | AT&T SportsNet Rocky Mountain
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29385
+#EXTINF:-1,USA | NESN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29384
+#EXTINF:-1,USA | NESN PLUS FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29383
+#EXTINF:-1,USA | MASN FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29382
+#EXTINF:-1,USA | MASN2 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29381
+#EXTINF:-1,USA | Root Sports Northwest
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29380
+#EXTINF:-1,USA | Altitude Sports FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29379
+#EXTINF:-1,USA | Fox Sports San Diego Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29378
+#EXTINF:-1,USA | Fox Sports Arizona Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29377
+#EXTINF:-1,USA | Fox Sports Detroit Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29376
+#EXTINF:-1,USA | Fox Sports Wisconsin
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29375
+#EXTINF:-1,USA | Sportstime Ohio
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29374
+#EXTINF:-1,USA | Fox Sports Tennessee
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29373
+#EXTINF:-1,USA | Fox Sports Southeast (Tennessee)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29372
+#EXTINF:-1,USA | Fox Sports Sun (North Florida)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29371
+#EXTINF:-1,USA | Fox Sports Florida (North)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29370
+#EXTINF:-1,USA | Fox Sports Carolinas HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29369
+#EXTINF:-1,USA | Fox Sports Southeast (North Carolina)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29368
+#EXTINF:-1,USA | Fox Sports South Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29367
+#EXTINF:-1,USA | Fox Sports Indiana
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29366
+#EXTINF:-1,USA | Fox Sports Indiana Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29365
+#EXTINF:-1,USA | Fox Sports New Orleans
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29364
+#EXTINF:-1,USA | Fox Sports Oklahoma Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29363
+#EXTINF:-1,USA | Fox Sports North Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29362
+#EXTINF:-1,USA | Fox Sports Midwest Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29361
+#EXTINF:-1,USA | Fox Sports Wisonsin Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29360
+#EXTINF:-1,USA | Fox Sports New Orleans Plus
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29359
+#EXTINF:-1,USA | Fox Sports Tennessee Plus HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29358
+#EXTINF:-1,USA | NBC 10 Knoxville (WBIR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29357
+#EXTINF:-1,USA | CBS 8 Knoxville (WVLT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29356
+#EXTINF:-1,USA | ABC 6 Knoxville (WATE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29355
+#EXTINF:-1,USA | FOX 43 Knoxville (WTNZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29354
+#EXTINF:-1,USA | ESPN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29353
+#EXTINF:-1,USA | ESPN News HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29352
+#EXTINF:-1,USA | Cinemax East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29351
+#EXTINF:-1,USA | CNN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29350
+#EXTINF:-1,USA | Cheddar Business HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29349
+#EXTINF:-1,USA | Freeform HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29348
+#EXTINF:-1,USA | Disney Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29347
+#EXTINF:-1,USA | Disney XD HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29346
+#EXTINF:-1,USA | Disney Junior HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29345
+#EXTINF:-1,USA | ESPN2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29344
+#EXTINF:-1,USA | TCM HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29343
+#EXTINF:-1,USA | TNT HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29342
+#EXTINF:-1,USA | HLN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29341
+#EXTINF:-1,USA | Cartoon Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29340
+#EXTINF:-1,USA | ESPNU HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29339
+#EXTINF:-1,USA | TBS HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29338
+#EXTINF:-1,USA | FOX Sports 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29337
+#EXTINF:-1,USA | CNBC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29336
+#EXTINF:-1,USA | NBC Sports Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29335
+#EXTINF:-1,USA | Bravo HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29334
+#EXTINF:-1,USA | E! HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29333
+#EXTINF:-1,USA | Syfy HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29332
+#EXTINF:-1,USA | National Geographic Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29331
+#EXTINF:-1,USA | USA Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29330
+#EXTINF:-1,USA | MSNBC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29329
+#EXTINF:-1,USA | Fox Business Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29328
+#EXTINF:-1,USA | Golf Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29327
+#EXTINF:-1,USA | Fox News Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29326
+#EXTINF:-1,USA | Oxygen HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29325
+#EXTINF:-1,USA | HBO East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29324
+#EXTINF:-1,USA | HBO Family East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29322
+#EXTINF:-1,USA | FOX Sports 1 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29321
+#EXTINF:-1,USA | FXX HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29320
+#EXTINF:-1,USA | SEC Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29319
+#EXTINF:-1,USA | truTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29318
+#EXTINF:-1,USA | Hallmark Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29317
+#EXTINF:-1,USA | Universal Kids HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29316
+#EXTINF:-1,USA | Tennis Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29315
+#EXTINF:-1,USA | Nat Geo WILD HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29314
+#EXTINF:-1,USA | Revolt HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29313
+#EXTINF:-1,USA | FX Movie Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29312
+#EXTINF:-1,USA | AccuWeather HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29311
+#EXTINF:-1,USA | Olympic Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29310
+#EXTINF:-1,USA | Nick Jr HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29309
+#EXTINF:-1,USA | Paramount TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29308
+#EXTINF:-1,USA | BET HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29307
+#EXTINF:-1,USA | VH1 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29306
+#EXTINF:-1,USA | TV Land HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29305
+#EXTINF:-1,USA | Nickelodeon East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29304
+#EXTINF:-1,USA | Comedy Central HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29303
+#EXTINF:-1,USA | MTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29302
+#EXTINF:-1,USA | CMT HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29301
+#EXTINF:-1,USA | FX HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29300
+#EXTINF:-1,USA | Ovation HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29299
+#EXTINF:-1,USA | Big Ten Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29298
+#EXTINF:-1,USA | CBS Sports Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29297
+#EXTINF:-1,USA | ActionMax HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29296
+#EXTINF:-1,USA | HBO2 East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29295
+#EXTINF:-1,USA | ACC Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29294
+#EXTINF:-1,USA | EPIX 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29293
+#EXTINF:-1,USA | EPIX HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29292
+#EXTINF:-1,USA | STARZ East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29290
+#EXTINF:-1,USA | STARZ Encore East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29289
+#EXTINF:-1,USA | STARZ Kids & Family HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29288
+#EXTINF:-1,USA | Hallmark Movies & Mysteries HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29287
+#EXTINF:-1,USA | Hallmark Drama HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29286
+#EXTINF:-1,USA | MTV Live HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29285
+#EXTINF:-1,USA | HDNET MOVIES HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29284
+#EXTINF:-1,USA | LOGO HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29283
+#EXTINF:-1,USA | A&E HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29282
+#EXTINF:-1,USA | Lifetime Movie Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29281
+#EXTINF:-1,USA | Sundance TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29280
+#EXTINF:-1,USA | Lifetime HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29279
+#EXTINF:-1,USA | IFC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29278
+#EXTINF:-1,USA | STARZ Encore Action HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29277
+#EXTINF:-1,USA | NHL Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29276
+#EXTINF:-1,USA | NBA TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29275
+#EXTINF:-1,USA | MLB Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29274
+#EXTINF:-1,USA | STARZ ENCORE Classic HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29273
+#EXTINF:-1,USA | STARZ ENCORE Black HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29272
+#EXTINF:-1,USA | STARZ ENCORE Westerns HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29271
+#EXTINF:-1,USA | STARZ ENCORE Family HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29270
+#EXTINF:-1,USA | STARZ ENCORE Suspense HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29269
+#EXTINF:-1,USA | BET Her HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29268
+#EXTINF:-1,USA | STARZ ENCORE West HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29267
+#EXTINF:-1,USA | Discovery HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29266
+#EXTINF:-1,USA | Animal Planet HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29265
+#EXTINF:-1,USA | AXS TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29264
+#EXTINF:-1,USA | TV One HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29263
+#EXTINF:-1,USA | AMC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29262
+#EXTINF:-1,USA | WE TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29261
+#EXTINF:-1,USA | VICE HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29260
+#EXTINF:-1,USA | History HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29259
+#EXTINF:-1,USA | FYI HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29258
+#EXTINF:-1,USA | MTV2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29257
+#EXTINF:-1,USA | BBC America HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29256
+#EXTINF:-1,USA | Cooking Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29255
+#EXTINF:-1,USA | Showtime East HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29254
+#EXTINF:-1,USA | The Weather Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29253
+#EXTINF:-1,USA | Nicktoons HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29252
+#EXTINF:-1,USA | Discovery Life HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29251
+#EXTINF:-1,USA | Science HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29250
+#EXTINF:-1,USA | TLC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29249
+#EXTINF:-1,USA | Showtime Extreme HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29248
+#EXTINF:-1,USA | SHOWTIME 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29247
+#EXTINF:-1,USA | Teen Nick HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29246
+#EXTINF:-1,USA | Discovery Family HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29245
+#EXTINF:-1,USA | One American News Network HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29244
+#EXTINF:-1,USA | American Heroes HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29243
+#EXTINF:-1,USA | UP HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29242
+#EXTINF:-1,USA | Sportsman Channel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29241
+#EXTINF:-1,USA | POP HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29240
+#EXTINF:-1,USA | ReelzChannel HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29239
+#EXTINF:-1,USA | HGTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29238
+#EXTINF:-1,USA | ION TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29237
+#EXTINF:-1,USA | FOX 25 Boston (WFXT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29236
+#EXTINF:-1,USA | FOX 5 Atlanta (WAGA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29235
+#EXTINF:-1,USA | FOX 32 Chicago (WFLD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29234
+#EXTINF:-1,USA | FOX 31 Denver (KDVR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29233
+#EXTINF:-1,USA | FOX 7 Miami (WSVN)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29232
+#EXTINF:-1,USA | FOX 11 Los Angeles (KTTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29231
+#EXTINF:-1,USA | FOX 5 New York (WNYW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29230
+#EXTINF:-1,USA | FOX 29 Philadelphia (WTXF)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29229
+#EXTINF:-1,USA | FOX 45 Baltimore (WBFF)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29228
+#EXTINF:-1,USA | FOX 9 Minneapolis-St. Paul (KMSP)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29227
+#EXTINF:-1,USA | FOX 17 Nashville (WZTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29226
+#EXTINF:-1,USA | FOX 4 Dallas-Fort Worth (KDFW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29225
+#EXTINF:-1,USA | FOX 10 Phoenix (KSAZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29224
+#EXTINF:-1,USA | FOX 13 Seattle (KCPQ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29223
+#EXTINF:-1,USA | FOX 25 Oklahoma City (KOKH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29222
+#EXTINF:-1,USA | FOX 8 New Orleans (WVUE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29221
+#EXTINF:-1,USA | FOX 26 Houston (KRIV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29220
+#EXTINF:-1,USA | FOX 5 Las Vegas (KVVU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29219
+#EXTINF:-1,USA | FOX 5 Washington DC (WTTG)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29218
+#EXTINF:-1,USA | FOX 19 Cincinnati (WXIX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29217
+#EXTINF:-1,USA | Fox Sports North
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29216
+#EXTINF:-1,USA | Fox Sports South
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29215
+#EXTINF:-1,USA | Fox Sports Southeast (Georgia)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29214
+#EXTINF:-1,USA | Fox Sports West
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29213
+#EXTINF:-1,USA | Fox Sports Southwest
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29212
+#EXTINF:-1,USA | Fox Sports Prime Ticket
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29211
+#EXTINF:-1,USA | Fox Sports Oklahoma
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29210
+#EXTINF:-1,USA | Fox Sports Arizona
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29209
+#EXTINF:-1,USA | Fox Sports Sun (South Florida)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29208
+#EXTINF:-1,USA | Fox Sports Florida (South)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29207
+#EXTINF:-1,USA | Fox Sports San Diego
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29206
+#EXTINF:-1,USA | YES Network
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29205
+#EXTINF:-1,USA | CBS 5 Phoenix (KPHO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29204
+#EXTINF:-1,USA | CBS 5 Nashville (WTVF)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29203
+#EXTINF:-1,USA | CBS 4 Boston (WBZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29202
+#EXTINF:-1,USA | CBS 7 Seattle (KIRO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29201
+#EXTINF:-1,USA | CBS 11 Houston (KHOU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29200
+#EXTINF:-1,USA | CBS 46 Atlanta (WGCL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29199
+#EXTINF:-1,USA | CBS 12 Cincinnati (WKRC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29198
+#EXTINF:-1,USA | CBS 4 Minneapolis (WCCO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29197
+#EXTINF:-1,USA | CBS 62 Detroit (WWJ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29196
+#EXTINF:-1,USA | CBS 2 Chicago (WBBM)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29195
+#EXTINF:-1,USA | CBS 4 Miami (WFOR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29194
+#EXTINF:-1,USA | CBS 9 Oklahoma City (KWTV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29193
+#EXTINF:-1,USA | CBS 4 Denver (KCNC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29192
+#EXTINF:-1,USA | CBS 2 Los Angeles (KCBS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29191
+#EXTINF:-1,USA | CBS 2 New York (WCBS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29190
+#EXTINF:-1,USA | CBS 11 Dallas-Fort Worth (KTVT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29189
+#EXTINF:-1,USA | CBS 21 Dallas-Fort Worth (KTXA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29188
+#EXTINF:-1,USA | CBS 9 Washington DC (WUSA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29187
+#EXTINF:-1,USA | CBS 13 Baltimore (WJZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29186
+#EXTINF:-1,USA | CBS 55 New York (WLNY)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29185
+#EXTINF:-1,USA | CBS 4 New Orleans (WWL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29184
+#EXTINF:-1,USA | CBS 8 Las Vegas (KLAS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29183
+#EXTINF:-1,USA | CBS 3 Philadelphia (KYW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29182
+#EXTINF:-1,USA | ABC 9 Manchester (WMUR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29181
+#EXTINF:-1,USA | ABC 5 Boston (WCVB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29180
+#EXTINF:-1,USA | ABC 2 Atlanta (WSB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29179
+#EXTINF:-1,USA | ABC 7 Detroit (WXYZ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29178
+#EXTINF:-1,USA | ABC 7 Chicago (WLS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29177
+#EXTINF:-1,USA | ABC 7 Denver (KMGH)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29176
+#EXTINF:-1,USA | ABC 10 Miami (WPLG)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29175
+#EXTINF:-1,USA | ABC 7 Los Angeles (KABC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29174
+#EXTINF:-1,USA | ABC 7 New York (WABC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29173
+#EXTINF:-1,USA | ABC 8 Dallasโ€“Fort Worth (WFAA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29172
+#EXTINF:-1,USA | ABC 5 Oklahoma City (KOCO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29171
+#EXTINF:-1,USA | ABC 7 Washington DC (WJLA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29170
+#EXTINF:-1,USA | ABC 2 Baltimore (WMAR)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29169
+#EXTINF:-1,USA | ABC 6 Philadelphia (WPVI)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29168
+#EXTINF:-1,USA | ABC 15 Phoenix (KNXV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29167
+#EXTINF:-1,USA | ABC 4 Seattle (KOMO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29166
+#EXTINF:-1,USA | ABC 13 Houston (KTRK)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29165
+#EXTINF:-1,USA | ABC 13 Las Vegas (KTNV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29164
+#EXTINF:-1,USA | ABC 5 Minneapolis-St. Paul (KSTP)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29163
+#EXTINF:-1,USA | ABC 9 Cincinnati (WCPO)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29162
+#EXTINF:-1,USA | NBC 11 Atlanta (WXIA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29161
+#EXTINF:-1,USA | NBC 10 Boston (WBTS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29160
+#EXTINF:-1,USA | NBC 4 Detroit (WDIV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29159
+#EXTINF:-1,USA | NBC 5 Chicago (WMAQ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29158
+#EXTINF:-1,USA | NBC 6 Miami (WTVJ)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29157
+#EXTINF:-1,USA | NBC 9 Denver (KUSA)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29156
+#EXTINF:-1,USA | NBC 4 Los Angeles (KNBC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29155
+#EXTINF:-1,USA | NBC 4 New York (WNBC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29154
+#EXTINF:-1,USA | NBC 5 Dallasโ€“Fort Worth (KXAS)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29153
+#EXTINF:-1,USA | NBC 10 Philadelphia (WCAU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29152
+#EXTINF:-1,USA | NBC 12 Phoenix (KPNX)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29151
+#EXTINF:-1,USA | NBC 11 Baltimore (WBAL)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29150
+#EXTINF:-1,USA | NBC 4 Washington DC (WRC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29149
+#EXTINF:-1,USA | NBC 5 Seattle (KING)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29148
+#EXTINF:-1,USA | NBC 2 Houston (KPRC)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29147
+#EXTINF:-1,USA | NBC 5 Cincinnati (WLWT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29146
+#EXTINF:-1,USA | NBC 6 New Orleans (WDSU)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29145
+#EXTINF:-1,USA | NBC 4 Nashville (WSMV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29144
+#EXTINF:-1,USA | NBC 3 Las Vegas (KSNVDT)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29143
+#EXTINF:-1,USA | NBC 11 Minneapolis (KARE)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29142
+#EXTINF:-1,USA | NBC Sports Bay Area FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29141
+#EXTINF:-1,USA | NBC Sports California FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29140
+#EXTINF:-1,USA | NBC Sports Boston FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29139
+#EXTINF:-1,USA | NBC Sports Washington FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29138
+#EXTINF:-1,USA | NBC Sports Chicago FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29137
+#EXTINF:-1,USA | CW 23 Minneapolis (WUCW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29136
+#EXTINF:-1,USA | CW 50 Detroit (WKBD)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29135
+#EXTINF:-1,USA | CW 57 Philadelphia (WPSG)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29134
+#EXTINF:-1,USA | CW 54 Baltimore (WNUV)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29133
+#EXTINF:-1,USA | CW 34 Oklahoma City (KOCB)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29132
+#EXTINF:-1,USA | CW 33 Las Vegas (KVCW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29131
+#EXTINF:-1,USA | CW 11 Seattle (KSTW)
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29130
+#EXTINF:-1,USA | Bounce TV
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29129
+#EXTINF:-1,USA | Grit
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29128
+#EXTINF:-1,USA | HBO Comedy
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29127
+#EXTINF:-1,USA | HBO Signature FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29126
+#EXTINF:-1,USA | HBO Zone FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29125
+#EXTINF:-1,USA | Cinemax MOREMAX
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29124
+#EXTINF:-1,USA | Cinemax Moviemax FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29123
+#EXTINF:-1,USA | Cinemax Thrillermax FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29122
+#EXTINF:-1,USA | Cinemax 5Star Max FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29121
+#EXTM3U
+#EXTINF:-1,US: ACTIONMAX
+http://melhordomundo.in:8080/jonathan/jonathan123/127382
+#EXTINF:-1,US: CINEMAX EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127383
+#EXTINF:-1,US: CINEMAX WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127384
+#EXTINF:-1,US: MOREMAX
+http://melhordomundo.in:8080/jonathan/jonathan123/127385
+#EXTINF:-1,US: OUTERMAX
+http://melhordomundo.in:8080/jonathan/jonathan123/127386
+#EXTINF:-1,US: THRILLERMAX
+http://melhordomundo.in:8080/jonathan/jonathan123/127387
+#EXTINF:-1,US: EPIX
+http://melhordomundo.in:8080/jonathan/jonathan123/127388
+#EXTINF:-1,US: EPIX DRIVE IN
+http://melhordomundo.in:8080/jonathan/jonathan123/127389
+#EXTINF:-1,US: EPIX HITS
+http://melhordomundo.in:8080/jonathan/jonathan123/127390
+#EXTINF:-1,US: EPIX2
+http://melhordomundo.in:8080/jonathan/jonathan123/127391
+#EXTINF:-1,US: HBO COMEDY
+http://melhordomundo.in:8080/jonathan/jonathan123/127392
+#EXTINF:-1,US: HBO EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127393
+#EXTINF:-1,US: HBO FAMILY
+http://melhordomundo.in:8080/jonathan/jonathan123/127394
+#EXTINF:-1,US: HBO SIGNATURE
+http://melhordomundo.in:8080/jonathan/jonathan123/127395
+#EXTINF:-1,US: HBO WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127396
+#EXTINF:-1,US: HBO ZONE
+http://melhordomundo.in:8080/jonathan/jonathan123/127397
+#EXTINF:-1,US: SHOWTIME EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127398
+#EXTINF:-1,US: SHOWTIME WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127399
+#EXTINF:-1,US: SHOWTIME BEYOND
+http://melhordomundo.in:8080/jonathan/jonathan123/127400
+#EXTINF:-1,US: SHOWTIME FAMILY ZONE
+http://melhordomundo.in:8080/jonathan/jonathan123/127401
+#EXTINF:-1,US: SHOWTIME NEXT
+http://melhordomundo.in:8080/jonathan/jonathan123/127402
+#EXTINF:-1,US: SHOWTIME SHOWCASE
+http://melhordomundo.in:8080/jonathan/jonathan123/127403
+#EXTINF:-1,US: SHOWTIME WOMEN
+http://melhordomundo.in:8080/jonathan/jonathan123/127404
+#EXTINF:-1,US: STARZ EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127406
+#EXTINF:-1,US: STARZ WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127407
+#EXTINF:-1,US: STARZ EDGE
+http://melhordomundo.in:8080/jonathan/jonathan123/127408
+#EXTINF:-1,US: STARZ IN BLACK
+http://melhordomundo.in:8080/jonathan/jonathan123/127409
+#EXTINF:-1,US: STARZ KIDS&FAMILY
+http://melhordomundo.in:8080/jonathan/jonathan123/127410
+#EXTINF:-1,US: STARZENCORE
+http://melhordomundo.in:8080/jonathan/jonathan123/127411
+#EXTINF:-1,US: STARZENCORE ACTION
+http://melhordomundo.in:8080/jonathan/jonathan123/127412
+#EXTINF:-1,US: STARZENCORE CLASSIC
+http://melhordomundo.in:8080/jonathan/jonathan123/127413
+#EXTINF:-1,US: STARZENCORE FAMILY
+http://melhordomundo.in:8080/jonathan/jonathan123/127414
+#EXTINF:-1,US: STARZENCORE SUSPENSE
+http://melhordomundo.in:8080/jonathan/jonathan123/127415
+#EXTINF:-1,US: STARZENCORE WESTERNS
+http://melhordomundo.in:8080/jonathan/jonathan123/127416
+#EXTINF:-1,US: Showtime 2
+http://melhordomundo.in:8080/jonathan/jonathan123/127417
+#EXTINF:-1,US: MY13  LOS ANGELES CA KCOP
+http://melhordomundo.in:8080/jonathan/jonathan123/127418
+#EXTINF:-1,US: ESPN News US HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127419
+#EXTINF:-1,US: WGN 9
+http://melhordomundo.in:8080/jonathan/jonathan123/127420
+#EXTINF:-1,US: ABC DALLAS TX WFAA
+http://melhordomundo.in:8080/jonathan/jonathan123/127422
+#EXTINF:-1,US: ABC DENVER CO KMGH
+http://melhordomundo.in:8080/jonathan/jonathan123/127423
+#EXTINF:-1,US: ABC LOS ANGELES CA KABC
+http://melhordomundo.in:8080/jonathan/jonathan123/127424
+#EXTINF:-1,US: ABC NEW YORK WABC
+http://melhordomundo.in:8080/jonathan/jonathan123/127425
+#EXTINF:-1,US: ABC ATLANTA GA WSB
+http://melhordomundo.in:8080/jonathan/jonathan123/127426
+#EXTINF:-1,US: ABC BALTIMORE MD WMAR
+http://melhordomundo.in:8080/jonathan/jonathan123/127427
+#EXTINF:-1,US: ABC MIAMI FL WPLG
+http://melhordomundo.in:8080/jonathan/jonathan123/127428
+#EXTINF:-1,US: ABC MILWAUKEE WI WISN
+http://melhordomundo.in:8080/jonathan/jonathan123/127429
+#EXTINF:-1,US: ABC NASHVILLE TN WKRN
+http://melhordomundo.in:8080/jonathan/jonathan123/127430
+#EXTINF:-1,US: ABC PHOENIX AZ KNXV
+http://melhordomundo.in:8080/jonathan/jonathan123/127431
+#EXTINF:-1,US: ABC PORTLAND OR KATU
+http://melhordomundo.in:8080/jonathan/jonathan123/127432
+#EXTINF:-1,US: ABC SACRAMENTO CA KXTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127433
+#EXTINF:-1,US: ABC SALT LAKE CITY UT KTVX
+http://melhordomundo.in:8080/jonathan/jonathan123/127434
+#EXTINF:-1,US: ABC SAN ANTONIO TX KSAT
+http://melhordomundo.in:8080/jonathan/jonathan123/127435
+#EXTINF:-1,US: ABC SAN DIEGO CA KGTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127436
+#EXTINF:-1,US: FOX LOS ANGELES CA KTTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127437
+#EXTINF:-1,US: FOX NEW YORK NY WNYW
+http://melhordomundo.in:8080/jonathan/jonathan123/127438
+#EXTINF:-1,US: FOX 43 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127439
+#EXTINF:-1,US: FOX BALTIMORE HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127440
+#EXTINF:-1,US: FOX Business Network HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127441
+#EXTINF:-1,US: FOX Chicago
+http://melhordomundo.in:8080/jonathan/jonathan123/127442
+#EXTINF:-1,US: FOX Columbus
+http://melhordomundo.in:8080/jonathan/jonathan123/127443
+#EXTINF:-1,US: NBC ATLANTA HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127444
+#EXTINF:-1,US: NBC BOSTON HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127445
+#EXTINF:-1,US: A&E
+http://melhordomundo.in:8080/jonathan/jonathan123/127446
+#EXTINF:-1,US: AMC
+http://melhordomundo.in:8080/jonathan/jonathan123/127447
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL
+http://melhordomundo.in:8080/jonathan/jonathan123/127448
+#EXTINF:-1,US: ANIMAL PLANET EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127449
+#EXTINF:-1,US: ANIMAL PLANET WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127450
+#EXTINF:-1,US: DISCOVERY CHANNEL EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127451
+#EXTINF:-1,US: DESTINATION AMERICA
+http://melhordomundo.in:8080/jonathan/jonathan123/127452
+#EXTINF:-1,US: DISCOVERY FAMILY
+http://melhordomundo.in:8080/jonathan/jonathan123/127453
+#EXTINF:-1,US: DISCOVERY ID EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127454
+#EXTINF:-1,US: DISCOVERY LIFE
+http://melhordomundo.in:8080/jonathan/jonathan123/127455
+#EXTINF:-1,US: ANTENNA TV
+http://melhordomundo.in:8080/jonathan/jonathan123/127456
+#EXTINF:-1,US: ASPIRE
+http://melhordomundo.in:8080/jonathan/jonathan123/127457
+#EXTINF:-1,US: AWE
+http://melhordomundo.in:8080/jonathan/jonathan123/127458
+#EXTINF:-1,US: AXS TV
+http://melhordomundo.in:8080/jonathan/jonathan123/127459
+#EXTINF:-1,US: BABY FIRST
+http://melhordomundo.in:8080/jonathan/jonathan123/127460
+#EXTINF:-1,US: CARTOON NETWORK EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127461
+#EXTINF:-1,US: CARTOON NETWORK WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127462
+#EXTINF:-1,US: DISNEY CHANNEL EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127463
+#EXTINF:-1,US: DISNEY CHANNEL WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127464
+#EXTINF:-1,US: DISNEY JR WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127465
+#EXTINF:-1,US: DISNEY XD EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127466
+#EXTINF:-1,US: DISNEY XD WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127467
+#EXTINF:-1,US: Nickelodeon
+http://melhordomundo.in:8080/jonathan/jonathan123/127468
+#EXTINF:-1,US: WWE Network HD
+http://melhordomundo.in:8080/jonathan/jonathan123/127469
+#EXTINF:-1,US: WEATHER CHANNEL
+http://melhordomundo.in:8080/jonathan/jonathan123/127470
+#EXTINF:-1,US: WE TV
+http://melhordomundo.in:8080/jonathan/jonathan123/127471
+#EXTINF:-1,US: VH1 EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127472
+#EXTINF:-1,US: USA NETWORK WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127473
+#EXTINF:-1,US: USA NETWORK EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127474
+#EXTINF:-1,US: TV ONE
+http://melhordomundo.in:8080/jonathan/jonathan123/127475
+#EXTINF:-1,US: TV LAND EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127476
+#EXTINF:-1,US: TRUTV WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127477
+#EXTINF:-1,US: TRUTV EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127478
+#EXTINF:-1,US: TRAVEL CHANNEL EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127479
+#EXTINF:-1,US: TNT WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127480
+#EXTINF:-1,US: TNT EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127481
+#EXTINF:-1,US: TLC WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127482
+#EXTINF:-1,US: TLC EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127483
+#EXTINF:-1,US: TEENNICK
+http://melhordomundo.in:8080/jonathan/jonathan123/127484
+#EXTINF:-1,US: TCM
+http://melhordomundo.in:8080/jonathan/jonathan123/127485
+#EXTINF:-1,US: TBS WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127486
+#EXTINF:-1,US: TASTEMADE EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127487
+#EXTINF:-1,US: SYFY WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127488
+#EXTINF:-1,US: SYFY EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127489
+#EXTINF:-1,US: SUNDANCE
+http://melhordomundo.in:8080/jonathan/jonathan123/127490
+#EXTINF:-1,US: START TV
+http://melhordomundo.in:8080/jonathan/jonathan123/127491
+#EXTINF:-1,US: SONY MOVIE CHANNEL
+http://melhordomundo.in:8080/jonathan/jonathan123/127492
+#EXTINF:-1,US: SMITHSONIAN WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127493
+#EXTINF:-1,US: SMITHSONIAN EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127494
+#EXTINF:-1,US: SCIENCE
+http://melhordomundo.in:8080/jonathan/jonathan123/127495
+#EXTINF:-1,US: REVOLT
+http://melhordomundo.in:8080/jonathan/jonathan123/127496
+#EXTINF:-1,US: REELZ
+http://melhordomundo.in:8080/jonathan/jonathan123/127497
+#EXTINF:-1,US: PURSUIT
+http://melhordomundo.in:8080/jonathan/jonathan123/127498
+#EXTINF:-1,US: CHEDDAR BUSINESS
+http://melhordomundo.in:8080/jonathan/jonathan123/127499
+#EXTINF:-1,US: CHEDDAR NEWS
+http://melhordomundo.in:8080/jonathan/jonathan123/127500
+#EXTINF:-1,US: 5 STARMAX
+http://melhordomundo.in:8080/jonathan/jonathan123/127501
+#EXTINF:-1,US: CLEO TV
+http://melhordomundo.in:8080/jonathan/jonathan123/127502
+#EXTINF:-1,US: CMT
+http://melhordomundo.in:8080/jonathan/jonathan123/127503
+#EXTINF:-1,US: CNBC
+http://melhordomundo.in:8080/jonathan/jonathan123/127504
+#EXTINF:-1,US: CNBC WORLD
+http://melhordomundo.in:8080/jonathan/jonathan123/127505
+#EXTINF:-1,US: CNN
+http://melhordomundo.in:8080/jonathan/jonathan123/127506
+#EXTINF:-1,US: COMEDY CENTRAL EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127507
+#EXTINF:-1,US: COMET
+http://melhordomundo.in:8080/jonathan/jonathan123/127508
+#EXTINF:-1,US: COOKING CHANNEL
+http://melhordomundo.in:8080/jonathan/jonathan123/127509
+#EXTINF:-1,US: COZI TV
+http://melhordomundo.in:8080/jonathan/jonathan123/127510
+#EXTINF:-1,US: CW CHICAGO IL WPWR
+http://melhordomundo.in:8080/jonathan/jonathan123/127511
+#EXTINF:-1,US: CW NEW YORK NY WPIX
+http://melhordomundo.in:8080/jonathan/jonathan123/127512
+#EXTINF:-1,US: E! ENTERTAINMENT EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127513
+#EXTINF:-1,US: E! ENTERTAINMENT WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127514
+#EXTINF:-1,US: ELREY NETWORK
+http://melhordomundo.in:8080/jonathan/jonathan123/127515
+#EXTINF:-1,US: FOOD NETWORK EAST
+http://melhordomundo.in:8080/jonathan/jonathan123/127516
+#EXTINF:-1,US: FOOD NETWORK WEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127517
+#EXTINF:-1,US: NBC DALLAS TX KXAS
+http://melhordomundo.in:8080/jonathan/jonathan123/127518
+#EXTINF:-1,US: NBC DENVER CO KUSA
+http://melhordomundo.in:8080/jonathan/jonathan123/127519
+#EXTINF:-1,US: NBC LOS ANGELES CA KNBC
+http://melhordomundo.in:8080/jonathan/jonathan123/127520
+#EXTINF:-1,US: NBC Sports Bay Area
+http://melhordomundo.in:8080/jonathan/jonathan123/127521
+#EXTINF:-1,US: NBC Sports Boston
+http://melhordomundo.in:8080/jonathan/jonathan123/127522
+#EXTINF:-1,US: NBC Sports California
+http://melhordomundo.in:8080/jonathan/jonathan123/127523
+#EXTINF:-1,US: NBC Sports Chicago
+http://melhordomundo.in:8080/jonathan/jonathan123/127524
+#EXTINF:-1,US: NBC Sports Northwest
+http://melhordomundo.in:8080/jonathan/jonathan123/127525
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://melhordomundo.in:8080/jonathan/jonathan123/127526
+#EXTINF:-1,US: NBC Sports Washington
+http://melhordomundo.in:8080/jonathan/jonathan123/127527
+#EXTINF:-1,US: NBCSN
+http://melhordomundo.in:8080/jonathan/jonathan123/127528
+#EXTINF:-1,US: NBCSN BAY AREA
+http://melhordomundo.in:8080/jonathan/jonathan123/127529
+#EXTINF:-1,US: NBCSN BOSTON
+http://melhordomundo.in:8080/jonathan/jonathan123/127530
+#EXTINF:-1,US: NBCSN CALIFORNIA
+http://melhordomundo.in:8080/jonathan/jonathan123/127531
+#EXTINF:-1,US: NBCSN CHICAGO
+http://melhordomundo.in:8080/jonathan/jonathan123/127532
+#EXTINF:-1,US: NBCSN CHICAGO PLUS
+http://melhordomundo.in:8080/jonathan/jonathan123/127533
+#EXTINF:-1,US: NBCSN NORTHWEST
+http://melhordomundo.in:8080/jonathan/jonathan123/127534
+#EXTINF:-1,US: NBCSN PHILADELPHIA
+http://melhordomundo.in:8080/jonathan/jonathan123/127535
+#EXTINF:-1,US: NBC ATLANTA GA WXIA
+http://melhordomundo.in:8080/jonathan/jonathan123/127536
+#EXTINF:-1,US: NBC BALTIMORE MD WBAL
+http://melhordomundo.in:8080/jonathan/jonathan123/127537
+#EXTINF:-1,US: NBC BOSTON MA WBTS
+http://melhordomundo.in:8080/jonathan/jonathan123/127538
+#EXTINF:-1,US: NBC BUFFALO NY WGRZ
+http://melhordomundo.in:8080/jonathan/jonathan123/127539
+#EXTINF:-1,US: NBC CHICAGO IL WMAQ
+http://melhordomundo.in:8080/jonathan/jonathan123/127540
+#EXTINF:-1,US: NBC CINCINNATI OH WLWT
+http://melhordomundo.in:8080/jonathan/jonathan123/127541
+#EXTINF:-1,US: NBC CLEVELAND OH WKYC
+http://melhordomundo.in:8080/jonathan/jonathan123/127542
+#EXTINF:-1,US: NBC DALLAS TX KXAS
+http://melhordomundo.in:8080/jonathan/jonathan123/127543
+#EXTINF:-1,US: NBC DENVER CO KUSA
+http://melhordomundo.in:8080/jonathan/jonathan123/127544
+#EXTINF:-1,US: NBC DETROIT MI WDIV
+http://melhordomundo.in:8080/jonathan/jonathan123/127545
+#EXTINF:-1,US: NBC GREEN BAY WI WGBA
+http://melhordomundo.in:8080/jonathan/jonathan123/127546
+#EXTINF:-1,US: NBC HARTFORD CT WVIT
+http://melhordomundo.in:8080/jonathan/jonathan123/127547
+#EXTINF:-1,US: NBC HOUSTON TX KPRC
+http://melhordomundo.in:8080/jonathan/jonathan123/127548
+#EXTINF:-1,US: NBC INDIANAPOLIS IN WTHR
+http://melhordomundo.in:8080/jonathan/jonathan123/127549
+#EXTINF:-1,US: NBC JACKSONVILLE FL WTLV
+http://melhordomundo.in:8080/jonathan/jonathan123/127550
+#EXTINF:-1,US: NBC KANSAS CITY MO KSHB
+http://melhordomundo.in:8080/jonathan/jonathan123/127551
+#EXTINF:-1,US: NBC LOS ANGELES CA KNBC
+http://melhordomundo.in:8080/jonathan/jonathan123/127552
+#EXTINF:-1,US: NBC MIAMI FL WTVJ
+http://melhordomundo.in:8080/jonathan/jonathan123/127553
+#EXTINF:-1,US: NBC MILWUAKEE WI WTMJ
+http://melhordomundo.in:8080/jonathan/jonathan123/127554
+#EXTINF:-1,US: NBC MINNEAPOLIS MN KARE
+http://melhordomundo.in:8080/jonathan/jonathan123/127555
+#EXTINF:-1,US: NBC NASHVILLE TN WSMV
+http://melhordomundo.in:8080/jonathan/jonathan123/127556
+#EXTINF:-1,US: NBC NEW ORLEANS LA WDSU
+http://melhordomundo.in:8080/jonathan/jonathan123/127557
+#EXTINF:-1,US: NBC NEW YORK NY WNBC
+http://melhordomundo.in:8080/jonathan/jonathan123/127558
+#EXTINF:-1,US: NBC ORLANDO FL WESH
+http://melhordomundo.in:8080/jonathan/jonathan123/127559
+#EXTINF:-1,US: NBC PHILADELPHIA PA WCAU
+http://melhordomundo.in:8080/jonathan/jonathan123/127560
+#EXTINF:-1,US: NBC PHOENIX AZ KPNX
+http://melhordomundo.in:8080/jonathan/jonathan123/127561
+#EXTINF:-1,US: NBC PITTSBURGH PA WPXI
+http://melhordomundo.in:8080/jonathan/jonathan123/127562
+#EXTINF:-1,US: NBC PORTLAND OR KGW
+http://melhordomundo.in:8080/jonathan/jonathan123/127563
+#EXTINF:-1,US: NBC RALEIGH NC WRAL
+http://melhordomundo.in:8080/jonathan/jonathan123/127564
+#EXTINF:-1,US: NBC SACRAMENTO CA KCRA
+http://melhordomundo.in:8080/jonathan/jonathan123/127565
+#EXTINF:-1,US: NBC SALT LAKE CITY UT KSL
+http://melhordomundo.in:8080/jonathan/jonathan123/127566
+#EXTINF:-1,US: NBC SAN DIEGO CA KNSD
+http://melhordomundo.in:8080/jonathan/jonathan123/127567
+#EXTINF:-1,US: NBC SAN FRANCISCO CA KNTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127568
+#EXTINF:-1,US: NBC SEATTLE WA KING
+http://melhordomundo.in:8080/jonathan/jonathan123/127569
+#EXTINF:-1,US: NBC ST LOUIS MO KSDK
+http://melhordomundo.in:8080/jonathan/jonathan123/127570
+#EXTINF:-1,US: NBC WASHINGTON DC WRC
+http://melhordomundo.in:8080/jonathan/jonathan123/127571
+#EXTINF:-1,US: FOX DALLAS TX KDFW
+http://melhordomundo.in:8080/jonathan/jonathan123/127572
+#EXTINF:-1,US: FOX DENVER CO KDVR
+http://melhordomundo.in:8080/jonathan/jonathan123/127573
+#EXTINF:-1,US: FOX ATLANTA GA WAGA
+http://melhordomundo.in:8080/jonathan/jonathan123/127574
+#EXTINF:-1,US: FOX AUSTIN TX KTBC
+http://melhordomundo.in:8080/jonathan/jonathan123/127575
+#EXTINF:-1,US: FOX BOSTON MA WFXT
+http://melhordomundo.in:8080/jonathan/jonathan123/127576
+#EXTINF:-1,US: FOX BUFFALO NY WUTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127577
+#EXTINF:-1,US: FOX DALLAS TX KDFW
+http://melhordomundo.in:8080/jonathan/jonathan123/127578
+#EXTINF:-1,US: FOX DENVER CO KDVR
+http://melhordomundo.in:8080/jonathan/jonathan123/127579
+#EXTINF:-1,US: FOX DETROIT MI WJBK
+http://melhordomundo.in:8080/jonathan/jonathan123/127580
+#EXTINF:-1,US: FOX GREEN BAY WI WLUK
+http://melhordomundo.in:8080/jonathan/jonathan123/127581
+#EXTINF:-1,US: FOX HARTFORD CT WTIC
+http://melhordomundo.in:8080/jonathan/jonathan123/127582
+#EXTINF:-1,US: FOX INDIANAPOLIS IN WXIN
+http://melhordomundo.in:8080/jonathan/jonathan123/127583
+#EXTINF:-1,US: FOX JACKSONVILLE FL WFOX
+http://melhordomundo.in:8080/jonathan/jonathan123/127584
+#EXTINF:-1,US: FOX KANSAS CITY MO WDAF
+http://melhordomundo.in:8080/jonathan/jonathan123/127585
+#EXTINF:-1,US: FOX LOS ANGELES CA KTTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127586
+#EXTINF:-1,US: FOX MIAMI FL WSVN
+http://melhordomundo.in:8080/jonathan/jonathan123/127587
+#EXTINF:-1,US: FOX MILWAUKEE WI WITI
+http://melhordomundo.in:8080/jonathan/jonathan123/127588
+#EXTINF:-1,US: FOX NASHVILLE TN WZTV
+http://melhordomundo.in:8080/jonathan/jonathan123/127589
+#EXTINF:-1,US: FOX NEW ORLEANS LA WVUE
+http://melhordomundo.in:8080/jonathan/jonathan123/127590
+#EXTINF:-1,US: FOX NEW YORK NY WNYW
+http://melhordomundo.in:8080/jonathan/jonathan123/127591
+#EXTINF:-1,US: FOX ORLANDO FL WOFL
+http://melhordomundo.in:8080/jonathan/jonathan123/127592
+#EXTINF:-1,US: FOX PHILADELPHIA PA WTXF
+http://melhordomundo.in:8080/jonathan/jonathan123/127593
+#EXTINF:-1,US: FOX PHOENIX AZ KSAZ
+http://melhordomundo.in:8080/jonathan/jonathan123/127594
+#EXTINF:-1,US: FOX PITTSBURGH PA WPGH
+http://melhordomundo.in:8080/jonathan/jonathan123/127595
+#EXTINF:-1,US: FOX SACRAMENTO CA KTXL
+http://melhordomundo.in:8080/jonathan/jonathan123/127596
+#EXTINF:-1,US: FOX SALT LAKE CITY UT KSTU
+http://melhordomundo.in:8080/jonathan/jonathan123/127597
+#EXTINF:-1,US: FOX SAN ANTONIO TX KABB
+http://melhordomundo.in:8080/jonathan/jonathan123/127598
+#EXTINF:-1,US: FOX SAN DIEGO CA KSWB
+http://melhordomundo.in:8080/jonathan/jonathan123/127599
+#EXTINF:-1,US: FOX SAN FRANCISCO CA KTVU
+http://melhordomundo.in:8080/jonathan/jonathan123/127600
+#EXTINF:-1,US: FOX SEATTLE WA KCPQ
+http://melhordomundo.in:8080/jonathan/jonathan123/127601
+#EXTINF:-1,US: FOX ST LOUIS MO KTVI
+http://melhordomundo.in:8080/jonathan/jonathan123/127602
+#EXTINF:-1,US: FOX NEWS
+http://melhordomundo.in:8080/jonathan/jonathan123/127603
+#EXTINF:-1,US: FOX 43 Knoxville
+http://melhordomundo.in:8080/jonathan/jonathan123/127604
+#EXTM3U
+#EXTINF:-1,VIP US: 5 StarMax
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32563.ts
+#EXTINF:-1,VIP US: A&E HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32564.ts
+#EXTINF:-1,VIP US: ABC HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32565.ts
+#EXTINF:-1,VIP US: ACC Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32567.ts
+#EXTINF:-1,VIP US: ACTIONMAX
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32568.ts
+#EXTINF:-1,VIP US: Adventure Sports Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32569.ts
+#EXTINF:-1,VIP US: AKC TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32570.ts
+#EXTINF:-1,VIP US: AMC HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32571.ts
+#EXTINF:-1,VIP US: AMERICAN HEROES CHANNEL
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32572.ts
+#EXTINF:-1,VIP US: ANIMAL PLANET HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32574.ts
+#EXTINF:-1,VIP US: Antenna TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32575.ts
+#EXTINF:-1,VIP US: Aspire
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32576.ts
+#EXTINF:-1,VIP US: AT&T Sportsnet South West
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32577.ts
+#EXTINF:-1,VIP US: AWE A Wealth of Entertainment
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32578.ts
+#EXTINF:-1,VIP US: AXS TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32579.ts
+#EXTINF:-1,VIP US: beIN Sports 01
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32582.ts
+#EXTINF:-1,VIP US: beIN Sports 02
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32583.ts
+#EXTINF:-1,VIP US: beIN Sports 03
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32584.ts
+#EXTINF:-1,VIP US: beIN Sports 04
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32585.ts
+#EXTINF:-1,VIP US: beIN Sports 05
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32586.ts
+#EXTINF:-1,VIP US: beIN Sports 06
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32587.ts
+#EXTINF:-1,VIP US: beIN Sports 07
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32588.ts
+#EXTINF:-1,VIP US: beIN Sports 08
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32589.ts
+#EXTINF:-1,VIP US: beIN Sports 10
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32591.ts
+#EXTINF:-1,VIP US: beIN Sports 11
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32592.ts
+#EXTINF:-1,VIP US: beIN Sports 12
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32593.ts
+#EXTINF:-1,VIP US: beIN Sports 13
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32594.ts
+#EXTINF:-1,VIP US: Big Ten Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32597.ts
+#EXTINF:-1,VIP US: Bloomberg
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32598.ts
+#EXTINF:-1,VIP US: Boomerang
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32599.ts
+#EXTINF:-1,VIP US: Bounce TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32600.ts
+#EXTINF:-1,VIP US: BRAVO HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32601.ts
+#EXTINF:-1,VIP US: Buzzr
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32602.ts
+#EXTINF:-1,VIP US: CBS Sports Network HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32608.ts
+#EXTINF:-1,VIP US: CBSN HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32609.ts
+#EXTINF:-1,VIP US: Cheddar
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32610.ts
+#EXTINF:-1,VIP US: CMT
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32613.ts
+#EXTINF:-1,VIP US: CNBC
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32614.ts
+#EXTINF:-1,VIP US: CNBC WORLD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32875.ts
+#EXTINF:-1,VIP US: COMEDY CENTRAL HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32616.ts
+#EXTINF:-1,VIP US: Comet
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32617.ts
+#EXTINF:-1,VIP US: Cooking Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32618.ts
+#EXTINF:-1,VIP US: Court TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32619.ts
+#EXTINF:-1,VIP US: COZI TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32620.ts
+#EXTINF:-1,VIP US: CW HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32621.ts
+#EXTINF:-1,VIP US: Destination America
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32622.ts
+#EXTINF:-1,VIP US: Discovery Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32623.ts
+#EXTINF:-1,VIP US: Discovery Family
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32624.ts
+#EXTINF:-1,VIP US: Discovery Life
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32625.ts
+#EXTINF:-1,VIP US: Discovery Science HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32626.ts
+#EXTINF:-1,VIP US: Disney Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32628.ts
+#EXTINF:-1,VIP US: DISNEY JR HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32629.ts
+#EXTINF:-1,VIP US: Disney Jr.
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32630.ts
+#EXTINF:-1,VIP US: Disney XD HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32631.ts
+#EXTINF:-1,VIP US: E!
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32632.ts
+#EXTINF:-1,VIP US: El Rey Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32633.ts
+#EXTINF:-1,VIP US: ESPN DEPORTES
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32880.ts
+#EXTINF:-1,VIP US: ESPN News US HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32641.ts
+#EXTINF:-1,VIP US: ESPN U HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32642.ts
+#EXTINF:-1,VIP US: Food Network HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32644.ts
+#EXTINF:-1,VIP US: Fox Business
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32645.ts
+#EXTINF:-1,VIP US: FOX COLLEGE SPORTS ATLANTIC HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32881.ts
+#EXTINF:-1,VIP US: FOX COLLEGE SPORTS PACIFIC
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32883.ts
+#EXTINF:-1,VIP US: Fox Deportes
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32646.ts
+#EXTINF:-1,VIP US: FOX NEWS HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32648.ts
+#EXTINF:-1,VIP US: Fox Sports - NORTH
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32664.ts
+#EXTINF:-1,VIP US: Fox Sports - OHIO
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32666.ts
+#EXTINF:-1,VIP US: Fox Sports - OKLAHOMA
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32668.ts
+#EXTINF:-1,VIP US: Fox Sports PRIME TICKET
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32670.ts
+#EXTINF:-1,VIP US: Fox Sports - SOUTH
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32672.ts
+#EXTINF:-1,VIP US: Fox Sports - SOUTHEAST
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32673.ts
+#EXTINF:-1,VIP US: Fox Sports - SOUTHWEST
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32674.ts
+#EXTINF:-1,VIP US: Fox Sports - SUN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32676.ts
+#EXTINF:-1,VIP US: Fox Sports - WEST
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32678.ts
+#EXTINF:-1,VIP US: Fox Sports - WISCONSIN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32679.ts
+#EXTINF:-1,VIP US: Fox Sports 1 HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32681.ts
+#EXTINF:-1,VIP US: Fox Sports 2 HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32682.ts
+#EXTINF:-1,VIP US: FOX SPORTS SAN ANTONIO
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32886.ts
+#EXTINF:-1,VIP US: FOX SPORTS SPORTSTIME OHIO
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32888.ts
+#EXTINF:-1,VIP US: Fuse
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32684.ts
+#EXTINF:-1,VIP US: Fusion
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32685.ts
+#EXTINF:-1,VIP US: FX HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32686.ts
+#EXTINF:-1,VIP US: FYI
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32689.ts
+#EXTINF:-1,VIP US: Get TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32889.ts
+#EXTINF:-1,VIP US: GINX ESports
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32690.ts
+#EXTINF:-1,VIP US: Gone Fishing
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32692.ts
+#EXTINF:-1,VIP US: Grit TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32890.ts
+#EXTINF:-1,VIP US: GSN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32693.ts
+#EXTINF:-1,VIP US: H2
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32694.ts
+#EXTINF:-1,VIP US: HGTV HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32704.ts
+#EXTINF:-1,VIP US: HISTORY HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32705.ts
+#EXTINF:-1,VIP US: HLN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32706.ts
+#EXTINF:-1,VIP US: HSN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32708.ts
+#EXTINF:-1,VIP US: Hunt Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32709.ts
+#EXTINF:-1,VIP US: IFC
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32710.ts
+#EXTINF:-1,VIP US: Info Wars
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32711.ts
+#EXTINF:-1,VIP US: INSP
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32891.ts
+#EXTINF:-1,VIP US: Investigation Discovery
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32712.ts
+#EXTINF:-1,VIP US: ION Television
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32713.ts
+#EXTINF:-1,VIP US: Law & Crime Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32715.ts
+#EXTINF:-1,VIP US: Lifetime
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32716.ts
+#EXTINF:-1,VIP US: Logo
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32718.ts
+#EXTINF:-1,VIP US: MavTV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32719.ts
+#EXTINF:-1,VIP US: Me TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32720.ts
+#EXTINF:-1,VIP US: MoreMax
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32722.ts
+#EXTINF:-1,VIP US: Motor Trend
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32723.ts
+#EXTINF:-1,VIP US: MSG 2
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32724.ts
+#EXTINF:-1,VIP US: MSG 2 +
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32893.ts
+#EXTINF:-1,VIP US: MSG HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32725.ts
+#EXTINF:-1,VIP US: MSG+
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32726.ts
+#EXTINF:-1,VIP US: Nat Geo Wild
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32732.ts
+#EXTINF:-1,VIP US: National Geographic
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32733.ts
+#EXTINF:-1,VIP US: NBC
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32735.ts
+#EXTINF:-1,VIP US: NBC Universo
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32902.ts
+#EXTINF:-1,VIP US: NBCSN BAY AREA
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32903.ts
+#EXTINF:-1,VIP US: NBCSN BOSTON
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32904.ts
+#EXTINF:-1,VIP US: NBCSN Chicago
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32906.ts
+#EXTINF:-1,VIP US: NBCSN HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32736.ts
+#EXTINF:-1,VIP US: NBCSN NORTHWEST
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32908.ts
+#EXTINF:-1,VIP US: NBCSN PHILADELPHIA
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32909.ts
+#EXTINF:-1,VIP US: NBCSN WASHINGTON
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32910.ts
+#EXTINF:-1,VIP US: NECN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32737.ts
+#EXTINF:-1,VIP US: NESN
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32738.ts
+#EXTINF:-1,VIP US: Newsy
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32912.ts
+#EXTINF:-1,VIP US: NFL Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32741.ts
+#EXTINF:-1,VIP US: NFL REDZONE
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32742.ts
+#EXTINF:-1,VIP US: NHL Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32743.ts
+#EXTINF:-1,VIP US: Nick Jr.
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32744.ts
+#EXTINF:-1,VIP US: NICKELODEN HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32746.ts
+#EXTINF:-1,VIP US: Olympic Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32748.ts
+#EXTINF:-1,VIP US: One America News Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32749.ts
+#EXTINF:-1,VIP US: OUTDOOR CHANNEL HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32750.ts
+#EXTINF:-1,VIP US: Outermax
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32751.ts
+#EXTINF:-1,VIP US: Outside TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32752.ts
+#EXTINF:-1,VIP US: OWN HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32753.ts
+#EXTINF:-1,VIP US: Oxygen
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32754.ts
+#EXTINF:-1,VIP US: PAC-12 Arizona
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32913.ts
+#EXTINF:-1,VIP US: PAC-12 Bay Area
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32755.ts
+#EXTINF:-1,VIP US: PAC-12 Los Angeles
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32756.ts
+#EXTINF:-1,VIP US: PAC-12 MOUNTAIN HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32757.ts
+#EXTINF:-1,VIP US: PAC-12 NATIONAL HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32758.ts
+#EXTINF:-1,VIP US: PAC-12 Oregon
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32759.ts
+#EXTINF:-1,VIP US: PAC-12 Washington
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32760.ts
+#EXTINF:-1,VIP US: Paramount
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32761.ts
+#EXTINF:-1,VIP US: PBS KIDS
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32762.ts
+#EXTINF:-1,VIP US: PBS Kids
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32763.ts
+#EXTINF:-1,VIP US: POP
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32764.ts
+#EXTINF:-1,VIP US: Pursuit
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32765.ts
+#EXTINF:-1,VIP US: Red Bull TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32766.ts
+#EXTINF:-1,VIP US: Reelz Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32767.ts
+#EXTINF:-1,VIP US: SEC Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32768.ts
+#EXTINF:-1,VIP US: Smithsonian Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32771.ts
+#EXTINF:-1,VIP US: Sportsman Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32774.ts
+#EXTINF:-1,VIP US: Sportsnet 360 HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32775.ts
+#EXTINF:-1,VIP US: Sportsnet LA
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32776.ts
+#EXTINF:-1,VIP US: Sportsnet NY
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32777.ts
+#EXTINF:-1,VIP US: SPORTSNET ONE HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32778.ts
+#EXTINF:-1,VIP US: SPORTSNET ONTARIO HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32779.ts
+#EXTINF:-1,VIP US: SPORTSNET WORLD HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32781.ts
+#EXTINF:-1,VIP US: Stadium 1
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32783.ts
+#EXTINF:-1,VIP US: Stadium 2
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32784.ts
+#EXTINF:-1,VIP US: Stadium 3
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32785.ts
+#EXTINF:-1,VIP US: Starz Suspense
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32795.ts
+#EXTINF:-1,VIP US: Sundance TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32796.ts
+#EXTINF:-1,VIP US: SYFY HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32797.ts
+#EXTINF:-1,VIP US: TCM
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32799.ts
+#EXTINF:-1,VIP US: Teen Nick
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32800.ts
+#EXTINF:-1,VIP US: Tennis Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32801.ts
+#EXTINF:-1,VIP US: The Blaze
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32802.ts
+#EXTINF:-1,VIP US: The CW Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32803.ts
+#EXTINF:-1,VIP US: The Longhorn Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32804.ts
+#EXTINF:-1,VIP US: The Weather Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32805.ts
+#EXTINF:-1,VIP US: TLC HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32806.ts
+#EXTINF:-1,VIP US: Travel Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32808.ts
+#EXTINF:-1,VIP US: Tru TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32809.ts
+#EXTINF:-1,VIP US: TSN 1
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32930.ts
+#EXTINF:-1,VIP US: TSN 4 HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32811.ts
+#EXTINF:-1,VIP US: TSN 5
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32812.ts
+#EXTINF:-1,VIP US: TSTV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32813.ts
+#EXTINF:-1,VIP US: TV Land
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32814.ts
+#EXTINF:-1,VIP US: TV One
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32815.ts
+#EXTINF:-1,VIP US: TVG
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32816.ts
+#EXTINF:-1,VIP US: TVG NETWORK
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32933.ts
+#EXTINF:-1,VIP US: TVG2
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32817.ts
+#EXTINF:-1,VIP US: UFC TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32934.ts
+#EXTINF:-1,VIP US: Unimas
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32819.ts
+#EXTINF:-1,VIP US: Universal Kids
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32820.ts
+#EXTINF:-1,VIP US: Univision
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32821.ts
+#EXTINF:-1,VIP US: USA Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32822.ts
+#EXTINF:-1,VIP US: VH1 HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32823.ts
+#EXTINF:-1,VIP US: Viceland
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32824.ts
+#EXTINF:-1,VIP US: We TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32825.ts
+#EXTINF:-1,VIP US: Western4U
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32826.ts
+#EXTINF:-1,VIP US: WGN America
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32827.ts
+#EXTINF:-1,VIP US: WGN America HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32828.ts
+#EXTINF:-1,VIP US: World Fishing Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32829.ts
+#EXTINF:-1,VIP US: WORLD FISHING NETWORK
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32935.ts
+#EXTINF:-1,VIP US: WWE HD
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32830.ts
+#EXTINF:-1,VIP US: Yes Network
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32831.ts
+#EXTINF:-1,VIP US: Zuna Futbol
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32936.ts
+#EXTINF:-1,VIP US: NESN PLUS
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32739.ts
+#EXTINF:-1,VIP US: NBA TV
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32734.ts
+#EXTINF:-1,VIP US: Golf Channel
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32691.ts
+#EXTINF:-1,VIP US: Fox Soccer Plus
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32649.ts
+#EXTINF:-1,VIP US: NBCSN CHICAGO PLUS
+http://links.iptvlogin.com:80/live/asd123456/asd123456/32907.ts
