@@ -1,0 +1,266 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3943691_ico.png?ts=1605959384",AsianSeries
+http://160.119.77.116:8081/iptv/hd-asian.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3943691_ico.png?ts=1605959384",AsianSeries
+https://www.we-play.tv/watching/tv/true-asian-series-hd|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png&w=320&h=240",Thai film
+https://www.we-play.tv/watching/tv/true-thai-film|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png&w=320&h=240",Thai film
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fc79f82bf-b9b7-441c-9eed-8186d44e58f3.png&w=320&h=240",Film HD
+https://www.we-play.tv/watching/tv/true-film-hd|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fc79f82bf-b9b7-441c-9eed-8186d44e58f3.png&w=320&h=240",Film HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",Film HD2
+https://doomovie.com/live/film-hd-2
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_320.png",true series
+http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3700777_ico.png?ts=1609500763",Fox Thai
+https://www.we-play.tv/watching/tv/fox-thai
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3700777_ico.png?ts=1609500763",Fox Thai
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3842235_ico.png?ts=1605958243",CCM
+https://www.we-play.tv/watching/tv/ccm|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3842235_ico.png?ts=1605958243",CCM
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3684329_ico.png?ts=1605940983",TVB ไทย
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8|Referer=https://edge6a.v2h-cdn.com/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_320.png",TVB XING HE
+http://119.59.125.18:8081/live/TVB/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3781650_ico.png?ts=1605958287",FW MOV
+https://www.fwiptv.cc/player_demo.php?channel=89782|Referer=https://www.fwiptv.cc/
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3785185_ico.png?ts=1605958302",FW SOV
+https://www.fwiptv.cc/player_demo.php?channel=89781|Referer=https://www.fwiptv.cc/
+
+#EXTINF:-1 tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M channal
+http://27.254.130.61/live01/ch19.m3u8?p=st|Referer=http://27.254.130.61/
+
+#EXTINF:-1 tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M channal
+https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8|Referer=http://vip.login.in.th:1935/
+
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1rtuDkWc5Ie93vBkZPzq_cBDYXk25eFLX",Sammuang
+https://www.fwiptv.cc/player_demo.php?channel=60257|Referer=https://www.fwiptv.cc/
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3684571_ico.png?ts=1605959729",CHANNEL8
+https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8|Referer=https://cdn-th-vip.login.in.th/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/400px-Sun_Channel_logo.svg.png",SUN ใช้ตัวถอดรหัสs/wเพื่อรับชม
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/SUNCHANNEL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwaBs6JC835KwHF_MkY3KEu6UbzDmMDQBjw&usqp=CAU",BOX FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5402277_ico.png?ts=1608219663",Samurai
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/10/19/6d3c86f0-11b8-11eb-ab84-d705c02e81b2_320.png",JKN TV
+https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",ZEEหนัง
+https://www.fwiptv.cc/player_demo.php?channel=440
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",ZEEหนัง
+https://www.we-play.tv/watching/tv/zee-nung
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCJvJcKueQydtw8L9cedXMFyS4DCosxB4Nw&usqp=CAU",มังกร
+http://77.83.117.60:8888/02_MANGORN_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5264561_ico.png?ts=1609757713",cool
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/coolch.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",HBO HD
+https://we-play.tv/watching/tv/hbo-hd|Referer=https://we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",HBO HD
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/HBO.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrKqL3z0SkACJKkdMdAmdMsMDT3euDmu7mA&usqp=CAU",REDพากย์ไทย
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/redbyhbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",HBO signature
+https://www.we-play.tv/watching/tv/hbo-signature|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",HBO signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8|Referer=https://liveorigin01.hbogoasia.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8|Referer=https://liveorigin01.hbogoasia.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+https://www.we-play.tv/watching/tv/cinemax|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
+https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hitstv.com/assets/logo_hits.png",HITS
+https://www.livedoomovies.com/02_HITS_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN HD
+http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN HD
+https://www.we-play.tv/watching/tv/axn-hd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4804670_ico.png?ts=1607620960",Fox movie พากย์ไทย
+http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=2B2D554BB78E245DF1B8B368D530CA4044232A3A.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4804670_ico.png?ts=1607620960",Fox movie 
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/400px-Fox_Action_Movies_logo.svg.png",Fox action
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/400px-Fox_Action_Movies_logo.svg.png",Fox action
+https://www.we-play.tv/watching/tv/fox-action-movies
+
+#EXTINF:-1 tvg-logo="https://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",Fox Family
+https://www.we-play.tv/watching/tv/fox-family-movies
+
+#EXTINF:-1 tvg-logo="https://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",Fox Family
+https://doomovie.com/live/fox-family-movies
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/400px-Fox_life_logo.svg.png",Fox Life
+https://www.we-play.tv/watching/tv/fox-life|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/400px-Fox_life_logo.svg.png",Fox Life
+http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Warner-TV.jpg",Warner Tv
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",Paramount Channel
+https://www.we-play.tv/watching/tv/paramount-channel
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlgjgnPY03shWihuug-FmM8oDjGiLV8Y0KA&usqp=CAU",Star Chinese Movies
+https://www.we-play.tv/watching/tv/star-chinese-movies|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlgjgnPY03shWihuug-FmM8oDjGiLV8Y0KA&usqp=CAU",Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png",Star Chinese Channel
+https://www.we-play.tv/watching/tv/star-chinese-channel
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F886f43a6-7655-4bdc-a4c2-4824667a980f.png&w=320&h=240",BLUE ANT ENTERTAINMENT
+https://www.we-play.tv/watching/tv/blueant-entertainment|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F886f43a6-7655-4bdc-a4c2-4824667a980f.png&w=320&h=240",BLUE ANT ENTERTAINMENT
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2e16412-98be-40a4-8690-74fd2ba059fc.png&w=320&h=240",BLUE ANT EXTREME
+https://www.we-play.tv/watching/tv/blueant-extreme|Referer=https://www.we-play.tv/
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2e16412-98be-40a4-8690-74fd2ba059fc.png&w=320&h=240",BLUE ANT EXTREME
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLswJ26Sr_ar4aPj073ysrK7dpqaVaewGQbw&usqp=CAU",thrill
+https://www.fwiptv.cc/player_demo.php?channel=718|Referer=https://www.fwiptv.cc/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr_CahCYMTFzFramp52QVA8NGNsnkkVbqpw&usqp=CAU",crime+investigation
+https://cdn6.goprimetime.info/feed/LC43/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq5llV9fJiJszWvmgFaNnQ1JZM7mb-7tIOg&usqp=CAU",FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU",Sony Channel
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_hoBCq-H3UUoBID12pRiAF0Zf_VDIJsGuQ&usqp=CAU",&FlixHd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU",&PriveHd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-MB1ZuojRDAaXaYYq5ZQ4L0blLrbhCVLRw&usqp=CAU",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSiPeE7Rp6abN21mJ0yYwQ7S01BK_orP-FQ&usqp=CAU",Sky movie premiere
+http://160.119.77.116:8081/iptv/uk-skypremiere.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt8d85b300826c0c91/blt095547fd742d48a9/5f730038419b304ab54c3ee2/TVPage_Channels_SkyATLANTIC_KeyArtChannelLogo.png",Sky atlantic
+http://160.119.77.116:8081/iptv/uk-skyatlantic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRbfZhOYUY8zywYsuUMQnL5P4SFvVaALM0g&usqp=CAU",Film4
+http://160.119.77.116:8081/iptv/uk-film4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jm6mqaPSQhP3F6j0ndsIg_nrwfbbVsEnFw&usqp=CAU",CBS drama
+http://160.119.77.116:8081/iptv/uk-cbsdrama.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7eZf1-I2cYT__27UvSuA1idsbF4q1s-VYg&usqp=CAU",CBS action
+http://160.119.77.116:8081/iptv/uk-cbsaction.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ap-9e2c7Z_6yKZz-5_cqwtUF33xnw8eg9A&usqp=CAU",comedycentral
+http://160.119.77.116:8081/iptv/uk-comedycentral.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Drama_%28TV_channel%29_logo.png",drama
+http://160.119.77.116:8081/iptv/uk-drama.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAx0MO2kZdbdtXeyd520jgXN6_ATm-9GSeIg&usqp=CAU",4seven
+http://160.119.77.116:8081/iptv/uk-4sevenhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UnBPoxOobGGGVePUSYcGO31EPkD43JSZCQ&usqp=CAU",5 USA
+http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-gohnU6PKbG15xTbfdZWWJuGpKktb3Uicw&usqp=CAU",5 STAR
+http://160.119.77.116:8081/iptv/uk-5star.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdtPUV_gINIdujJBp3r8k8_t6rLDQmjvwhg&usqp=CAU",UNIVERSAL
+http://160.119.77.116:8081/iptv/uk-universal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES1
+https://stream.allsprk.tv/live/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES2
+https://stream.allsprk.tv/live/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES3
+https://stream.allsprk.tv/live/3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES4
+https://stream.allsprk.tv/live/4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES5
+https://stream.allsprk.tv/live/5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES6
+https://stream.allsprk.tv/live/6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES7
+https://stream.allsprk.tv/live/7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES8
+https://stream.allsprk.tv/live/8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3799342_ico.png?ts=1605957555",MOVIES9
+https://stream.allsprk.tv/live/9/index.m3u8
