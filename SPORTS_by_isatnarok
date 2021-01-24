@@ -1,0 +1,91 @@
+#EXTM3U URL https://www.facebook.com/isatnarok.djwut/posts/1102594466879962
+
+#EXTINF:-1 ,BEIN SPORT 1
+http://thaicable.myftp.org:8000/live/infosat/2020/48.ts
+
+#EXTINF:-1 ,BEIN SPORT 2
+http://thaicable.myftp.org:8000/live/infosat/2020/49.ts
+
+#EXTINF:-1 ,TRUE PREMIER 1 HD
+http://thaicable.myftp.org:8000/live/infosat/2020/50.ts
+
+#EXTINF:-1 ,PREMIER 1 HD (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/52.ts
+
+#EXTINF:-1 ,TRUE PREMIER 2 HD
+http://thaicable.myftp.org:8000/live/infosat/2020/51.ts
+
+#EXTINF:-1 ,TRUE PREMIER 2 HD (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/53.ts
+
+#EXTINF:-1 ,TRUE SPORTS 2
+http://thaicable.myftp.org:8000/live/infosat/2020/54.ts
+
+#EXTINF:-1 ,SKY NET SPORTS HD
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+
+#EXTINF:-1,TRACE SPORT STARS
+http://thaicable.myftp.org:8000/live/infosat/2020/92.ts
+
+#EXTINF:-1,MUTV
+http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
+
+#EXTINF:-1,LFCTV
+http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
+
+#EXTINF:-1,SKY SPORTS
+http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
+
+#EXTINF:-1,SKY SPORTS (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/96.ts
+
+#EXTINF:-1,SKY SPORT 1 HD
+http://thaicable.myftp.org:8000/live/infosat/2020/102.ts
+
+#EXTINF:-1 ,ASTRO SUPERSPORT
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+
+#EXTINF:-1 ,ASTRO SUPERSPORT 2
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+
+#EXTINF:-1 ,ASTRO SUPERSPORT 3
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+
+#EXTINF:-1 ,ASTRO SUPERSPORT 4
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+
+#EXTINF:-1,PREMIER SPORTS 1
+http://thaicable.myftp.org:8000/live/infosat/2020/97.ts
+
+#EXTINF:-1,PREMIER SPORTS 1 (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/103.ts
+
+#EXTINF:-1,TENNIS
+http://thaicable.myftp.org:8000/live/infosat/2020/98.ts
+
+#EXTINF:-1,KBB SPORT 1
+http://thaicable.myftp.org:8000/live/infosat/2020/99.ts
+
+#EXTINF:-1,FITE
+http://thaicable.myftp.org:8000/live/infosat/2020/100.ts
+
+#EXTINF:-1,ATG RACING
+http://thaicable.myftp.org:8000/live/infosat/2020/141.ts
+
+#EXTINF:-1,Unknown 141
+http://thaicable.myftp.org:8000/live/infosat/2020/142.ts
+
+#EXTINF:-1,STADIUM 1
+http://thaicable.myftp.org:8000/live/infosat/2020/143.ts
+
+#EXTINF:-1,RTM SPORTS
+http://thaicable.myftp.org:8000/live/infosat/2020/144.ts
+
+#EXTINF:-1,RED BULL TV (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/145.ts
+
+#EXTINF:-1,EUROSPORT 1 (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/147.ts
+
+#EXTINF:-1,EUROSPORT 2 (สำรอง 1)
+http://thaicable.myftp.org:8000/live/infosat/2020/148.ts
