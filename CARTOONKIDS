@@ -157,6 +157,12 @@
 "url": "https://www.gemonline.tv/en-US/Live/Index?channelname=gemjunior",
 "playInNatPlayer": "true"
 },
+{
+"name": "3 Palavrinhas",  
+"image": "https://images.app.goo.gl/suATS29mBF8NfyRz8",  
+"url": "http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717100.ts",
+"playInNatPlayer": "true"
+},
 
 ]
 }
