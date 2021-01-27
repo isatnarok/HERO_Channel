@@ -1,0 +1,162 @@
+{
+"name": "HERO Channel",
+"author": "HERO Channel CARTOON KIDS",
+"image": "https://www.img.in.th/images/803dbaf24d8aa0c763cf648bc8ce4707.gif",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/CARTOONKIDS",
+"info": "By isatnarok",
+"stations": [
+	
+  
+{
+"name": "27 January 2021 by isatnarok",  
+"image": "https://www.img.in.th/images/803dbaf24d8aa0c763cf648bc8ce4707.gif",  
+"url": "https://www.facebook.com/isatnarok.djwut/posts/1102594466879962"
+},
+
+
+
+{
+"name": "Cartoon Club",  
+"image": "https://www.we-play.tv//uploads/posters/cartoon-club-poster1602706088.jpeg",  
+"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang",  
+"image": "https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",  
+"url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
+"playInNatPlayer": "true"
+},
+{ 
+"name": "บูมเมอแรง สำรอง",
+"image": "https://imgcloud.fwiptv.cc/postor/20200208003547Boomberang.jpg",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=709",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FWTOON",  
+"image": "https://www.appcreator24.com/srv/imgs/seccs/3785225_ico.png?ts=1605958327",  
+"url": "https://www.fwiptv.cc/player_demo.php?channel=89780",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+{
+"name": "จ๊ะทิงจา",  
+"image": "https://imgcloud.fwiptv.cc/postor/20200325171919JaTingJa.jpg",  
+"url": "https://www.fwiptv.cc/player_demo.php?channel=696",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Toonee",  
+"image": "https://imgcloud.fwiptv.cc/postor/20200325174551toonee.jpg",  
+"url": "https://www.fwiptv.cc/player_demo.php?channel=506",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "Aniplus",  
+"image": "https://www.we-play.tv//uploads/posters/aniplus-poster1602706016.jpeg",  
+"url": "https://we-play.tv/watching/tv/aniplus",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Network",  
+"image": "https://www.we-play.tv//uploads/posters/cartoon-network-poster1602706122.jpeg",  
+"url": "https://we-play.tv/watching/tv/cartoon-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nickelodeon",  
+"image": "https://www.we-play.tv//uploads/posters/nickelodeon-poster1602706197.jpeg",  
+"url": "https://we-play.tv/watching/tv/nickelodeon",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Baby TV",  
+"image": "https://www.we-play.tv//uploads/posters/babytv-poster1602706049.jpeg",  
+"url": "https://we-play.tv/watching/tv/babytv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Spark Jump",  
+"image": "https://www.we-play.tv//uploads/posters/true-spark-jump-poster1602706225.jpeg",  
+"url": "https://we-play.tv/watching/tv/true-spark-jump",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Spark Play",  
+"image": "https://www.we-play.tv//uploads/posters/true-spark-play-poster1602706254.jpeg",  
+"url": "https://we-play.tv/watching/tv/true-spark-play",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney Channel TH",  
+"image": "https://www.we-play.tv//uploads/posters/disney-channel-poster1604392009.jpeg",  
+"url": "https://we-play.tv/watching/tv/disney-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney Channel TH สำรอง",  
+"image": "https://www.we-play.tv//uploads/posters/disney-channel-poster1604392009.jpeg",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=86",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBeebies",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png",
+"url": "http://photocall.tv/ftv.m3u8?ch=cbeebies",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "LEGO",  
+"image": "https://image.roku.com/developer_channels/prod/48914b161eb8786b242fc3c43298c4ccd04197d9766a0c2ee6df21f5e5f15e19.png",  
+"url": "https://legochannel-roku.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Locomotion",  
+"image": "https://cdn.freebiesupply.com/logos/large/2x/locomotion-logo-png-transparent.png",  
+"url": "http://locomotiontv.com/envivo/loco_ch/stream.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MoonBug",  
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png",  
+"url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "3ABN Kids",  
+"image": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",  
+"url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gem Kids",  
+"image": "https://www.gemonline.tv/Assets/channels-box/gemkids.png",  
+"url": "https://www.gemonline.tv/en-US/Live/Index?channelname=gemkids",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gem Junior",  
+"image": "https://www.gemonline.tv/Assets/channels-box/gemjunior.png",  
+"url": "https://www.gemonline.tv/en-US/Live/Index?channelname=gemjunior",
+"playInNatPlayer": "true"
+},
+
+]
+}
