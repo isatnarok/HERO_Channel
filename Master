@@ -26,6 +26,12 @@
 "import": false
 },
 
-		
+{
+"name": "Cartoon Kids",
+"image": "https://www.img.in.th/images/803dbaf24d8aa0c763cf648bc8ce4707.gif",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/CARTOONKIDS",
+"import": false
+},
+
 ]
 }
