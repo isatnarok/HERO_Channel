@@ -14,18 +14,10 @@
 "url": "xxcc"
 },
 
-
- { 
-    "name":"5 HD",
-    "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
-    "url": "https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8",
-},
 {
-"name": "ททบ.5 สำรอง 1",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
+"name": 5 HD",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",  
+"url": "https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8"
 },
 {
 "name": "ททบ.5 สำรอง 2",  
