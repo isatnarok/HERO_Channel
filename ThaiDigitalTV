@@ -1,0 +1,448 @@
+{
+"name": "HERO Channel",
+"author": "HERO Channel",
+"image": "https://www.img.in.th/images/c489f7827dd3af3cc34aa8dd40d2998b.gif",
+"url": "https://docs.google.com/uc?export=download&id=1vlPKr_PeP_YxjoQhZqbFwegQwHCr06TH",
+"info": "ขออย่า Copy เพื่อให้เกียรติตนเอง และ ขอขอบคุณอาจารย์ @Silva @djpooga : Wiseplay Thailand Comunity",
+"stations": [
+	
+
+
+{
+"name": "24 January 2021",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "xxcc"
+},
+
+
+{
+"name": "ททบ.5",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
+"url": "https://www.we-play.tv/watching/tv/ch5-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ททบ.5 สำรอง 1",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ททบ.5 สำรอง 2",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",  
+"url": "https://www.adintrend.tv/hd/m/ch5",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
+"url": "https://we-play.tv/watching/tv/11-nbt",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT สำรอง 1",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
+"url": "https://www.adintrend.tv/hd/m/ch11",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT สำรอง 2",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
+"url": "https://www.sine.tv/tvonline/ch011/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPBS",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",  
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+},
+{
+"name": "TPBS สำรอง 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",  
+"url": "https://we-play.tv/watching/tv/thai-pbs",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPBS สำรอง 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",  
+"url": "https://program.thaipbs.or.th/live"
+},
+{
+"name": "ALTV by Thaipbs",  
+"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+},
+{
+"name": "ALTV by Thaipbs สำรอง",  
+"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
+"url": "https://www.altv.tv/live"
+},
+{
+"name": "TPTV",
+"image": "https://i.imgur.com/Jrqo8JP.png",
+"url": "http://live.parliament.go.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
+"url": "https://www.tnnthailand.com/live",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW 18",
+"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
+"url": "https://www.adintrend.tv/hd/m/ch30",
+"playInNatPlayer": "true"
+},
+{ 
+"name": "NEW 18 สำรอง",
+"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=27174",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch37",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://we-play.tv/watching/tv/workpoint",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4u",
+"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+"url": "https://true4u.com/live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4u สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+"url": "https://we-play.tv/watching/tv/true4u",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25",
+"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+"url": "https://we-play.tv/watching/tv/gmm25",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25 สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch0",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch33",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8 สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+"url": "https://www.thaich8.com/live?var_link=720p",
+"playInNatPlayer": "true"
+},
+{ 
+"name": "CH8 สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=27147",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD",
+"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+"url": "https://we-play.tv/watching/tv/mcot-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch9",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+"url": "https://www.sine.tv/tvonline/ch009/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+"url": "https://we-play.tv/watching/tv/one-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+"url": "https://www.sine.tv/tvonline/ch021/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+"url": "https://www.one31.net/live",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+"url": "https://we-play.tv/watching/tv/thairath-tv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch39",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+"url": "https://www.sine.tv/tvonline/ch010/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD",
+"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+"url": "https://we-play.tv/watching/tv/ch3-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch3",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+"url": "https://www.sine.tv/tvonline/ch001/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",
+"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+"url": "https://we-play.tv/watching/tv/amarin-tv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch26",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+"url": "https://www.sine.tv/tvonline/ch023/",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"url": "https://we-play.tv/watching/tv/ch7-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD สำรอง 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=3",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD สำรอง 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://we-play.tv/watching/tv/pptv-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD สำรอง 1",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch25",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD สำรอง 2",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://www.sine.tv/tvonline/ch004/",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "Voice TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
+"url": "https://www.mvtv.co.th/channel/v2h9",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Voice TV",
+"image": "https://sv1.picz.in.th/images/2020/09/21/OOChj9.jpg",             
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+"referer": "https://voicetv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video"
+},
+{
+"name": "ฟ้าวันใหม่", 
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/bluesky.png",              
+"url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w1819939365.m3u8",
+"referer": "https://www.blueskychannel.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "NEWS 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png",              
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"referer": "https://news1live.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "News1",
+"image": "https://sv1.picz.in.th/images/2020/10/17/b7ZjOl.png",              
+"url": "http://news1.live14.com/stream/news1_hi.m3u8",
+"referer": "http://news1.live14.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+
+
+
+
+{
+"name": "MVTV FIVE",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
+"url": "https://www.mvtv.co.th/channel/mvtv_home",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "V2H2",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/06/V2H2-LOGO-PNG.png",
+"url": "https://www.mvtv.co.th/channel/v2h2",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "บันเทิงเกิน100",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",
+"url": "https://www.mvtv.co.th/channel/banteng100",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ไทบ้าน ทีวี",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",
+"url": "https://www.mvtv.co.th/channel/thaiban",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "69 TV",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",
+"url": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HAPPY TV",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",
+"url": "https://www.mvtv.co.th/channel/happy-tv",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thai Variety",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/09/thai-variety.jpg",
+"url": "https://www.mvtv.co.th/channel/thaivariety",
+"referer": "https://www.mvtv.co.th/",
+playInNatPlayer": "true"
+},
+{
+"name": "สยาม",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",
+"url": "https://www.mvtv.co.th/channel/siamchannel",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ลิโด้",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",
+"url": "https://www.mvtv.co.th/channel/lidochannell",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "สกาล่า",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",
+"url": "https://www.mvtv.co.th/channel/sakalachannel",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ราม่า",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",
+"url": "https://www.mvtv.co.th/channel/ramachannel",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "ช่อง2",
+"image": "https://imgcloud.fwiptv.cc/postor/20200208003842CH2.jpg",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=436",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+{ 
+"name": "ถิ่นใต้",
+"image": "https://imgcloud.fwiptv.cc/postor/20200208001241ถิ่นใต้.jpg",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=61235",
+"referer": "https://www.fwiptv.cc/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+	]
+}
