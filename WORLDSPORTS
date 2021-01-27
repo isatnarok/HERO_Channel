@@ -1,0 +1,865 @@
+{
+"name": "HERO Channel",
+"author": "HERO Channel WORLD SPORT",
+"image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/WORLDSPORTS",
+"info": "By isatnarok",
+"stations": [
+
+
+{
+"name": "27 January 2021",  
+"image": "https://www.img.in.th/images/4b76ca4302a4714db228f3fc509fdadd.gif",  
+"url": "https://www.facebook.com/isatnarok.djwut/posts/1102594466879962",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Sky Sports Premiere League",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Premiere League สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportpremiere",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Main Event",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Main Event สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmainevent",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Football",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Football สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportfootball",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Action",  
+"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Action สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportaction",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Arena",  
+"image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Cricket",  
+"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Cricket สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportclicket",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports F1",  
+"image": "http://runnel.ir/ax/logo/sky-sports-f1.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Golf",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Golf สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportgolf",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Mix",  
+"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Mix สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmix",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News DE",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News IT",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sport Bundesliga",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports 1 DE",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports 2 DE",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 1",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 2",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 3",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1 สำรอง",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=231",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2 สำรอง",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=232",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport 2",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport 3",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Astro SuperSport 4",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MUTV",  
+"image": "https://seeklogo.com/images/M/MUTV-logo-1DB9C16AFC-seeklogo.com.png",  
+"url": "https://www.lineballsod.com/doball/live-ch26a/",
+"playInNatPlayer": "true"
+},
+{
+"name": "LFCTV",  
+"image": "https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",  
+"url": "https://www.lineballsod.com/doball/live-ch27/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FC BAYERN.TV",  
+"image": "https://fcbayern.com/fcb/assets/favicon/mstile-310x310.png",  
+"url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Galatasaray TV",  
+"image": "https://i.sozcu.com.tr/wp-content/uploads/2018/08/iecrop/gs-tv_16_9_1533298622-880x495.jpg",  
+"url": "https://galatasaray.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Realmadrid TV",  
+"image": "https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg",  
+"url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "beIN Sports HD1 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports HD2 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-bein2hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports HD3 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX4 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX5 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax5.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX6 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax6.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX7 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax7.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "beIN Sports News",  
+"image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png",  
+"url": "https://youtu.be/0Y-IRcUJi6o",
+"referer": "https://www.youtube.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 1 AR",  
+"image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 AR",  
+"image": "http://runnel.ir/ax/logo/beIN2-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 3 AR",  
+"image": "http://runnel.ir/ax/logo/beIN3-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 4 AR",  
+"image": "http://runnel.ir/ax/logo/beIN4-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 5 AR",  
+"image": "http://runnel.ir/ax/logo/beIN5-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 6 AR",  
+"image": "http://runnel.ir/ax/logo/beIN6-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 7 AR",  
+"image": "http://runnel.ir/ax/logo/beIN7-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 8 AR",  
+"image": "http://runnel.ir/ax/logo/beIN8-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 9 AR",  
+"image": "http://runnel.ir/ax/logo/beIN9-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 10 AR",  
+"image": "http://runnel.ir/ax/logo/beIN10-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 11 AR",  
+"image": "http://runnel.ir/ax/logo/beIN11-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 12 AR",  
+"image": "http://runnel.ir/ax/logo/beIN12-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Super Sport 1 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 2 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 3 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport3.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 4 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 5 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport5.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 6 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport6.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 7 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport7.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 8 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport8.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 9 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport9.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport9&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 10 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport10.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Super Sport 11 AF",  
+"image": "https://overseer.blackboxsys.net/images/png/af-supersport11.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sportnet 1 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportnet 360 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet360.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet360&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportnet World CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-sportsnetworld.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 1 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 2 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 3 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn3.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 4 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 5 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "Sport TV 1 Portugal",  
+"image": "http://runnel.ir/ax/logo/SportTV1-Small.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=139",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 1 Portugal สำรอง",  
+"image": "http://runnel.ir/ax/logo/SportTV1-Small.png",  
+"url": "http://runnel.ir/tv/tv/sport.tv-1-1.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 2 Portugal",  
+"image": "http://runnel.ir/ax/logo/SportTV2-Small.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=140",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 2 Portugal สำรอง",  
+"image": "http://runnel.ir/ax/logo/SportTV2-Small.png",  
+"url": "http://runnel.ir/tv/tv/sport.tv-2-1.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 3 Portugal",  
+"image": "http://runnel.ir/ax/logo/SportTV3-Small.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=141",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 3 Portugal สำรอง",  
+"image": "http://runnel.ir/ax/logo/SportTV3-Small.png",  
+"url": "http://runnel.ir/tv/tv/sport.tv-3-1.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 4 Portugal",  
+"image": "http://runnel.ir/ax/logo/SportTV4-Small.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=142",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 4 Portugal สำรอง",  
+"image": "http://runnel.ir/ax/logo/SportTV4-Small.png",  
+"url": "http://runnel.ir/tv/tv/sport.tv-4-1.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 5 Portugal",  
+"image": "http://runnel.ir/ax/logo/SportTV5-Small.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=143",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport TV 5 Portugal สำรอง",  
+"image": "http://runnel.ir/ax/logo/SportTV5-Small.png",  
+"url": "http://runnel.ir/tv/tv/sport.tv-5-1.php",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+
+	   
+{
+"name": "Fox Sports 1 USA",  
+"image": "http://runnel.ir/ax/logo/FS1.png",  
+"url": "http://yoursports.stream/ing/fs1",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2 USA",  
+"image": "http://runnel.ir/ax/logo/FS2.png",  
+"url": "http://yoursports.stream/ing/fs2",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports Plus USA",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/FSPlus_New2011.jpg/150px-FSPlus_New2011.jpg",  
+"url": "http://yoursports.stream/ing/fsplus",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports Deportes",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/640px-FOX_Deportes_logo.svg.png",  
+"url": "http://yoursports.stream/ing/fsdeportes",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ESPN USA",  
+"image": "https://prolive.tv/assets/uploads/channel-8.png",  
+"url": "http://yoursports.stream/ing/espn",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN2 USA",  
+"image": "https://prolive.tv/assets/uploads/channel-11.png",  
+"url": "http://yoursports.stream/ing/espn2",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "WWE USA",
+"image": "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "WWE USA สำรอง",  
+"image": "http://www.pngmart.com/files/5/WWE-Logo-PNG-Clipart.png",  
+"url": "https://ustvgo.tv/wwe-network/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fight Sports",  
+"image": "https://image.makewebeasy.net/makeweb/0/HSqZMq6g7/loox_on_tv/FightSportsLogo2x.png",  
+"url": "http://210.210.155.35/session/55b4805a-27ca-11eb-a9ef-8f75bba97a06/uq2663/h/h05/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ROH",  
+"image": "https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png",  
+"url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "COMBAT GO",  
+"image": "https://3.bp.blogspot.com/-2fPNoyz8bAw/XCkpWxcsh4I/AAAAAAAABG4/hPp0JdUE_nsX11S59I0c_hpUy2NEoJj2ACLcBGAs/s400/Combat%2BGo.PNG",  
+"url": "https://combatgo-stirr.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fite TV",  
+"image": "https://i2.wp.com/vpn.review/wp-content/uploads/2018/12/How-to-Watch-Fite-TV-Anywhere-.jpg",  
+"url": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hard Knocks Fighting",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",  
+"url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+
+{
+"name": "Racing.Com แข่งม้า",  
+"image": "https://www.vippng.com/png/full/178-1788672_racing-com-racing-com-logo-png.png",  
+"url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Teletrak.cl แข่งม้า",  
+"image": "https://www.teletrak.cl/imagenes/logo.png",  
+"url": "https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Horse&Country",  
+"image": "https://appcmsprod.viewlift.com/b037179d-e00e-41cf-bc1e-f94f45e39ccf/images/H&C_Logo_Desktop_10280x720.png",  
+"url": "https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Dubai Racing",  
+"image": "https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016-300x225.jpg",  
+"url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports 1",  
+"image": "https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png",  
+"url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/media.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports 2",  
+"image": "https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png",  
+"url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/media.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports 3",  
+"image": "https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png",  
+"url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/media.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "AD Sports 1",  
+"image": "https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports-1.png",  
+"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "AD Sports 2",  
+"image": "https://cdn.sat.tv/wp-content/uploads/2020/11/ADSports-2.png",  
+"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "AD Sports 3",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png",  
+"url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "AD Sports 4",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ad_sport_4.png",  
+"url": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "YAS Sports",  
+"image": "https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports-e1600094421460.png",  
+"url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sharjah Sports",  
+"image": "https://www.parsatv.com/index_files/channels/sharjah.jpg",  
+"url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "M Laliga",  
+"image": "https://adictosalatele.com/logos/laliga.png",  
+"url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live.php/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "M Deportes",  
+"image": "https://adictosalatele.com/logos/deportes.png",  
+"url": "https://adictosalatele.com/TV/deportes/movistar-deportes/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "GOLTV",  
+"image": "https://adictosalatele.com/logos/goltv.png",  
+"url": "https://adictosalatele.com/TV/deportes/goltv/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Univision Deportes",  
+"image": "https://adictosalatele.com/logos/univisiondeportes.png",  
+"url": "https://adictosalatele.com/TV/latinos/univisiondeportes/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TUDN",  
+"image": "https://adictosalatele.com/logos/tudn.png",  
+"url": "https://adictosalatele.com/TV/latinos/tudn/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "TEST CHANNEL",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Future_logo_1_with_tagline_RGB-01.svg/320px-Future_logo_1_with_tagline_RGB-01.svg.png",  
+"url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live.php/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+ 
+
+
+]
+}
