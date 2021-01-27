@@ -1,61 +1,122 @@
-{"name": "ThalangIPTV",
-"author": "HERO Channel",
-"url": "https://app.photobucket.com/u/isatnarok/p/0f6e95e1-729f-4cbb-8d23-df8055fb4c39?mode=slideshow",
-"image": "https://app.photobucket.com/u/isatnarok/p/0f6e95e1-729f-4cbb-8d23-df8055fb4c39?mode=slideshow",
-"contact": "wichaiwut@hotmail.com",
-"info": "",
+{
+"name": "ติดตาม YOUTUBE@แอนดรอยด์แอพฟรี",
+"author": "เขียนโดย@แอนดรอยด์แอพฟรี",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://yamcode.com/raw/o9dQQM2aXy",
+"info": "ขออย่า Copy เพื่อให้เกียรติตนเอง และ ขอขอบคุณ Line Group : Wiseplay Thailand Comunity",
 "groups": [
-{"name": "IPTV",
-"author": "=By isatnarok",
-"image": "https://app.photobucket.com/u/isatnarok/p/0f6e95e1-729f-4cbb-8d23-df8055fb4c39?mode=zoom",
-"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/IPTV"
+
+
+{
+"name": "Thai TV",
+"image": "http://aosat.igetweb.com/article/art_42144142.png",
+"url": "http://tiny.cc/thaidtv",
+"import": false
 },
-{"name": "รวมหนัง",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
-"groups": [
-{"name": "หนังใหม่",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
-"url": "https://dl.dropbox.com/s/0x5sn9xg4hi9i92/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt",
-"import": false},
-{"name": "หนัง",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://media.tenor.com/images/b5c5a96d808f3353f718ccc49e48b6aa/tenor.gif",
-"url": "http://tiny.cc/AMOVIE",
-"import": false},
-{"name": "หนังไทย",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeYi5hPCThLaLnQmiA9aqkgP-1MNcaqN8qw&usqp=CAU",
-"url": "https://pastebin.com/PwrHgrKC",
-"import": false},
-{"name": "การ์ตูน",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeYi5hPCThLaLnQmiA9aqkgP-1MNcaqN8qw&usqp=CAU",
-"url": "http://tiny.cc/ctoon",
-"import": false}
-]
+{
+"name": "Thai Truesports",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "http://tiny.cc/truesportz",
+"import": false
 },
-{"name": "หนัง 3",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://www.pdst.ie/sites/default/files/media_video_icon_anim_500_clr_14142.gif",
-"groups": [
-{"name": "หนังไทย",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJGVWKFZlPJkSFM8gSWDfu5oyZJY_l6vNKA&usqp=CAU",
-"url": "http://tiny.cc/thaimovie",
-"import": false},
-{"name": "หนังต่างประเทศ",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJGVWKFZlPJkSFM8gSWDfu5oyZJY_l6vNKA&usqp=CAU",
-"url": "http://tiny.cc/worldmovie",
-"import": false},
-{"name": "หนังการ์ตูน",
-"author": "=ช่างต่อ ดาวเทียม",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFzQ-eVjTBXlwggzfsWoivQq_b2rw_F60FQ&usqp=CAU",
-"url": "http://tiny.cc/m_cartoons",
-"import": false},
-]
+{
+"name": "World Sports",
+"image": "https://www.freepnglogos.com/uploads/sport-png/sport-kids-hobby-store-shop-for-activity-kits-art-craft-35.png",
+"url": "http://tiny.cc/worldsportz",
+"import": false
 },
+{
+"name": "Documentery",
+"image": "https://cdn3.iconfinder.com/data/icons/landscape-7/128/8-512.png",
+"url": "http://tiny.cc/docuz",
+"import": false
+},
+{
+"name": "Movies&Series",
+"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
+"url": "http://tiny.cc/enterz",
+"import": false
+},
+{
+"name": "Kids World",
+"image": "https://www.pngkey.com/png/full/399-3998494_kids-world-logo-png-transparent-kids-world-logo.png",
+"url": "http://tiny.cc/kidszu",
+"import": false
+},
+{
+"name": "Asean TV",
+"image": "https://logos-download.com/wp-content/uploads/2016/09/Asean_logo_logotype.png",
+"url": "http://tiny.cc/aseantv",
+"import": false
+},
+{
+"name": "World News TV",
+"image": "https://cdn0.iconfinder.com/data/icons/Junior/256/Junior_Icon_04_2.png",
+"url": "http://tiny.cc/worldch",
+"import": false
+},	
+{
+"name": "UK TV",
+"image": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-square-500.png",
+"url": "http://tiny.cc/UKTV",
+"import": false
+},
+{
+"name": "Education On TV",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
+"url": "http://tiny.cc/educationz",
+"import": false
+},
+{
+"name": "World Music TV",
+"image": "https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Cassette-256.png",
+"url": "http://tiny.cc/musiconly",
+"import": false
+},
+{
+"name": "Big Cinema Movies",
+"image": "https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-94-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1otuHdK2VWH6VMqniTRH5sXd2lBbmbPmY",
+"import": false
+},
+{
+"name": "New Inter Movies",
+"image": "https://cdn1.iconfinder.com/data/icons/mixed-long-shadow-1/512/film-512.png",
+"url": "https://docs.google.com/uc?export=download&id=18X_gOhtcXhIZxxGH-bx8cbENRspS42c1",
+"import": false
+},
+{
+"name": "Thai Movies",
+"image":"https://cdn4.iconfinder.com/data/icons/international-circle-flags/480/thailand-thai-asian-country-flag-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1dRLwkqDIV36QxwlDH8ia6DBM47XqbdY_",
+"import": false
+},
+{
+"name": "Animation Movies",
+"image": "https://cdn2.iconfinder.com/data/icons/monster-v-2-1/512/MonsterV2-16-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1H-8f88r3-rk_tQMEpCgy4JRgnQEOOLXU",
+"import": false
+},
+{
+"name": "Horror Movies",
+"image": "https://cdn0.iconfinder.com/data/icons/hallowen_linux/512/Skull.png",
+"url": "https://docs.google.com/uc?export=download&id=1xINu35IUp2hEH9vyONeJTqxF_D1frpCO",
+"import": false
+},
+{
+"name": "My Series +",
+"image": "https://cdn3.iconfinder.com/data/icons/people-activities-scenes/64/flying-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1lYa8blo-BaH0fd43H2DmzFmz-SGYm_sW",
+"import": false
+},
+{
+"name": "123moviesfree",
+"image": "https://techvibe.org/wp-content/uploads/2020/09/123Movies-1.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1X0KB8sMWXOHTjfDSFX1FjZq3ylwDsgOL",
+"import": false
+},
+
+
+		
 ]
 }
