@@ -1,254 +1,446 @@
 {
-"name": "กีฬารอบโลก",
-"author": "By isatnarok",
-"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
-"url": "https://raw.githubusercontent.com/isatnarok/WisePlayGroup/main/SPORT",
+"name": "HERO Channel",
+"author": "HERO Channel",
+"image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ThaiDigitalTV",
+"info": "By isatnarok",
 "stations": [
+	  
 
 {
-"name": "Sky Sports Premiere League",  
-"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+"name": "27 January 2021",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "https://www.facebook.com/isatnarok.djwut/posts/1102594466879962",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL1 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Sky Premiere League สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportpremiere",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Main Event",  
-"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Main Event สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportmainevent",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Football",  
-"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Football สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportfootball",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Action",  
-"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Action สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportaction",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Arena",  
-"image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Cricket",  
-"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Cricket สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportclicket",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports F1",  
-"image": "http://runnel.ir/ax/logo/sky-sports-f1.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Golf",  
-"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Golf สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportgolf",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports Mix",  
-"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Mix สำรอง",  
-"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=skysportmix",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports News",  
-"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports News DE",  
-"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
-"url": "http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports News IT",  
-"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
-"url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sport Bundesliga",  
-"image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports 1 DE",  
-"image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Sports 2 DE",  
-"image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT SPORTS 1",  
-"image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT SPORTS 2",  
-"image": "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT SPORTS 3",  
-"image": "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eurosport 1",  
-"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eurosport 1 สำรอง",  
-"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=231",
+"name": "EPL1 สำรอง 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Eurosport 2",  
-"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+"name": "EPL1 สำรอง 3",
+"image":"https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://stream.warpballsod.tv/epl1.m3u8",
+"referer": "https://www.warpballsod.tv/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Eurosport 2 สำรอง",  
-"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=232",
+"name": "EPL2 สำรอง 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Astro SuperSport",  
-"image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f",
+"name": "EPL2 สำรอง 3",
+"image":"https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://stream.warpballsod.tv/epl2.m3u8",
+"referer": "https://www.warpballsod.tv/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Astro SuperSport 2",  
-"image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f",
+"name": "EPL3 สำรอง 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3 สำรอง 3",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://stream.warpballsod.tv/epl3.m3u8",
+"referer": "https://www.warpballsod.tv/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-4",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Astro SuperSport 3",  
-"image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f",
+"name": "EPL4 สำรอง 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=154",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4 สำรอง 3",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://stream.warpballsod.tv/epl4.m3u8",
+"referer": "https://www.warpballsod.tv/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-5",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Astro SuperSport 4",  
-"image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f",
+"name": "EPL5 สำรอง 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5 สำรอง 3",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://stream.warpballsod.tv/epl5.m3u8",
+"referer": "https://www.warpballsod.tv/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=22",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 2 สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=23",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3 สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=24",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 4 สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=116",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 2",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://we-play.tv/watching/tv/true-sports-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 2 สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=31",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 5",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://ball8k.com/m/ch.php?stream=truesport5",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 5 สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=32",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 6",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://ball8k.com/m/ch.php?stream=truesport6",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 6 สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=33",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 7",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://ball8k.com/m/ch.php?stream=truesport7",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 7 สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=60",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports HD",
+"image": "https://fifa55u.com/images/icon/FOXSportsHD.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports HD สำรอง",
+"image": "https://fifa55u.com/images/icon/FOXSportsHD.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=28",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2",
+"image": "https://fifa55u.com/images/icon/FOXSports2.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-2",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2 สำรอง",
+"image": "https://fifa55u.com/images/icon/FOXSports2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=29",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 3",
+"image": "https://fifa55u.com/images/icon/FOXSports3.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-3",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 3 สำรอง",
+"image": "https://fifa55u.com/images/icon/FOXSports3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=30",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 1 TH",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",
+"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 1 TH สำรอง 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 1 TH สำรอง 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=18",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 TH",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",  
+"url": "https://www.we-play.tv/watching/tv/bein-sports-2",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 TH สำรอง 1",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 TH สำรอง 2",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=19",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Tennis",
+"image": "https://fifa55u.com/images/icon/TrueSportTennis.png",
+"url": "https://we-play.tv/watching/tv/true-tennis",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Tennis สำรอง",
+"image": "https://fifa55u.com/images/icon/TrueSportTennis.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=26",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Golf Channel",
+"image": "https://fifa55u.com/images/icon/GolfChannel.png",
+"url": "https://we-play.tv/watching/tv/golf-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Golf Channel สำรอง",
+"image": "https://fifa55u.com/images/icon/GolfChannel.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=27",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBA TV",
+"image": "https://fifa55u.com/images/icon/nbatvtrue.png",
+"url": "https://we-play.tv/watching/tv/nba-tv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBA TV สำรอง",
+"image": "https://fifa55u.com/images/icon/nbatvtrue.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=25",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NFL Network",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.png",
+"url": "https://we-play.tv/watching/tv/nfl-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Motor Vision",
+"image": "https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
+"url": "https://we-play.tv/watching/tv/motor-vision",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3BB SPORTS 1",
+"image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
+"url": "https://we-play.tv/watching/tv/3bb-sports-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "T Sports",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "T Sports สำรอง1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=189",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{ 
+"name": "T Sports สำรอง2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=444",
+"referer": "https://www.fwiptv.cc/",
 "playInNatPlayer": "true"
 },
 
 
 
-
-{
-"name": "Bein Sports 1 AR",  
-"image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 2 AR",  
-"image": "http://runnel.ir/ax/logo/beIN2-Small.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
+]
+}
