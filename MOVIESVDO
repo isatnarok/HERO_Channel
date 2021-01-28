@@ -32,6 +32,12 @@
 "url": "https://player.vimeo.com/external/505585734.m3u8?s=f6448a30ceffd33e52d175a64ad8b30e14f27402",
 "playInNatPlayer": "true"
 },
+{
+"name": "Mulan มู่หลาน (2020)",  
+"image": "https://upload.wikimedia.org/wikipedia/th/d/d9/Mulan_%282020_film%29.jpeg",
+"url": "https://cdn-edge-sg3.iptv4k.tv/play/f65cd5a922bba3cb22d2e05eee9bcdf8/bb4017bb4db639454eb5daa4b2b27904/1611855301/playlist.m3u8",
+"playInNatPlayer": "true"
+},
 
 
 ]
