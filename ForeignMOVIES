@@ -1,8 +1,8 @@
 {
 "name": "HERO Channel",
-"author": "HERO Channel MOVIES VDO",
+"author": "HERO Channel Foreign MOVIES",
 "image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/MOVIESVDO",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ForeignMOVIES",
 "info": "By isatnarok",
 "stations": [
 	
@@ -30,18 +30,6 @@
 "name": "The Matrix Revolutions (2003)",  
 "image": "https://upload.wikimedia.org/wikipedia/en/3/34/Matrix_revolutions_ver7.jpg",
 "url": "https://player.vimeo.com/external/505585734.m3u8?s=f6448a30ceffd33e52d175a64ad8b30e14f27402",
-"playInNatPlayer": "true"
-},
-{
-"name": "Mulan มู่หลาน (2020)",  
-"image": "https://upload.wikimedia.org/wikipedia/th/d/d9/Mulan_%282020_film%29.jpeg",
-"url": "https://cdn-edge-sg3.iptv4k.tv/play/f65cd5a922bba3cb22d2e05eee9bcdf8/5e7df023050a3660d91baf94a36f514a/1611897402/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Mulan มู่หลาน (2020) สำรอง",  
-"image": "https://upload.wikimedia.org/wikipedia/th/d/d9/Mulan_%282020_film%29.jpeg",
-"url": "https://p2p.nazeemovie.com/files/eacf58b37bac02c3039250116f9df0d7_720p.mp4.m3u8",
 "playInNatPlayer": "true"
 },
 {
