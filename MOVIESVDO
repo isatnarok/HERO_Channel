@@ -38,7 +38,12 @@
 "url": "https://cdn-edge-sg3.iptv4k.tv/play/f65cd5a922bba3cb22d2e05eee9bcdf8/5e7df023050a3660d91baf94a36f514a/1611897402/playlist.m3u8",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Wonder Woman 1984",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gal_Gadot_at_the_2018_Comic-Con_International_2_%28cropped%29.jpg",
+"url": "https://cdn.jwplayer.com/manifests/6THDoPSQ.m3u8",
+"playInNatPlayer": "true"
+},
 
 ]
 }
