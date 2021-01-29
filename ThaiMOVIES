@@ -1,0 +1,55 @@
+{
+"name": "HERO Channel",
+"author": "HERO Channel Thai MOVIES",
+"image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/MOVIESVDO",
+"info": "By isatnarok",
+"stations": [
+	
+
+
+{
+"name": "27 January 2021 by isatnarok",  
+"image": "https://www.img.in.th/images/51241cd226c1da700b7e12ec6c2c728d.gif",  
+"url": "https://www.facebook.com/isatnarok.djwut/posts/1102594466879962"
+},
+
+{
+"name": "The Matrix (1999)",  
+"image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+"url": "https://player.vimeo.com/external/505564002.m3u8?s=86267deb298d3449ad01acda35e8c480dae4a493",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Reloaded (2003)",  
+"image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg",
+"url": "https://player.vimeo.com/external/505575875.m3u8?s=4038d51683751861b1c0c48c3a5e178ae630c4cd",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Revolutions (2003)",  
+"image": "https://upload.wikimedia.org/wikipedia/en/3/34/Matrix_revolutions_ver7.jpg",
+"url": "https://player.vimeo.com/external/505585734.m3u8?s=f6448a30ceffd33e52d175a64ad8b30e14f27402",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mulan มู่หลาน (2020)",  
+"image": "https://upload.wikimedia.org/wikipedia/th/d/d9/Mulan_%282020_film%29.jpeg",
+"url": "https://cdn-edge-sg3.iptv4k.tv/play/f65cd5a922bba3cb22d2e05eee9bcdf8/5e7df023050a3660d91baf94a36f514a/1611897402/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mulan มู่หลาน (2020) สำรอง",  
+"image": "https://upload.wikimedia.org/wikipedia/th/d/d9/Mulan_%282020_film%29.jpeg",
+"url": "https://p2p.nazeemovie.com/files/eacf58b37bac02c3039250116f9df0d7_720p.mp4.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Wonder Woman 1984",  
+"image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Wonder_Woman_1984.png",
+"url": "https://cdn.jwplayer.com/manifests/6THDoPSQ.m3u8",
+"playInNatPlayer": "true"
+},
+
+]
+}
