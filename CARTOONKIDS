@@ -17,7 +17,7 @@
 
 {
 "name": "Cartoon Club",  
-"image": "https://www.we-play.tv//uploads/posters/cartoon-club-poster1602706088.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",  
 "url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
 "playInNatPlayer": "true"
 },
@@ -60,35 +60,35 @@
 
 {
 "name": "Aniplus",  
-"image": "https://www.we-play.tv//uploads/posters/aniplus-poster1602706016.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png",  
 "url": "https://we-play.tv/watching/tv/aniplus",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Cartoon Network",  
-"image": "https://www.we-play.tv//uploads/posters/cartoon-network-poster1602706122.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",  
 "url": "https://we-play.tv/watching/tv/cartoon-network",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Nickelodeon",  
-"image": "https://www.we-play.tv//uploads/posters/nickelodeon-poster1602706197.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",  
 "url": "https://we-play.tv/watching/tv/nickelodeon",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Baby TV",  
-"image": "https://www.we-play.tv//uploads/posters/babytv-poster1602706049.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",  
 "url": "https://we-play.tv/watching/tv/babytv",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "True Spark Jump",  
-"image": "https://www.we-play.tv//uploads/posters/true-spark-jump-poster1602706225.jpeg",  
+"image": "https://www.img.in.th/images/a8d3aa636a1d4602f4e827fdbda72287.png",  
 "url": "https://we-play.tv/watching/tv/true-spark-jump",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
