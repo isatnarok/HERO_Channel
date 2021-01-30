@@ -95,21 +95,21 @@
 },
 {
 "name": "True Spark Play",  
-"image": "https://www.we-play.tv//uploads/posters/true-spark-play-poster1602706254.jpeg",  
+"image": "https://www.img.in.th/images/0bedacb6176575eb910c792abdafdd3a.png",  
 "url": "https://we-play.tv/watching/tv/true-spark-play",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Disney Channel TH",  
-"image": "https://www.we-play.tv//uploads/posters/disney-channel-poster1604392009.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",  
 "url": "https://we-play.tv/watching/tv/disney-channel",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Disney Channel TH สำรอง",  
-"image": "https://www.we-play.tv//uploads/posters/disney-channel-poster1604392009.jpeg",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",  
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=86",
 "playInNatPlayer": "true"
 },
