@@ -2,16 +2,9 @@
 "name": "HERO Channel",
 "author": "HERO Channel SERIES MOVIES",
 "image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/MOVIESVDO",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/SeriesMovies",
 "info": "By isatnarok",
 "groups": [
-
-{
-"name": "SERIES MOVIES",
-"image": "https://www.img.in.th/images/c077b5e31679038f880d2ef8a4b95545.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ThaiMOVIES",
-"import": false
-},
 
 {
 "name": "INTER SERIES",
