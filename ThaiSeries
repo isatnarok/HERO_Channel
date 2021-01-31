@@ -4,8 +4,7 @@
 "image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ThaiSeries",
 "info": "By isatnarok",
-"stations": [
-	
+"groups": [
 
 {
 "name": "27 January 2021 by isatnarok",  
@@ -13,9 +12,6 @@
 "url": "https://www.facebook.com/isatnarok.djwut/posts/1102594466879962"
 },
 
-#=================================================== Close Stations======================================================================
-
-"groups": [
 
 {
 "name": "voice ล่าเสียงมรณะ",
