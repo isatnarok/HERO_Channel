@@ -48,6 +48,13 @@
 },
 
 {
+"name": "US255 byisanarok",
+"image": "https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1948.png",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/US255_byisanarok.m3u",
+"import": false
+},
+
+{
 "name": "Adult 18+",
 "image": "https://www.img.in.th/images/308f6b2c4737ef24fe96e37ff30690d6.gif",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/IPTV_adult",
