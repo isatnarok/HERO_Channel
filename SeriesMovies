@@ -7,6 +7,13 @@
 "groups": [
 
 {
+"name": "THAI SERIES",
+"image": "https://user-images.githubusercontent.com/50719456/106382568-0bbbec80-63f3-11eb-9943-003e37515b60.gif",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ThaiSeries",
+"import": false
+},
+
+{
 "name": "INTER SERIES",
 "image": "https://user-images.githubusercontent.com/50719456/106382161-699b0500-63f0-11eb-9d6a-c2bc92ead310.gif",
 "url": "",
@@ -31,13 +38,6 @@
 "name": "JAPAN SERIES",
 "image": "https://user-images.githubusercontent.com/50719456/106382530-c4cdf700-63f2-11eb-83de-39e27960978a.gif",
 "url": "",
-"import": false
-},
-
-{
-"name": "THAI SERIES",
-"image": "https://user-images.githubusercontent.com/50719456/106382568-0bbbec80-63f3-11eb-9943-003e37515b60.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ThaiSeries",
 "import": false
 },
 
