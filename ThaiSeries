@@ -4,13 +4,22 @@
 "image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/ThaiSeries",
 "info": "By isatnarok",
-"groups": [
+"stations": [
+	
 
 {
 "name": "27 January 2021 by isatnarok",  
 "image": "https://user-images.githubusercontent.com/50719456/106382568-0bbbec80-63f3-11eb-9943-003e37515b60.gif",  
 "url": "https://www.facebook.com/isatnarok.djwut/posts/1102594466879962"
 },
+
+]
+}
+
+#=================================================== Close Stations======================================================================
+
+"groups": [
+
 {
 "name": "voice ล่าเสียงมรณะ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZj3oyNco7dceKyiU6oF4lJrPzFhfq2VUEMQ&usqp=CAU",
