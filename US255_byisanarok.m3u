@@ -3,7 +3,7 @@
 #EXTINF:-1,5USA HD by isatnarok
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 
-#EXTINF:-1,BBC AME HD (ENG)
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/d96edb94eb369ba4fb701b987fb8b333.png",BBC AME HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
 
 #EXTINF:-1,Bravo (ENG)
