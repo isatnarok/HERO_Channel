@@ -6,7 +6,6 @@
 "info": "By isatnarok",
 "groups": [
 
-
 {
 "name": "Thai Digital TV",
 "image": "https://www.img.in.th/images/e001b8b7001a07fea530745c9f5df399.gif",
@@ -25,44 +24,36 @@
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/WORLDSPORTS",
 "import": false
 },
-
 {
 "name": "NEWS LIVE",
 "image": "https://user-images.githubusercontent.com/50719456/106423007-2c874f00-6492-11eb-821a-6282a828c833.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/WORLDSPORTS",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/NewsLive",
 "import": false
 },
-
-
-
 {
 "name": "Cartoon Kids",
 "image": "https://www.img.in.th/images/803dbaf24d8aa0c763cf648bc8ce4707.gif",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/CARTOONKIDS",
 "import": false
 },
-
 {
 "name": "MOVIES VDO",
 "image": "https://www.img.in.th/images/51241cd226c1da700b7e12ec6c2c728d.gif",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/MOVIESVDO",
 "import": false
 },
-
 {
 "name": "SERIES MOVIES",
 "image": "https://www.img.in.th/images/c077b5e31679038f880d2ef8a4b95545.gif",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/SeriesMovies",
 "import": false
 },
-
 {
 "name": "US255 byisanarok",
 "image": "https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1948.png",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/US255_byisanarok.m3u",
 "import": false
 },
-
 {
 "name": "Adult 18+",
 "image": "https://www.img.in.th/images/308f6b2c4737ef24fe96e37ff30690d6.gif",
