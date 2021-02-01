@@ -27,6 +27,15 @@
 },
 
 {
+"name": "NEWS LIVE",
+"image": "https://user-images.githubusercontent.com/50719456/106423007-2c874f00-6492-11eb-821a-6282a828c833.gif",
+"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/WORLDSPORTS",
+"import": false
+},
+
+
+
+{
 "name": "Cartoon Kids",
 "image": "https://www.img.in.th/images/803dbaf24d8aa0c763cf648bc8ce4707.gif",
 "url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/CARTOONKIDS",
