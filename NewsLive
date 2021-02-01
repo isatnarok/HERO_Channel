@@ -16,7 +16,7 @@
 
 { 
 "name": "CNN HD",
-"image": "https://en.wikipedia.org/wiki/CNN#/media/File:CNN.svg",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",
 "url": "http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
