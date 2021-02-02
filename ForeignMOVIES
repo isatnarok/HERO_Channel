@@ -44,6 +44,13 @@
 "url": "https://cdn.jwplayer.com/manifests/6THDoPSQ.m3u8",
 "playInNatPlayer": "true"
 },
+{
+"name": "Titanic ไททานิค (1997)",  
+"image": "https://upload.wikimedia.org/wikipedia/th/8/84/Titanicposter.jpg",
+"url": "https://cache-movie.all-movie.tv/hls/content/nas01/movie/eng/chunklist_wmeng1202.MP4/index.m3u8?st=FgbvGTyYsD6C6kSLEnY_zw&e=1610987229&u=AllMovie&fbclid=IwAR01EFLcGQ6ZPBlhseSwllK6sbFgzmkMfeptmale6Hn649LOMgXCJjQVUGk",
+"playInNatPlayer": "true"
+},
+
 
 ]
 }
