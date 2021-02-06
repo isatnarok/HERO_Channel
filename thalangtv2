@@ -1,385 +1,86 @@
 #EXTM3U
-#EXTINF:-1,5 HD
-https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8
-#EXTINF:-1,NBT HD
-https://cdn6.goprimetime.info//feed//chnbt//index.m3u8
-#EXTINF:-1,THAIPBS
-https://cdn6.goprimetime.info//feed//chthaipbs//index.m3u8
-#EXTINF:-1,TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1,TNN16
-https://cdn6.goprimetime.info//feed//chtnn//index.m3u8
-#EXTINF:-1 ,NEW TV
-https://www.livedoomovies.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1,NATION TV
-https://cdn6.goprimetime.info//feed//chnation//index.m3u8
-#EXTINF:-1,WORKPOINT
-https://cdn6.goprimetime.info//feed//chworkpoint//index.m3u8
-#EXTINF:-1 ,TRUE4U
-https://cdn6.goprimetime.info//feed//chtrue4u//index.m3u8
-#EXTINF:-1,GMM25
-https://cdn6.goprimetime.info//feed//chgmm//index.m3u8
-#EXTINF:-1,CH8
-https://cdn6.goprimetime.info//feed//ch8//index.m3u8
-#EXTINF:-1,MONO29 HD
-https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
-#EXTINF:-1,MCOT HD
-https://cdn6.goprimetime.info//feed//chmcothd//index.m3u8
-#EXTINF:-1,ONE HD
-https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
-#EXTINF:-1,THAIRATH HD
-https://cdn6.goprimetime.info//feed//chthairath//index.m3u8
-#EXTINF:-1,3 HD
-https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8
-#EXTINF:-1,AMARIN HD
-https://cdn6.goprimetime.info//feed//chamarin//index.m3u8
-#EXTINF:-1,7 HD
-https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
-#EXTINF:-1,PPTV HD 
-https://cdn6.goprimetime.info//feed//chpptvhd//index.m3u8
-#EXTINF:-1,NEWS1
-https://www.livedoomovie.com/02_NEWS1_480p/chunklist.m3u8
-#EXTINF:-1,ฟ้าวันใหม่
-https://www.livedoomovie.com/02_ADintrend_TV_720p/chunklist.m3u8
-#EXTINF:-1,JKN
-https://cdn6.goprimetime.info/feed/LC24/index.m3u8
-EXTINF:-1,Style HD
-https://cdn6.goprimetime.info/feed/LC25/index.m3u8
-#EXTINF:-1,Nick Jr
-https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
-#EXTINF:-1,TOONEE
-https://cdn6.goprimetime.info/feed/LC23/index.m3u8 
-#EXTINF:-1,BOOMERANG
-https://laos-tech-live.b-cdn.net/sd-boomerang_480/index.m3u8 
-#EXTINF:-1,Cartoon Network
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1,DisneyXD
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1,DISNEYXD1
-https://doofootball.livestream-cdn.com/iptv/hd-disneyxd.stream/chunks.m3u8
-#EXTINF:-1,True Spark Jump
-https://laos-tech-live.b-cdn.net/sd-sparkjump_480/index.m3u8
-#EXTINF:-1,SPARKJUMP
-https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/chunks.m3u8
-#EXTINF:-1,True Spark Play
-https://laos-tech-live.b-cdn.net/sd-sparkplay_480/index.m3u8
-#EXTINF:-1,True Spark Play
-https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/chunks.m3u8
-EXTINF:-1,Nickelodeon
-http://196.52.105.132/a-play/nickelodeon1.php
-#EXTINF:-1,Nick Jr
-https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
-#EXTINF:-1,Kidzone
-http://213.252.252.17/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
-#EXTINF:-1,Gang Cartoon
-https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
-#EXTINF:-1,Baby TV
-http://196.52.105.132/a-play/babytv1.php
-#EXTINF:-1,ANIMAX
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1,Animax Thai
-https://cdn6.goprimetime.info/feed/LC38/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ANIMAX
-https://cdn6.goprimetime.info/feed/LC38/index.m3u8
-#EXTINF:-1,EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1, Nick Hindi
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8
-#EXTINF:-1, Masranga Tv
-http://103.121.39.246:1935/live/test/test1/1.m3u8
-#EXTINF:-1,TV5MONDE
-https://cdn6.goprimetime.info/feed/LC10/index.m3u8
-#EXTINF:-1,ZeeNung
-https://cdn6.goprimetime.info/feed/LC5/index.m3u8
-#EXTINF:-1, ZEECINEMA
-http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
-#EXTINF:-1, StarMovies_SELECT_HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
-#EXTINF:-1, Sony Max HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
-#EXTINF:-1, Ten sport
-http://45.127.244.7:8080/hls/channel5.m3u8
-#EXTINF:-1, UTV HINDI
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:-1, Sony Six
-http://208.115.215.42/Sony_SIx_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Star Gold HD
-http://208.115.215.42/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Sony Sab HD
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Senook Movies
-https://cdn6.goprimetime.info/feed/LC53/index.m3u8
-#EXTINF:-1,TVN
-https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
-#EXTINF:-1,Comedy Central
-https://laos-tech-live.b-cdn.net/hd-comedycentral_720/index.m3u8
-#EXTINF:-1,Film HD
-https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
-#EXTINF:-1,Film HD 2
-https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
-#EXTINF:-1,TVB
-http://ip2121.com:8081/live/TVB/chunks.m3u8
-#EXTINF:-1,FOX​ THAI
-https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
-#EXTINF:-1,Fox Family Movies
-https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
-#EXTINF:-1,Fox Movies Premium (TH)
-https://laos-tech-live.b-cdn.net/hd-foxpremium_720/index.m3u8
-#EXTINF:-1,Fox Action Movies (TH)
-https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8 
-#EXTINF:-1,AXN HD
-https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
-#EXTINF:-1,Warner TV (HD)
-https://cdn6.goprimetime.info/feed/LC28/index.m3u8
-#EXTINF:-1,THAI​ FILM
-https://laos-tech-live.b-cdn.net/sd-thaifilm_480/index.m3u8
-#EXTINF:-1,X-Zyte HD
-https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
-#EXTINF:-1,CCM
-https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8
-#EXTINF:-1,Thrill
-https://cdn6.goprimetime.info/feed/LC26/index.m3u8
-#EXTINF:-1,dizi
-https://cdn6.goprimetime.info/feed/LC31/index.m3u8
-#EXTINF:-1,TVB THAI
-https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8 
-#EXTINF:-1,มังกร​ ทีวี
-https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8 
-#EXTINF:-1,M​ CHANNEL
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8 
-#EXTINF:-1,CHANNEL​ 8
-https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8 
-#EXTINF:-1,CTB​ THAI
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8 
-#EXTINF:-1,Play boy Thailand
-http://61.19.242.134/feed/LC54/index.m3u8
-#EXTINF:-1,GGTN
-https://cdn6.goprimetime.info/feed/LC51/index.m3u8
-#EXTINF:-1,BOX​ FILM
-https://cdn6.goprimetime.info/feed/LC52/index.m3u8 
-#EXTINF:-1,SUN
-https://cdn6.goprimetime.info/feed/LC1/index.m3u8 
-#EXTINF:-1,SAMURAI
-https://cdn6.goprimetime.info/feed/LC2/index.m3u8
-#EXTINF:-1,CHANNEL​ 8
-https://cdn6.goprimetime.info/feed/LC3/index.m3u8
-#EXTINF:-1,ถึงหนุ่มๆทุกคน 2018
-https://cache-edge1.jooxhd.com/hls/content/nas04/mvc/m/inter/To-All-the-Boys-Ive-Loved-Before/To-All-the-Boys-Ive-Loved-Before-T.mp4/index.m3u8
-#EXTINF:-1,ถึงหนุ่มๆทุกคน 2020
-https://cache-edge1.jooxhd.com/hls/content/nas01/mvc/m/inter/To-All-the-Boys-PS-I-Still-Love-You/To-all-the-boys-ps-I-still-love-you-t.mp4/index.m3u8
-#EXTINF:-1,MVLAO
-https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_Fuso_121120.m3u8
-#EXTINF:-1,LaoStar
-https://cdn6.goprimetime.info/feed/LC58/index.m3u8
-#EXTINF:-1,True Music
-https://laos-tech-live.b-cdn.net/sd-tmusic_480/index.m3u8
-#EXTINF:-1,Lookthoongtv
-https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8
-#EXTINF:-1,FANMUSICHD
-https://edge6a.v2h-cdn.com/m2i4/FanTV.stream_720p/playlist_Fuso_121120.m3u8
-#EXTINF:-1,TRUEMUSIC
-https://livedoomovies.com/02_TRUEMUSIC_720p/chunklist_Fuso_121120.m3u8
-#EXTINF:-1,TOP LINE
-https://edge6a.v2h-cdn.com/m2i7/Topline.stream_720p/playlist_Fuso_121120.m3u8
-#EXTINF:-1,Amazing Hi Show
-http://203.154.243.32:8088/live/amazing/index.m3u8
-#EXTINF:-1,True Music
-https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://203.154.177.124:8899/live/ch2/playlist.m3u8
-#EXTINF:-1,Iconcert
-http://191.101.185.84/iconcert.m3u8
-#EXTINF:-1,Channel V China 
-https://cdn6.goprimetime.info/feed/LC14/tracks-v1a1/mono.m3u8
-#EXTINF:-1,City Music 
-https://5592f056abba8.streamlock.net/citytv/citytv/chunklist.m3u8
-#EXTINF:-1,Boxhits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,Retro Music TV
-http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
-#EXTINF:-1,M2oTV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,MTV-china
-http://203.154.177.124:8899/live/ch16/playlist.m3u8
-#EXTINF:-1,MTV-Now
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,PITER PAN TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?
-#EXTINF:-1,Boxhits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,B4Umusic
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(02)/index.m3u8
-#EXTINF:-1,MTV(Latin America)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1,Radiobruno
-http://flash2.streaming.xdevel.com/radiobrunotv/radiobrunotv/chunklist.m3u8
-#EXTINF:-1,Radio Number One
-https://56b50ada2d659.streamlock.net/RN1TV/livestream/chunklist.m3u8
-#EXTINF:-1,Radio Capital
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1,Afrobeats 24/7
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,Radio Deejay
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,OTTO FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
-#EXTINF:-,Radio Birikina
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist.m3u8
-#EXTINF:-1,Radio Piterpan
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
-#EXTINF:-1,51 Radio TV
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Radio Italia TV
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1,Radio Pescara
-https://video2.azotosolutions.com:1936/pescaratv/pescaratv/chunklist_w682681391.m3u8
-#EXTINF:-1,Babestation24
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1,MKTV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1,Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1,PSI สาระดี
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8 
-#EXTINF:-1,สำรวจโลก
-https://cdn6.goprimetime.info/feed/LC8/index.m3u8 
-#EXTINF:-1,JAROEN​ TV
-https://cdn6.goprimetime.info/feed/LC32/index.m3u8 
-#EXTINF:-1,EXP LIFE
-https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8
-#EXTINF:-1,EXP SCI
-https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8
-#EXTINF:-1,EXP WILD
-https://laos-tech-live.b-cdn.net/sd-expwild_480/index.m3u8
-#EXTINF:-1,DISCOVERY
-https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
-#EXTINF:-1,DIS ASIA
+
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png",Nat geo wild
+https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery asia
 https://laos-tech-live.b-cdn.net/hd-discovery_720/index.m3u8
-#EXTINF:-1,HISTORY
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png",Nat Geo Graphic
+https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png",H2
+https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png",History
 https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
-#EXTINF:-1,H2
-https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8 
-#EXTINF:-1,BBC​ EARTH
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC EARTH
 https://laos-tech-live.b-cdn.net/sd-bbcearth_720/index.m3u8
-#EXTINF:-1,BBC Lifestyle
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/gnvmoTi8yhFUyOgmwrBFj5yp71eLvibv8lCIVW36.png",Animai Planet
+https://www.we-play.tv/watching/tv/animal-planet
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png",Discovery
+https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",BBC Lifestyle
 https://laos-tech-live.b-cdn.net/sd-bbclifestyle_720/index.m3u8
-#EXTINF:-1,OUTSIDE
-https://outsidetv-roku-us.amagi.tv/playlist.m3u8 
-#EXTINF:-1,Premier Football HD 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,Premier Football HD 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,Premier Football HD 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1,Premier Football HD 4
+#EXTINF;-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/lAEDRXvIp1nu4NofdGRtGPM8F89Ap4gI5IXmKr5M.png",FOX Thai
+https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
+#EXTINF;-1 group-title="การ์ตูน" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoonnetwork
+https://laos-tech-live.b-cdn.net/sd-cartoonnetwork_480/index.m3u8
+#EXTINF;-1 group-title="การ์ตูน" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney xd
+https://laos-tech-live.b-cdn.net/hd-disneyxd_720/index.m3u8
+#EXTINF;-1 group-title="การ์ตูน" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick JR
+https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
+#EXTINF;-1 group-title="การ์ตูน" tvg-logo="https://www.doofree88.com/storage/live/zbyQCkVPuldER0SC2f4d8VSiWEZW2ZHJiVbAzh8H.png",Boomerang
+https://laos-tech-live.b-cdn.net/sd-boomerang_480/index.m3u8
+#EXTINF;-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
+https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+#EXTINF;-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2
+https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+#EXTINF;-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",Premier HD3
+https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
+#EXTINF;-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png",Premier HD4
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
-#EXTINF:-1,Premier Football HD 5
+#EXTINF;-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",Premier HD5
 https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
-#EXTINF:-1,True​ ​Sport​ HD
-https://laos-tech-live.b-cdn.net/hd-tsport1_720/index.m3u8 
-#EXTINF:-1,True​ ​Sport​ HD2
-https://laos-tech-live.b-cdn.net/hd-tsport2_720/index.m3u8
-#EXTINF:-1,True​ ​Sport​ HD3
-https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8
-#EXTINF:-1,True​ ​Sport​ HD4
-https://laos-tech-live.b-cdn.net/hd-tsport4_720/index.m3u8
-#EXTINF:-1,True​ ​Sport​2
-https://laos-tech-live.b-cdn.net/sd-tsport2_480/index.m3u8
-#EXTINF:-1,True​ ​Sport​5
-https://laos-tech-live.b-cdn.net/sd-tsport5_480/index.m3u8
-#EXTINF:-1,True​ ​Sport​6
-https://laos-tech-live.b-cdn.net/sd-tsport6_480/index.m3u8
-#EXTINF:-1,True​ ​Sport​7
-https://laos-tech-live.b-cdn.net/sd-tsport7_480/index.m3u8
-#EXTINF:-1,BEIN​ SPORT​ 1
-https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8 
-#EXTINF:-1,BEIN​ SPORT​S​ 2
-https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
-#EXTINF:-1,FOX​ SPORTS​ HD
-https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,FOX​ SPORTS​ 2
-https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8
-#EXTINF:-1,FOX​ SPORTS​ 3​
-https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8 
-#EXTINF:-1,astro sports 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,astro sports 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,astro sports 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,astro sports 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1,T Sport
-https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
-#EXTINF:-1,SKY​ SPORT​S PREMIER​
-https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1,SKY​ SPORT​S FOOTBALL​
-https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8
-#EXTINF:-1,Sky Sports F1
-https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1,Sky Sports Arena
-https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1,BT Sport 1 HD
-https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1,BT Sport 2 HD
-https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1,Eurosport
-https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
-#EXTINF:-1,Eurosport 2
-https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
-#EXTINF:-1,CCTV-5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1,MUTV
-https://laos-tech-live.b-cdn.net/uk-mutv_480/index.m3u8
-#EXTINF:-1,LFCTV
-https://laos-tech-live.b-cdn.net/uk-lfctv_480/index.m3u8
-#EXTINF:-1,Golf Channel Thailand
-https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
-#EXTINF:-1,Figth Sport
-https://cdn6.goprimetime.info/feed/LC36/index.m3u8
-#EXTINF:-1,CNN
-http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
-#EXTINF:-1,CNN UK
-http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
-#EXTINF:-1,Euronews
-http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-#EXTINF:-1,Sky News
-https://doofootball.livestream-cdn.com/iptv/uk-skynews.stream/chunks.m3u8
-#EXTINF:-1,BBC World News
-https://doofootball.livestream-cdn.com/iptv/uk-bbcworldnews.stream/chunks.m3u8
-#EXTINF:-1,Fox News
-https://doofootball.livestream-cdn.com/iptv/uk-foxnews.stream/chunks.m3u8
-#EXTINF:-1,FOX Business
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1,France 24
-http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
-#EXTINF:-1,TV5 Monde
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1,TV5 Styleen
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1,TV5 Monde Info
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1,MRTV HD
-https://cdn6.goprimetime.info/feed/LC17/index.m3u8
-#EXTINF:-1,English Club
-https://cdn6.goprimetime.info/feed/LC21/index.m3u8
-#EXTINF:-1,My God Father(2020)
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/My_God_Father_2020/My_God_Father_2020_th_1080p.mp4/playlist.m3u8
-#EXTINF:-1,Sea Fever (2019) HDTV
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Sea_Fever_2019/Sea_Fever_2019_th_1080p.mp4/playlist.m3u8
-#EXTINF:-1,Inheritance (2020) HDTV
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Inheritance_2020/Inheritance_2020_th_1080p.mp4/playlist.m3u8
-#EXTINF:-1,Clara's Ghost (2018) HDTV
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Clara_s_Ghost_2018/Clara_s_Ghost_2018_th_1080p.mp4/playlist.m3u8
-#EXTINF:-1,Crocodile Island (Ju e dao) เกาะจระเข้ยักษ์ (2020) บรรยายไทย
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Crocodile_Island_2020/Crocodile_Island_2020_CN_1080p.mp4/playlist.m3u8
-#EXTINF:-1,Sea Fever (2019) HDTV
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Sea_Fever_2019/Sea_Fever_2019_th_1080p.mp4/playlist.m3u8
-#EXTINF:-1,The Assistant (2019) HDTV
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/The_Assistant_2019/The_Assistant_2019_th_1080p.mp4/playlist.m3u8
-#EXTINF:-1,รถไฟหนู_2021 by isatnarok
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/Rat_Disaster_2021/Rat_Disaster_2021_CN_1080p.mp4/playlist.m3u8
-#EXTINF:-1,he_Last_Shift_2020
-https://lnw-cloud-m-1.fwstream.com/media/_definst_/movie3/The_Last_Shift_2020/The_Last_Shift_2020_th_1080p.mp4/playlist.m3u8
+#EXTINF;-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png",Sport HD
+https://laos-tech-live.b-cdn.net/hd-tsport1_720/index.m3u8
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch1
+http://uotv.gearhostpreview.com/av.php?id=1
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch2
+http://uotv.gearhostpreview.com/av.php?id=2
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch3
+http://uotv.gearhostpreview.com/av.php?id=3
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch4
+http://uotv.gearhostpreview.com/av.php?id=4
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch5
+http://uotv.gearhostpreview.com/av.php?id=5
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch6
+http://uotv.gearhostpreview.com/av.php?id=6
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch7
+http://uotv.gearhostpreview.com/av.php?id=7
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch8
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch9
+http://uotv.gearhostpreview.com/av.php?id=9
+#EXTINF;-1 group-title="olo69" tvg-logo="xxxx",ch10
+http://uotv.gearhostpreview.com/av.php?id=10
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/channel-3-hd.png",CH3HD
+https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/channel-7-hd.png",CH7HD
+https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/mcot-hd.png",CH9HD
+https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/thai-pbs.png",ThaiPBSHD
+https://laos-tech-live.b-cdn.net/hd-tpbs_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/VdCdA3o6UEO6LwuSU4WAMSjtViqxhi2BR6Krpw9x.png",PPtvHD
+https://laos-tech-live.b-cdn.net/hd-pptv_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/63PyzJIPJGbZTNprkXm0TcrccXtDRoMUibFvFtpJ.png",ONE31HD
+https://laos-tech-live.b-cdn.net/hd-gmmone_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/QltWolbnY9MOvm64aL4PVMonVCTX6AEhEcrzkOMk.png",mono29
+https://laos-tech-live.b-cdn.net/hd-mono_480/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",WorkPointHD
+https://laos-tech-live.b-cdn.net/hd-workpoint_480/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/oREFd10o7poRVJoZTMUSxmznVBr8Jx5C5ScEJJDB.png",Amarin34
+https://laos-tech-live.b-cdn.net/hd-amarin_720/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation22
+https://laos-tech-live.b-cdn.net/sd-nation_480/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/jhgUygXRQHVPR6tw6dAzvqX7d2h1nyabBJWqTPXh.png",Gmm25
+https://laos-tech-live.b-cdn.net/sd-gmmchannel_480/index.m3u8
+#EXTINF;-1 group-title="ทีวีดิตอล" tvg-logo="https://www.doofree88.com/storage/live/YyVGrhG8aguH1FMmTRcLiw1FXBkKizwCIefHyENr.png",Thairath tv
+https://laos-tech-live.b-cdn.net/hd-thairath_720/index.m3u8
